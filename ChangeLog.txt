@@ -80,6 +80,12 @@
 - Fixed title and realms logo not being HD
 
 ------------------
+| - Version 1.72 - |
+
+- Added Stream Icons
+- Added Realms Invite Icons
+
+------------------
 | - Version 1.8 - |
 
 - New pack.png image
@@ -87,9 +93,6 @@
 - Added Granite
 - Added Andesite
 - Added Slime Block (Complete/Final Texture)
-- Added Invite Icons in Minecraft Realms
 - Added Difficulty Lock Icons
 - Added Enchantment Table GUI
-- Revamped Stream Icons
 - Revamped Lock buttons
-- Revamped Invite Icons
