@@ -8,4 +8,4 @@ Development version for mullak99's Faithful
 Snapshot Download
 
 - To download the Snapshot version just click "Download ZIP" at the bottom right and it should download the entire branch,
-If you wish you can rename the zip
+If you wish you can rename the zip you can
