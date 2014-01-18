@@ -82,10 +82,14 @@
 ------------------
 | - Version 1.8 - |
 
+- New pack.png image
 - Added Diorite
 - Added Granite
 - Added Andesite
-- Added Slime Block (BETA Texture)
+- Added Slime Block (Complete/Final Texture)
 - Added Invite Icons in Minecraft Realms
 - Added Difficulty Lock Icons
-
+- Added Enchantment Table GUI
+- Revamped Stream Icons
+- Revamped Lock buttons
+- Revamped Invite Icons
