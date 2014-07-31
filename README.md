@@ -1,11 +1,27 @@
 mullak99sFaithful
 =================
 
-Development version for mullak99's Faithful
+LATEST DEVELOPMENT VERSION: v1.74 for Minecraft 1.7.x
+LATEST RECOMMENDED VERSION: v1.74 for Minecraft 1.7.x
+LATEST SNAPSHOT VERSION: v1.8Dev for Minecraft 14w03b
 
-- If you want the normal download for the latest version and not the snapshot go to http://www.minecraftforum.net/topic/1880457-/
 
-Snapshot Download
+Different Directories:
 
-- To download the Snapshot version just click "Download ZIP" at the bottom right and it should download the entire branch,
-If you wish you can rename the zip you can
+- Development -
+
+This directory is where the latest unreleased version of the resourcepack will be. This will be for the latest, non-snapshot/pre-release version of the Minecraft.
+
+- Recommended -
+
+This is not a directory on the Github. This is the version you are able to download from the MinecraftForum page.
+
+- Snapshot -
+
+This directory is where the snapshot-ready version of the resourcepack will be. This will be the latest, snapshot/pre-release version of Minecraft.
+
+- Official Downloads -
+
+The zip files for download.
+
+MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998/
