@@ -8,7 +8,6 @@ LATEST SNAPSHOT VERSION: v1.8Dev for Minecraft 14w03b
 
 Different Directories:
 
-<<<<<<< HEAD
 - Development -
 
 This directory is where the latest unreleased version of the resourcepack will be. This will be for the latest, non-snapshot/pre-release version of the Minecraft.
@@ -26,7 +25,4 @@ This directory is where the snapshot-ready version of the resourcepack will be. 
 The zip files for download.
 
 MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998/
-=======
-- Click "Download as ZIP"
-- Open the zip file and put "mullak99sFaithful-master" into the resourcepack folder
->>>>>>> origin/master
+
