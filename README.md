@@ -2,7 +2,9 @@ mullak99sFaithful
 =================
 
 LATEST DEVELOPMENT VERSION: v1.74 for Minecraft 1.7.x
+
 LATEST RECOMMENDED VERSION: v1.74 for Minecraft 1.7.x
+
 LATEST SNAPSHOT VERSION: v1.8Dev for Minecraft 14w03b
 
 
