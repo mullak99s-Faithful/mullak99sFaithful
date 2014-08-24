@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-=======
+
+=================
 mullak99sFaithful
 =================
 
@@ -7,7 +7,7 @@ LATEST DEVELOPMENT VERSION: v1.74 for Minecraft 1.7.x
 
 LATEST RECOMMENDED VERSION: v1.74 for Minecraft 1.7.x
 
-LATEST SNAPSHOT VERSION: v1.8Dev for Minecraft 14w03b
+LATEST SNAPSHOT VERSION: v1.8 for Minecraft 1.8.x
 
 
 Different Directories:
@@ -30,7 +30,3 @@ The zip files for download.
 
 MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998/
 
-<<<<<<< HEAD
->>>>>>> origin/master
-=======
->>>>>>> origin/master
