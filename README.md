@@ -3,12 +3,11 @@ mullak99sFaithful
 
 LATEST DEVELOPMENT VERSION: v1.74 for Minecraft 1.7.x
 LATEST RECOMMENDED VERSION: v1.74 for Minecraft 1.7.x
-LATEST SNAPSHOT VERSION: v1.8Dev for Minecraft 14w03b
+LATEST SNAPSHOT VERSION: v1.8 for Minecraft v1.8.x
 
 
 Different Directories:
 
-<<<<<<< HEAD
 - Development -
 
 This directory is where the latest unreleased version of the resourcepack will be. This will be for the latest, non-snapshot/pre-release version of the Minecraft.
@@ -29,4 +28,3 @@ MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/re
 =======
 - Click "Download as ZIP"
 - Open the zip file and put "mullak99sFaithful-master" into the resourcepack folder
->>>>>>> origin/master

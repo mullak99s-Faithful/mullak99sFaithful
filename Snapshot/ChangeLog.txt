@@ -91,13 +91,20 @@
 - Changed Lava texture
 
 ------------------
+| - Version 1.74 - |
+
+- Changed some widget icons
+- Centered the Realms Active/Expired server icons
+- Added custom language file
+- [WIP] Connected Textures Stained Glass (NOT ENABLED YET)
+- Stream icons
+- CTM additions 
+- Minor texture changes
+
+------------------
 | - Version 1.8 - |
 
-- New pack.png image
-- Added Diorite
-- Added Granite
-- Added Andesite
-- Added Slime Block (Complete/Final Texture)
-- Added Difficulty Lock Icons
-- Added Enchantment Table GUI
-- Revamped Lock buttons
+- Updated textures to 1.8
+- Tweaked some flower textures
+- Tweaked the nether quartz (Item) texture
+- Disabled animated grass (Was bugged using mipmap)
