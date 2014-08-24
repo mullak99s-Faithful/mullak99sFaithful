@@ -30,4 +30,7 @@ The zip files for download.
 
 MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998/
 
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
