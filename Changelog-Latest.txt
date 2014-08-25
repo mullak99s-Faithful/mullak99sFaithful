@@ -105,6 +105,8 @@
 | - Version 1.75 - |
 
 - Disabled animated grass (Was bugged using mipmap) [Minecraft 1.7.x version of v1.8]
+- Tweaked some flower textures [Minecraft 1.7.x version of v1.8]
+- Tweaked the nether quartz (Item) texture [Minecraft 1.7.x version of v1.8]
 
 ------------------
 | - Version 1.8 - |
