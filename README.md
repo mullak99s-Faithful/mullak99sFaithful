@@ -3,7 +3,7 @@
 mullak99sFaithful
 =================
 
-LATEST DEVELOPMENT VERSION: v1.74 for Minecraft 1.7.x
+LATEST DEVELOPMENT VERSION: v1.75BETA for Minecraft 1.7.x
 
 LATEST RECOMMENDED VERSION: v1.74 for Minecraft 1.7.x
 
@@ -12,19 +12,19 @@ LATEST SNAPSHOT VERSION: v1.8 for Minecraft 1.8.x
 
 Different Directories:
 
-- Development -
+- Development
 
 This directory is where the latest unreleased version of the resourcepack will be. This will be for the latest, non-snapshot/pre-release version of the Minecraft.
 
-- Recommended -
+- Recommended
 
-This is not a directory on the Github. This is the version you are able to download from the MinecraftForum page.
+This directory is the version that is on the MinecraftForum page.
 
 - Snapshot -
 
 This directory is where the snapshot-ready version of the resourcepack will be. This will be the latest, snapshot/pre-release version of Minecraft.
 
-- Official Downloads -
+- Official Downloads
 
 The zip files for download.
 

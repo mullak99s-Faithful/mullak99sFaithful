@@ -100,3 +100,8 @@
 - Stream icons
 - CTM additions 
 - Minor texture changes
+
+------------------
+| - Version 1.75 - |
+
+- Disabled animated grass (Was bugged using mipmap) [Minecraft 1.7.x version of v1.8]
