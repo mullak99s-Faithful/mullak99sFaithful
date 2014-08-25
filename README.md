@@ -20,7 +20,7 @@ This directory is where the latest unreleased version of the resourcepack will b
 
 This directory is the version that is on the MinecraftForum page.
 
-- Snapshot -
+- Snapshot
 
 This directory is where the snapshot-ready version of the resourcepack will be. This will be the latest, snapshot/pre-release version of Minecraft.
 
