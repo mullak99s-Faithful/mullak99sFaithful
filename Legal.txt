@@ -40,11 +40,19 @@ Finally:
 You may
 - Use this resource/texture pack in your videos
 - Use this as a base for your own textures
-- Use these textures in your pack IF you give clear credit and a link to my youtube and this thread
+- Use these textures in your pack IF you give credit
+- Use this pack as a base for a adventure map or server resourcepack (Give credit to me)
 You may not
 - Use my textures if you don't give credit
 - Use your own download link or an adfly (or similar money earning links)
-- Create your own thread of my texture/resource pack without links to my youtube and this thread
+- Create your own thread of my texture/resource pack without credit
+
+How you must give credit
+- If you have a forum page clearly link back to by thread and put my name in the thread
+- Add a text file (Such as 'Credits.txt') to you pack.zip with my name and link to the thread
+
+- You could also put my name in the pack description. *This isnt required* 
+
 
 For any other queries that aren't listed email me at - mullak99@mullak99.co.uk
 
@@ -70,4 +78,4 @@ mullak99's Faithful - http://www.minecraftforum.net/topic/1584530-/
 
 ----------------------------------------------------------------------------------------------------------------
 
-~ © - mullak99 ~
+~ Â© - mullak99 ~
