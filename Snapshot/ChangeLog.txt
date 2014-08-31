@@ -108,3 +108,5 @@
 - Tweaked some flower textures
 - Tweaked the nether quartz (Item) texture
 - Disabled animated grass (Was bugged using mipmap)
+- New Anvil GUI
+- New Achivement GUI
