@@ -113,10 +113,21 @@
 
 - Added 1.8 Block textures
 - Added 1.8 Item textures
+- Added 1.8 Rabbit textures
 - Added Spectator Widgets
 - Added Server Selection Widgets
+- Added Connected Textures for Polished Andesite, Diorite and Granite (Unfinished and No CTM avalible yet)
 - Tweaked some flower textures
 - Tweaked the nether quartz (Item) texture
 - Disabled animated grass (Was bugged using mipmap)
 - New Anvil GUI
 - New Achivement GUI
+- Changed Boss Health Bar Colour
+- Changed Exp Bar Colour
+- Changed Ping Level (Old 'X' Connection)
+- Changed Exp Bottle to a splash potion variant
+- Changed Painting Item to have a painting on it
+- Changed Food Icon for hotbar
+- Changed Dropper texture (dropper_front_horizontal)
+- Changed Minecraft Realms On/Off buttons
+- Darkened Grass and Foliage colour

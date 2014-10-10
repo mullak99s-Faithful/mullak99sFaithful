@@ -3,11 +3,11 @@
 mullak99sFaithful
 =================
 
-LATEST DEVELOPMENT VERSION: v1.75BETA for Minecraft 1.7.x
+LATEST DEVELOPMENT VERSION: v1.8Pre for Minecraft 1.8.x
 
 LATEST RECOMMENDED VERSION: v1.74 for Minecraft 1.7.x
 
-LATEST SNAPSHOT VERSION: v1.8 for Minecraft 1.8.x
+LATEST SNAPSHOT VERSION: ~NO NEW SNAPSHOTS FOR MINECRAFT ATM~
 
 
 Different Directories:
