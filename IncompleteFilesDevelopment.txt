@@ -1,0 +1,4 @@
+-| v1.9-15w31c-R1 |-
+
+- Compass texture not fixed
+- Clock texture not fixes
