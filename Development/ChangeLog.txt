@@ -131,3 +131,13 @@
 - Changed Dropper texture (dropper_front_horizontal)
 - Changed Minecraft Realms On/Off buttons
 - Darkened Grass and Foliage colour
+- Lower fire_layer
+- New Emerald Block texture
+
+------------------
+| - Version 1.9 - |
+
+- Added 1.9 Block textures
+- Added 1.9 Item textures
+- Updated to 1.9 GUI (Dual wielding slots, More Boss Mob health bars, etc.)
+

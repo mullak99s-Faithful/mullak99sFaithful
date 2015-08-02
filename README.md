@@ -3,12 +3,9 @@
 mullak99sFaithful
 =================
 
-LATEST DEVELOPMENT VERSION: v1.8Pre for Minecraft 1.8.x
+LATEST DEVELOPMENT VERSION: v1.9-15w31c-R1 for Minecraft 15w31c
 
-LATEST RECOMMENDED VERSION: v1.74 for Minecraft 1.7.x
-
-LATEST SNAPSHOT VERSION: ~NO NEW SNAPSHOTS FOR MINECRAFT ATM~
-
+LATEST RECOMMENDED VERSION: v1.8 for Minecraft 1.8.x
 
 Different Directories:
 
@@ -18,11 +15,7 @@ This directory is where the latest unreleased version of the resourcepack will b
 
 - Recommended
 
-This directory is the version that is on the MinecraftForum page.
-
-- Snapshot
-
-This directory is where the snapshot-ready version of the resourcepack will be. This will be the latest, snapshot/pre-release version of Minecraft.
+This directory is the version that is on the MinecraftForum page. Generally for the latest Minecraft full build.
 
 - Official Downloads
 
