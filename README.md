@@ -3,9 +3,9 @@
 mullak99sFaithful
 =================
 
-RECOMMENDED VERSION: v1.8 for Minecraft 1.8.x
+RECOMMENDED VERSION: v1.9 for Minecraft 1.9.x
 
-LATEST VERSION: v1.9-Pre1 for Minecraft 1.9.x
+LATEST VERSION: v1.9 for Minecraft 1.9.x
 
 Different Directories:
 
