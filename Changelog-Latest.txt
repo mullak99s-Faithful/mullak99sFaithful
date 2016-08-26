@@ -143,3 +143,17 @@
 - Updated to 1.9 GUI (Dual wielding slots, More Boss Mob health bars, etc.)
 - Reverted Villager skins to the original large-nosed counterparts
 
+------------------
+| - Version 1.10 - |
+
+- Added 1.10 Block textures
+- Added 1.10 Item textures
+- Added 1.10 Entity textures
+- Added Realms GUI textures
+- Added more CTM
+- Added new blockstates
+- Added missing Alex texture
+- Tweaked Brewing GUI
+- Tweaked Bow textures
+- Tweaked Normal/Spectral/Tipped Arrow Entity textures
+- Tweaked Hunger Bar textures
