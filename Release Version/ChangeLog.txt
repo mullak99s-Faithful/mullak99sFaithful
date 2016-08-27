@@ -109,6 +109,25 @@
 - Tweaked the nether quartz (Item) texture [Minecraft 1.7.x version of v1.8]
 
 ------------------
+| - Version 1.76 - |
+
+- New Achivement GUI [Minecraft 1.7.x version of v1.8]
+- Changed Exp Bar Colour [Minecraft 1.7.x version of v1.8]
+- New Anvil GUI [Minecraft 1.7.x version of v1.8]
+- Darkened Grass and Foliage colour [Minecraft 1.7.x version of v1.8]
+- New Emerald Block texture [Minecraft 1.7.x version of v1.8]
+- Lower fire_layer [Minecraft 1.7.x version of v1.8]
+- Changed Furnace GUI [Minecraft 1.7.x version of v1.8]
+- Changed Ping Level (Old 'X' Connection) [Minecraft 1.7.x version of v1.8]
+- Changed Exp Bottle to a splash potion variant [Minecraft 1.7.x version of v1.8]
+- Reverted Villager skins to the original large-nosed counterparts [Minecraft 1.7.x version of v1.9]
+- Tweaked Bow textures [Minecraft 1.7.x version of v1.10]
+- Tweaked Arrow Entity textures [Minecraft 1.7.x version of v1.10]
+- Updated CTM [Minecraft 1.7.x version of v1.10]
+- Tweaked Hunger Bar textures [Minecraft 1.7.x version of v1.10]
+- Changed Dropper texture (dropper_front_horizontal) [Minecraft 1.7.x version of v1.10]
+
+------------------
 | - Version 1.8 - |
 
 - Added 1.8 Block textures
@@ -157,3 +176,9 @@
 - Tweaked Bow textures
 - Tweaked Normal/Spectral/Tipped Arrow Entity textures
 - Tweaked Hunger Bar textures
+
+------------------
+| - Version 1.101 - |
+
+- Actually added new blockstates
+- Added custom models
