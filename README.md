@@ -3,7 +3,11 @@
 mullak99sFaithful
 =================
 
+<<<<<<< HEAD
 RECOMMENDED VERSION: v1.102 for Minecraft 1.10.x
+=======
+RECOMMENDED VERSION: v1.101 for Minecraft 1.10.x
+>>>>>>> origin/master
 
 LATEST VERSION: (Recommended Version)
 
