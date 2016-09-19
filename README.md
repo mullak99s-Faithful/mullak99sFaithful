@@ -3,7 +3,7 @@
 mullak99sFaithful
 =================
 
-RECOMMENDED VERSION: v1.10 for Minecraft 1.10.x
+RECOMMENDED VERSION: v1.102 for Minecraft 1.10.x
 
 LATEST VERSION: (Recommended Version)
 
