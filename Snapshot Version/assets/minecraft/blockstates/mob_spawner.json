@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "mob_spawner_cage" },
+            { "model": "mob_spawner_cage/0" },
+            { "model": "mob_spawner_cage/1" },
+            { "model": "mob_spawner_cage/2" }
+        ]
+    }
+}

@@ -1,3 +1,10 @@
 -| v1.102 |-
 
 - Nothing yet...
+
+-| v1.11-GITHUBBUILD |-
+
+- Add transparant GUI's to Anvil, Beacon, Enchanting Table, Villager Trading (and possibly Creative Inventory?)
+- Add new Vindicator Mob textures
+- Add new Evoker Mob textures
+- Add new Vex Mob textures

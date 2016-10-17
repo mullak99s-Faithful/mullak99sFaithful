@@ -188,3 +188,14 @@
 
 - Fixed bugged CTM textures
 - Fixed Inventory GUI
+
+------------------
+| - Version 1.11 - |
+
+- Added 1.11 Block textures
+- Added 1.11 Item textures
+- Added 1.11 Entity textures
+- Added 1.11 GUI textures
+- Compressed many sprites, including the pack.png (Reduced the overall size of the resourcepack)
+- Changed Brewing Stand GUI so it is transparant (Similar to the Chest)
+

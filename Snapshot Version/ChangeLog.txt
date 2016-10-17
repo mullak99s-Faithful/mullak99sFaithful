@@ -109,6 +109,25 @@
 - Tweaked the nether quartz (Item) texture [Minecraft 1.7.x version of v1.8]
 
 ------------------
+| - Version 1.76 - |
+
+- New Achivement GUI [Minecraft 1.7.x version of v1.8]
+- Changed Exp Bar Colour [Minecraft 1.7.x version of v1.8]
+- New Anvil GUI [Minecraft 1.7.x version of v1.8]
+- Darkened Grass and Foliage colour [Minecraft 1.7.x version of v1.8]
+- New Emerald Block texture [Minecraft 1.7.x version of v1.8]
+- Lower fire_layer [Minecraft 1.7.x version of v1.8]
+- Changed Furnace GUI [Minecraft 1.7.x version of v1.8]
+- Changed Ping Level (Old 'X' Connection) [Minecraft 1.7.x version of v1.8]
+- Changed Exp Bottle to a splash potion variant [Minecraft 1.7.x version of v1.8]
+- Reverted Villager skins to the original large-nosed counterparts [Minecraft 1.7.x version of v1.9]
+- Tweaked Bow textures [Minecraft 1.7.x version of v1.10]
+- Tweaked Arrow Entity textures [Minecraft 1.7.x version of v1.10]
+- Updated CTM [Minecraft 1.7.x version of v1.10]
+- Tweaked Hunger Bar textures [Minecraft 1.7.x version of v1.10]
+- Changed Dropper texture (dropper_front_horizontal) [Minecraft 1.7.x version of v1.10]
+
+------------------
 | - Version 1.8 - |
 
 - Added 1.8 Block textures
@@ -139,6 +158,44 @@
 
 - Added 1.9 Block textures
 - Added 1.9 Item textures
+- Added 1.9 Entity textures
 - Updated to 1.9 GUI (Dual wielding slots, More Boss Mob health bars, etc.)
 - Reverted Villager skins to the original large-nosed counterparts
+
+------------------
+| - Version 1.10 - |
+
+- Added 1.10 Block textures
+- Added 1.10 Item textures
+- Added 1.10 Entity textures
+- Added Realms GUI textures
+- Added more CTM
+- Added new blockstates
+- Added missing Alex texture
+- Tweaked Brewing GUI
+- Tweaked Bow textures
+- Tweaked Normal/Spectral/Tipped Arrow Entity textures
+- Tweaked Hunger Bar textures
+
+------------------
+| - Version 1.101 - |
+
+- Actually added new blockstates
+- Added custom models
+
+------------------
+| - Version 1.102 - |
+
+- Fixed bugged CTM textures
+- Fixed Inventory GUI
+
+------------------
+| - Version 1.11 - |
+
+- Added 1.11 Block textures
+- Added 1.11 Item textures
+- Added 1.11 Entity textures
+- Added 1.11 GUI textures
+- Compressed many sprites, including the pack.png (Reduced the overall size of the resourcepack)
+- Changed Brewing Stand GUI so it is transparant (Similar to the Chest)
 

@@ -3,9 +3,9 @@
 mullak99sFaithful
 =================
 
-RECOMMENDED VERSION: v1.102 for Minecraft 1.10.x
+RECOMMENDED VERSION: (Release Version) v1.102 for Minecraft 1.10.x
 
-LATEST VERSION: (Recommended Version)
+LATEST VERSION: (Snapshot Version) v1.11-GITHUBBUILD for Minecraft 1.11.x (16w41a)
 
 Different Directories:
 
