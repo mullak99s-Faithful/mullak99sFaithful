@@ -3,20 +3,16 @@
 mullak99sFaithful
 =================
 
-RECOMMENDED VERSION: (Release Version) v1.102 for Minecraft 1.10.x
+Branch: Recommended
 
-LATEST VERSION: (Snapshot Version) v1.11-GITHUBBUILD for Minecraft 1.11.x (16w41a)
-
-Different Directories:
-
-- Release Version
-
-This directory is the version that is recommended for use. This will be for the recommended (Full Release) version of Minecraft.
-
-- Snapshot Version
-
-This directory is where the latest unreleased version of the resourcepack will be. This will be for the latest (Snapshot/Pre-Release) version of the Minecraft.
-
+The recommended branch will contain the recommended version of the resourcepack, this will oftenly be for the latest full-release version of Minecraft.
 
 MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998/
 
+=================
+TODO
+=================
+
+-| v1.102 |-
+
+- Nothing yet...
