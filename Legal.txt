@@ -1,6 +1,6 @@
 ~~~~~~~~~ mullak99's Faithful 32x ~~~~~~~~~
 
-Terms Updated: 26/08/2016
+Terms Updated: 17/10/2016
 
 Latest Terms: https://raw.githubusercontent.com/mullak99/mullak99sFaithful/master/Legal.txt
 
@@ -62,6 +62,7 @@ How you MUST give credit:
 Final Notes:
 - If I request that I don't want you using resources from my pack this is final. This will only happen in extreme cases.
 - Follow Vattic's Guidelines
+- Many of my download links on will go though Google URL Shortner, the purpose of this is to track downloads (If anyone knows a better method please tell me)
 - These guidelines may be changed at anytime, by using this pack you agree to the latest terms.
 
 For any other queries find me on:
@@ -89,4 +90,4 @@ Dowsey's Faithful - http://www.minecraftforum.net/forums/mapping-and-modding/res
 
 ----------------------------------------------------------------------------------------------------------------
 
-© - mullak99
+Â© - mullak99
