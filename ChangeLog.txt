@@ -31,12 +31,12 @@
 * Getting ready for 1.5 Update
 
 ------------------
-| - Version 1.41 - |
+| - Version 1.4.1 - |
 
 - Updated to 1.5
 
 ------------------
-| - Version 1.42 - |
+| - Version 1.4.2 - |
 
 - Fixed Endermen and Spider textures
 
@@ -55,13 +55,13 @@
 - Added horse GUI
 
 ------------------
-| - Version 1.61 - |
+| - Version 1.6.1 - |
 
 - Fixed Water and Lava textures being 16x insted of 32x (Thanks to Rippahjack pointing it out ;) )
 - Some GUI tweaks done
 
 ------------------
-| - Version 1.62 - |
+| - Version 1.6.2 - |
 
 - Fixed Horse Health and Jump GUI
 - Fixed Potion effects being 16x
@@ -75,23 +75,23 @@
 - Added Minecraft Realms Logo
 
 ------------------
-| - Version 1.71 - |
+| - Version 1.7.1 - |
 
 - Fixed title and realms logo not being HD
 
 ------------------
-| - Version 1.72 - |
+| - Version 1.7.2 - |
 
 - Added Stream Icons
 - Added Realms Invite Icons
 
 ------------------
-| - Version 1.73 - |
+| - Version 1.7.3 - |
 
 - Changed Lava texture
 
 ------------------
-| - Version 1.74 - |
+| - Version 1.7.4 - |
 
 - Changed some widget icons
 - Centered the Realms Active/Expired server icons
@@ -102,14 +102,14 @@
 - Minor texture changes
 
 ------------------
-| - Version 1.75 - |
+| - Version 1.7.5 - |
 
 - Disabled animated grass (Was bugged using mipmap) [Minecraft 1.7.x version of v1.8]
 - Tweaked some flower textures [Minecraft 1.7.x version of v1.8]
 - Tweaked the nether quartz (Item) texture [Minecraft 1.7.x version of v1.8]
 
 ------------------
-| - Version 1.76 - |
+| - Version 1.7.6 - |
 
 - New Achivement GUI [Minecraft 1.7.x version of v1.8]
 - Changed Exp Bar Colour [Minecraft 1.7.x version of v1.8]
@@ -178,13 +178,13 @@
 - Tweaked Hunger Bar textures
 
 ------------------
-| - Version 1.101 - |
+| - Version 1.10.1 - |
 
 - Actually added new blockstates
 - Added custom models
 
 ------------------
-| - Version 1.102 - |
+| - Version 1.10.2 - |
 
 - Fixed bugged CTM textures
 - Fixed Inventory GUI
