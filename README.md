@@ -1,7 +1,4 @@
-
-=================
-mullak99sFaithful
-=================
+# mullak99sFaithful
 
 **Branch: Master**
 
@@ -11,10 +8,12 @@ The master branch will contain the latest version of the resourcepack, this will
 
 MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998/
 
-=================
-TODO
-=================
+## TODO
 
 -| v1.11 |-
 
+<<<<<<< HEAD
 - More 3D Block and Item models
+=======
+- Add transparant GUI's to Anvil, Beacon, Enchanting Table, Villager Trading (Still unsure if to implement this).
+>>>>>>> origin/master
