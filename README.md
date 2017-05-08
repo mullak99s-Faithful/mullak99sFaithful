@@ -1,7 +1,4 @@
-
-=================
-mullak99sFaithful
-=================
+# mullak99sFaithful
 
 **Branch: Recommended**
 
@@ -11,9 +8,7 @@ The recommended branch will contain the recommended version of the resourcepack,
 
 MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998/
 
-=================
-TODO
-=================
+## TODO
 
 -| v1.11 |-
 
