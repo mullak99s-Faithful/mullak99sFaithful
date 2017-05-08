@@ -12,8 +12,4 @@ MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/re
 
 -| v1.11 |-
 
-<<<<<<< HEAD
 - More 3D Block and Item models
-=======
-- Add transparant GUI's to Anvil, Beacon, Enchanting Table, Villager Trading (Still unsure if to implement this).
->>>>>>> origin/master
