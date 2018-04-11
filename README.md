@@ -1,8 +1,8 @@
 # mullak99sFaithful
 
-**Branch: Master**
+**Branch: Recommended**
 
-The master branch will contain the latest version of the resourcepack, this will oftenly be for the latest snapshot/pre-release version of Minecraft.
+The recommended branch will contain the recommended version of the resourcepack,
 
 **Current Version: v1.12**
 
