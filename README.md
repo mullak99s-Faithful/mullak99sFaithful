@@ -2,7 +2,7 @@
 
 **Branch: Recommended**
 
-The recommended branch will contain the recommended version of the resourcepack,
+The recommended branch will contain the recommended version of the resourcepack, this will oftenly be for the latest full-release version of Minecraft.
 
 **Current Version: v1.12**
 
