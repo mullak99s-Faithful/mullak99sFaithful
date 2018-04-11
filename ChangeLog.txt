@@ -202,3 +202,15 @@
 - Compressed many sprites, including the pack.png (Reduced the overall size of the resourcepack)
 - Fixed broken repeater rendering when using Optifine
 
+------------------
+| - Version 1.12 - |
+
+- Added 1.12 Block textures
+- Added 1.12 Item textures
+- Added 1.12 Entity textures
+- Added 1.12 GUI textures
+- Added more 3D block models (Sugar Cane and Cacti)
+- Added more 3D item models (Cake and Brewing Stand)
+- Replaced Realms buttons and popup
+- Minor changes to widgets.png
+- Further sprite compression (Reducing the size of the resourcepack even more)
