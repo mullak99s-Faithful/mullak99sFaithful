@@ -1,5 +1,5 @@
 {
-    "parent": "block/normal_torch",
+    "parent": "block/torch",
 	"display": {
         "gui": {
             "rotation": [ 30, 45, 0 ],

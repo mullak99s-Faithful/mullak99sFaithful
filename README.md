@@ -12,4 +12,6 @@ MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/re
 
 -| v1.13 |-
 
-- N/A
+- More 3D Models (Rails etc.)
+- Missing a couple of 1.13 textures (Kelp)
+

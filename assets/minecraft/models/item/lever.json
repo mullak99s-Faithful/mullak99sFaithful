@@ -1,5 +1,5 @@
 {
-    "parent": "block/lever_off",
+    "parent": "block/lever",
     "display": {
         "gui": {
             "rotation": [ 30, 45, 0 ],

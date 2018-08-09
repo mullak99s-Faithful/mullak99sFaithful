@@ -1,8 +1,8 @@
 {
     "variants": {
-        "normal": [
-            { "model": "poppy" },
-            { "model": "poppy/0" }
+        "": [
+            { "model": "block/poppy" },
+            { "model": "block/poppy/0" }
         ]
     }
 }

@@ -214,3 +214,17 @@
 - Replaced Realms buttons and popup
 - Minor changes to widgets.png
 - Further sprite compression (Reducing the size of the resourcepack even more)
+
+------------------
+| - Version 1.13 - |
+
+- Updated to 1.13 Pack Format
+- Added 1.13 Block textures
+- Added 1.13 Item textures
+- Added 1.13 Entity textures
+- Updated door textures (Ones from more recent Faithful packs)
+- Updated fish textures (Ones from more recent Faithful packs)
+- Updated various seed textures (Ones from more recent Faithful packs)
+- Changed all potion textures to appear like flasks
+- Changed Repeater model to be the 1-tick variant
+- Changed the Comparator and Repeater models rotation
