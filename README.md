@@ -1,8 +1,8 @@
 # mullak99sFaithful
 
-**Branch: Master**
+**Branch: Dev**
 
-The master branch will contain the latest version of the resourcepack, this will oftenly be for the latest snapshot/pre-release version of Minecraft.
+The dev branch will contain the latest version of the resourcepack, this will oftenly be for the latest snapshot/pre-release version of Minecraft.
 
 **Current Version: v1.13-RC2**
 
