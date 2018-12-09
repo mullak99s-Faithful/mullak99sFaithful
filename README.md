@@ -2,7 +2,7 @@
 
 **Branch: Beta**
 
-The beta branch will contain the latest version of the resourcepack, this will oftenly be for the latest snapshot/pre-release version of Minecraft.
+The beta branch will contain the mostly-complete 'latest' version of the resourcepack, this will oftenly be for newly released, non-snapshot, versions of Minecraft.
 
 **Current Version: v1.13-RC2**
 
