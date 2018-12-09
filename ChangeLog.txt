@@ -225,6 +225,5 @@
 - Updated door textures (Ones from more recent Faithful packs)
 - Updated fish textures (Ones from more recent Faithful packs)
 - Updated various seed textures (Ones from more recent Faithful packs)
-- Changed all potion textures to appear like flasks
 - Changed Repeater model to be the 1-tick variant
 - Changed the Comparator and Repeater models rotation
