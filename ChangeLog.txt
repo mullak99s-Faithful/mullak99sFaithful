@@ -222,8 +222,16 @@
 - Added 1.13 Block textures
 - Added 1.13 Item textures
 - Added 1.13 Entity textures
+- Added 1.13 GUI textures
+- Updated and readded CTM
 - Updated door textures (Ones from more recent Faithful packs)
 - Updated fish textures (Ones from more recent Faithful packs)
 - Updated various seed textures (Ones from more recent Faithful packs)
-- Changed Repeater model to be the 1-tick variant
-- Changed the Comparator and Repeater models rotation
+- Updated Stats Icons
+- Changed Repeater (item) model to be the 1-tick variant
+- Changed the Comparator and Repeater (item) models rotation
+- Changed pack.mcmeta to better show the pack information
+- Changed pack.png to show pack version
+- Changes to the hunger bar
+- Changed Brewing Stand GUI
+- Changed the Ender Crystal Beam
