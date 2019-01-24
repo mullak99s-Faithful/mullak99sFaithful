@@ -1,8 +1,8 @@
 # mullak99sFaithful
 
-**Current Recommended Version:** ___v1.12___  
-**Current Beta Version:** ___v1.13-RC3___  
-**Current Dev Version:** ___v1.13___  
+**Current Recommended Version:** _v1.12_  
+**Current Beta Version:** _v1.13-RC3_  
+**Current Dev Version:** _v1.13_  
 
 ## Branch Breakdown
 
