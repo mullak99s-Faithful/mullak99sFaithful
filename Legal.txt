@@ -1,8 +1,8 @@
 ~~~~~~~~~ mullak99's Faithful 32x ~~~~~~~~~
 
-Terms Updated: 09/08/2018
+Terms Updated: 09/12/2018
 
-Latest Terms: https://raw.githubusercontent.com/mullak99s-Faithful/mullak99sFaithful/master/Legal.txt
+Latest Terms: https://raw.githubusercontent.com/mullak99s-Faithful/mullak99sFaithful/dev/Legal.txt
 
 Official Links:
 https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1244998
@@ -123,4 +123,4 @@ Dowsey's Faithful - https://www.minecraftforum.net/forums/mapping-and-modding-ja
 
 ----------------------------------------------------------------------------------------------------------------
 
-© - mullak99
+Â© - mullak99

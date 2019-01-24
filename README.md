@@ -1,16 +1,23 @@
 # mullak99sFaithful
 
-**Branch: Beta**
+**Current Recommended Version:** _v1.12_  
+**Current Beta Version:** _v1.13-RC3_  
+**Current Dev Version:** _v1.13_  
+
+## Branch Breakdown
+
+### Recommended Branch
+
+The recommended branch will contain the recommended version of the resourcepack, this will oftenly be for the latest full-release version of Minecraft.
+
+### Beta Branch
 
 The beta branch will contain the mostly-complete 'latest' version of the resourcepack, this will oftenly be for newly released, non-snapshot, versions of Minecraft.
 
-**Current Version: v1.13-RC2**
+### Dev Branch
+
+The dev branch will contain the absolute latest version of the resourcepack, this will oftenly be for the latest snapshot/pre-release version of Minecraft.
+
+## Official Links
 
 MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998/
-
-## TODO
-
--| v1.13 |-
-
-- More 3D Models (Rails etc.)
-
