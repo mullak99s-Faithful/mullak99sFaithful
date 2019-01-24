@@ -14,5 +14,6 @@ MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/re
 
 - Phantom Texture
 - Conduit Cage, Wind and Wind Vertical
+- Create CTM textures for stripped logs
+- Convert and add old CTM textures
 - More 3D Models (Rails etc.)
-
