@@ -21,4 +21,3 @@ The dev branch will contain the absolute latest version of the resourcepack, thi
 ## Official Links
 
 MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998/
-
