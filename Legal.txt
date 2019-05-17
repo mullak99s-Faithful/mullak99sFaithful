@@ -1,12 +1,12 @@
 ~~~~~~~~~ mullak99's Faithful 32x ~~~~~~~~~
 
-Terms Updated: 17/10/2016
+Terms Updated: 09/12/2018
 
-Latest Terms: https://raw.githubusercontent.com/mullak99/mullak99sFaithful/master/Legal.txt
+Latest Terms: https://raw.githubusercontent.com/mullak99s-Faithful/mullak99sFaithful/dev/Legal.txt
 
 Official Links:
-http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998
-https://github.com/mullak99/mullak99sFaithful
+https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1244998
+https://github.com/mullak99s-Faithful/mullak99sFaithful
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -40,6 +40,35 @@ Finally:
 
 ----------------------------------------------------------------------------------------------------------------
 
+~~ xMrVizzy's/Faithful Team's Usage Guidelines ~~
+
+It's fine for people to use stuff from the Faithful so long as guidelines bellow are followed.
+
+Requirements:
+- Give clear credit.
+- Link back to the Faithful.
+- Be honest about what you are using.
+- No money making links.
+ 
+
+Things that are fine:
+- Use as placeholders.
+- Using as many textures as you've made yourself.
+- Using the items or paintings.
+- Use as base for mod textures.
+ 
+
+On remix/tweaked packs:
+- Let's Players can share a modified copy with fans.
+- Adventure map makers can provide modified copy to go along with it.
+ 
+
+Finally:
+- If I decide I don't want you using stuff from the pack then that is final. This will only be the case in unusual circumstances.
+- These guidelines can be changed at any time.
+
+----------------------------------------------------------------------------------------------------------------
+
 ~~ mullak99's Terms ~~
 
 You MAY:
@@ -57,13 +86,16 @@ You MAY NOT:
 How you MUST give credit:
 - If you have a forum page clearly link back to my thread as well as clearly putting my name in the thread.
 - Add a text file (Such as 'Credits.txt') to your pack.zip with my name and link to the thread.
-- You could also put my name in the pack description (pack.mcmeta). *This isnt required* 
+
+Bonus ways to credit: *These are not required* 
+- You could also put my name in the pack description (pack.mcmeta). 
 
 Final Notes:
 - If I request that I don't want you using resources from my pack this is final. This will only happen in extreme cases.
-- Follow Vattic's Guidelines
-- Many of my download links on will go though Google URL Shortner, the purpose of this is to track downloads (If anyone knows a better method please tell me)
-- These guidelines may be changed at anytime, by using this pack you agree to the latest terms.
+- Follow Vattic's Guidelines.
+- Follow xMrVizzy's/Faithful Team's Guidelines.
+- Many of my download links on will go though a URL Shortner, the purpose of this is to track downloads and page visits (If anyone knows a better method please tell me).
+- These guidelines may be changed at anytime, by using this pack you agree to the latest terms (Can be found using the link at the top of this file).
 
 For any other queries find me on:
 Twitter: @mullak99 (http://www.twitter.com/mullak99)
@@ -77,17 +109,18 @@ MinecraftForum: mullak99 (http://www.minecraftforum.net/members/mullak99)
 Noteworthy Mentions:
 
 Vattic - Faithful 32x (Base textures and Major Inspiration)
+xMrVizzy/Faithful Team - Faithful 32x (Keeping the original Vattic pack updated)
 AntVenom - FaithfulVenom (Major Inspiration)
-Dowsey/JustJoshy - Dowsey's Faithful (Inspiration for GUI's)
+Dowsey/JustJoshy - Dowsey's Faithful (Inspiration for GUI)
 
 ----------------------------------------------------------------------------------------------------------------
 
-mullak99's Faithful - http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998
-Vattic's Faithful - http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254
-AntVenom's FaithfulVenom - http://antvenom.com/downloads/
-Dowsey's Faithful - http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1243684
+mullak99's Faithful - https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1244998
+Vattic's Faithful - https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1223254
+AntVenom's FaithfulVenom - http://antvenom.com/files/
+Dowsey's Faithful - https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1243684
 
 
 ----------------------------------------------------------------------------------------------------------------
 
-© - mullak99
+Â© - mullak99
