@@ -243,6 +243,7 @@
 - Added 1.14 Item textures
 - Added 1.14 Entity textures
 - Added 1.14 GUI textures
+- Added GUI textures for ModMenu and REI
 - Updated Recipe Book GUI
 - Updated Beacon UI
 - Updated Minecraft title texture

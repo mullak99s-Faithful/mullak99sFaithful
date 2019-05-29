@@ -1,0 +1,5 @@
+- Add missing 32x texture for 'campfire_fire'
+- Add missing 32x texture for 'campfire_log_lit'
+- Create CTM textures for stripped logs
+- Convert and add old CTM textures
+- More 3D Models (Rails etc.)
