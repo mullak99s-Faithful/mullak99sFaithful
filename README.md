@@ -2,7 +2,7 @@
 
 **Current Recommended Version:** _v1.13_  
 **Current Beta Version:** _v1.14-BETA2_  
-**Current Dev Version:** _v1.14-BETA2_  
+**Current Dev Version:** _v1.14-DEV_  
 
 ## Branch Breakdown
 
