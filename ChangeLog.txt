@@ -252,3 +252,4 @@
 - Changes to the potion effect icons
 - Changed Shield model to make it less visible
 - Minor changes to the lock button
+- Fixed Globe Banner texture
