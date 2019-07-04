@@ -246,6 +246,7 @@
 - Added GUI textures for ModMenu and REI
 - Added 3D Rail models
 - Added 3D Lantern item model
+- Added 3D Door models
 - Updated Recipe Book GUI
 - Updated Beacon UI
 - Updated Minecraft title texture
