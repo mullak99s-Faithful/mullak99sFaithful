@@ -1,9 +1,23 @@
 {
-    "parent": "block/trapdoors/template_trapdoor_top",
+    "ambientocclusion": false,
     "textures": {
         "top": "block/jungle_trapdoor",
 		"bottom": "block/jungle_trapdoor",
 		"front": "ctm/trapdoors/jungle/front",
-		"side": "ctm/trapdoors/jungle/side"
-    }
+		"side": "ctm/trapdoors/jungle/side",
+		"particle": "block/jungle_trapdoor"
+    },
+	"elements": [
+        {   "from": [ 0, 13, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0,  0, 16, 16 ], "texture": "#bottom" },
+                "up":    { "uv": [ 0, 16, 16, 0 ], "texture": "#top", "cullface": "up" },
+                "north": { "uv": [ 0, 0, 16, 3 ], "texture": "#front", "cullface": "north" },
+                "south": { "uv": [ 0, 0, 16, 3 ], "texture": "#front", "cullface": "south" },
+                "west":  { "uv": [ 0, 0, 16, 3 ], "texture": "#side", "cullface": "west" },
+                "east":  { "uv": [ 0, 0, 16, 3 ], "texture": "#side", "cullface": "east" }
+            }
+        }
+    ]
 }
