@@ -1,3 +1,3 @@
 - Create CTM textures for stripped logs
 - Convert and add old CTM textures
-- More 3D Models (Doors, Furnace, etc.)
+- More 3D Models (Trapdoors, Dispenser, Dropper, etc.)
