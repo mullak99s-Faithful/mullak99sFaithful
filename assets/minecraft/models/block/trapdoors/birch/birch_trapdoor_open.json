@@ -1,9 +1,23 @@
 {
-    "parent": "block/trapdoors/template_trapdoor_open",
+    "ambientocclusion": false,
     "textures": {
         "top": "block/birch_trapdoor",
 		"bottom": "block/birch_trapdoor",
 		"front": "ctm/trapdoors/birch/front",
-		"side": "ctm/trapdoors/birch/side"
-    }
+		"side": "ctm/trapdoors/birch/side",
+		"particle": "block/birch_trapdoor"
+    },
+	"elements": [
+        {   "from": [ 0, 0, 13 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [  0,  0, 16, 3 ], "texture": "#front", "cullface": "down" },
+                "up":    { "uv": [  0,  3, 16, 0 ], "texture": "#front", "cullface": "up" },
+                "north": { "uv": [  0, 16, 16, 0 ], "texture": "#top" },
+                "south": { "uv": [  0, 16, 16, 0 ], "texture": "#bottom", "cullface": "south" },
+                "west":  { "uv": [  0,  0, 16, 3 ], "rotation": 90, "texture": "#side", "cullface": "west" },
+                "east":  { "uv": [  0,  3, 16, 0 ], "rotation": 90, "texture": "#side", "cullface": "east" }
+            }
+        }
+    ]
 }
