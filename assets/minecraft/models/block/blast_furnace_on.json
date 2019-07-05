@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
 	"textures": {
 		"down": "block/blast_furnace_top",
 		"up": "block/blast_furnace_top",
