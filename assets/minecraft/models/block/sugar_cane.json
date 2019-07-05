@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
 	"textures": {
 		"down": "block/sugar_cane",
 		"up": "block/sugar_cane",

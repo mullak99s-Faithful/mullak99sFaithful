@@ -1,4 +1,5 @@
 {
+	"ambientocclusion": false,
 	"textures": {
 		"particle": "block/cactus_side",
 		"down": "block/cactus_bottom",

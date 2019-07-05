@@ -247,9 +247,12 @@
 - Added 3D Rail models
 - Added 3D Lantern item model
 - Added 3D Door models
+- Added 3D Trapdoor models
+- Added 3D Dispenser and Dropper models
 - Updated Recipe Book GUI
 - Updated Beacon UI
 - Updated Minecraft title texture
+- Changes to the Pumpkin and Jack o'Lantern model
 - Changes to the potion effect icons
 - Changed Shield model to make it less visible
 - Changed pack.png
