@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
 		"down": "block/activator_rail",
@@ -108,9 +108,9 @@
 			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8]},
 			"faces": {
 				"north": {"uv": [2, 0, 4, 16], "texture": "#north", "cullface": "false"},
-				"east": {"uv": [2, 0, 3, 16], "texture": "#east", "cullface": "false"},
-				"south": {"uv": [2, 0, 4, 16], "texture": "#south", "cullface": "false"},
-				"west": {"uv": [3, 0, 4, 16], "texture": "#west", "cullface": "false"},
+				"east": {"uv": [2, 0, 2.5, 16], "texture": "#east", "cullface": "false"},
+				"south": {"uv": [2, 0, 4, 16], "rotation": 180, "texture": "#south", "cullface": "false"},
+				"west": {"uv": [3.5, 0, 4, 16], "texture": "#west", "cullface": "false"},
 				"up": {"uv": [12, 0, 14, 16], "texture": "#up", "cullface": "false"},
 				"down": {"uv": [12, 0, 14, 16], "texture": "#down", "cullface": "false"}
 			}
@@ -120,10 +120,10 @@
 			"to": [4, 9.5, 19.5],
 			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9, 8]},
 			"faces": {
-				"north": {"uv": [2, 0, 4, 16], "texture": "#north", "cullface": "false"},
-				"east": {"uv": [3, 0, 4, 16], "texture": "#east", "cullface": "false"},
+				"north": {"uv": [2, 0, 4, 16], "rotation": 180, "texture": "#north", "cullface": "false"},
+				"east": {"uv": [3.5, 0, 4, 16], "texture": "#east", "cullface": "false"},
 				"south": {"uv": [2, 0, 4, 16], "texture": "#south", "cullface": "false"},
-				"west": {"uv": [2, 0, 3, 16], "texture": "#west", "cullface": "false"},
+				"west": {"uv": [2, 0, 2.5, 16], "texture": "#west", "cullface": "false"},
 				"up": {"uv": [2, 0, 4, 16], "texture": "#up", "cullface": "false"},
 				"down": {"uv": [2, 0, 4, 16], "texture": "#down", "cullface": "false"}
 			}

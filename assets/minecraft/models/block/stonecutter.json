@@ -1,7 +1,7 @@
 {
-	"credit": "Made with Blockbench",
-	"ambientocclusion": false,
+	"credit": "Created by mullak99",
 	"parent": "block/block",
+	"ambientocclusion": false,
 	"textures": {
 		"bottom": "block/stonecutter_bottom",
 		"particle": "block/stonecutter_bottom",
@@ -19,8 +19,7 @@
 				"east": {"uv": [1, 14, 1.5, 16], "texture": "#saw"},
 				"south": {"uv": [1, 14, 15, 16], "texture": "#saw"},
 				"west": {"uv": [14.5, 14, 15, 16], "texture": "#saw"},
-				"up": {"uv": [1, 14, 15, 14.5], "texture": "#saw"},
-				"down": {"uv": [0, 0, 14, 0.5], "texture": "#saw"}
+				"up": {"uv": [1, 14, 15, 14.5], "texture": "#saw"}
 			}
 		},
 		{
@@ -185,9 +184,6 @@
 			"to": [13, 7, 0.5],
 			"faces": {
 				"north": {"uv": [3, 9, 13, 11], "texture": "#side"},
-				"east": {"uv": [0, 0, 0.5, 2], "texture": "#side"},
-				"south": {"uv": [0, 0, 10, 2], "texture": "#side"},
-				"west": {"uv": [0, 0, 0.5, 2], "texture": "#side"},
 				"up": {"uv": [3, 9, 13, 9.5], "texture": "#side"},
 				"down": {"uv": [3, 10.5, 13, 11], "texture": "#side"}
 			}
@@ -197,10 +193,7 @@
 			"from": [15.5, 5, 3],
 			"to": [16, 7, 13],
 			"faces": {
-				"north": {"uv": [0, 0, 0.5, 2], "texture": "#side"},
 				"east": {"uv": [3, 9, 13, 11], "texture": "#side"},
-				"south": {"uv": [0, 0, 0.5, 2], "texture": "#side"},
-				"west": {"uv": [0, 0, 10, 2], "texture": "#side"},
 				"up": {"uv": [3, 9, 13, 9.5], "rotation": 270, "texture": "#side"},
 				"down": {"uv": [3, 10.5, 13, 11], "rotation": 90, "texture": "#side"}
 			}
@@ -210,10 +203,7 @@
 			"from": [3, 5, 15.5],
 			"to": [13, 7, 16],
 			"faces": {
-				"north": {"uv": [0, 0, 10, 2], "texture": "#side"},
-				"east": {"uv": [0, 0, 0.5, 2], "texture": "#side"},
 				"south": {"uv": [3, 9, 13, 11], "texture": "#side"},
-				"west": {"uv": [0, 0, 0.5, 2], "texture": "#side"},
 				"up": {"uv": [3, 9, 13, 9.5], "texture": "#side"},
 				"down": {"uv": [3, 10.5, 13, 11], "texture": "#side"}
 			}
@@ -223,9 +213,6 @@
 			"from": [0, 5, 3],
 			"to": [0.5, 7, 13],
 			"faces": {
-				"north": {"uv": [0, 0, 0.5, 2], "texture": "#side"},
-				"east": {"uv": [0, 0, 10, 2], "texture": "#side"},
-				"south": {"uv": [0, 0, 0.5, 2], "texture": "#side"},
 				"west": {"uv": [3, 9, 13, 11], "texture": "#side"},
 				"up": {"uv": [3, 9, 13, 9.5], "rotation": 90, "texture": "#side"},
 				"down": {"uv": [3, 10.5, 13, 11], "rotation": 270, "texture": "#side"}
@@ -237,9 +224,6 @@
 			"to": [13, 0.5, 0.5],
 			"faces": {
 				"north": {"uv": [3, 9, 13, 9.5], "texture": "#side"},
-				"east": {"uv": [0, 0, 0.5, 0], "texture": "#bottom"},
-				"south": {"uv": [0, 0, 10, 0], "texture": "#bottom"},
-				"west": {"uv": [0, 0, 0.5, 0], "texture": "#bottom"},
 				"up": {"uv": [3, 10.5, 13, 11], "texture": "#side"},
 				"down": {"uv": [3, 0, 13, 0.5], "texture": "#bottom"}
 			}
@@ -249,10 +233,7 @@
 			"from": [3, 0, 15.5],
 			"to": [13, 0.5, 16],
 			"faces": {
-				"north": {"uv": [3, 9, 13, 9.5], "texture": "#side"},
-				"east": {"uv": [0, 0, 0.5, 0], "texture": "#bottom"},
 				"south": {"uv": [3, 9, 13, 9.5], "texture": "#side"},
-				"west": {"uv": [0, 0, 0.5, 0], "texture": "#bottom"},
 				"up": {"uv": [3, 10.5, 13, 11], "rotation": 180, "texture": "#side"},
 				"down": {"uv": [3, 15.5, 13, 16], "texture": "#bottom"}
 			}
@@ -262,9 +243,6 @@
 			"from": [0, 0, 3],
 			"to": [0.5, 0.5, 13],
 			"faces": {
-				"north": {"uv": [0, 0, 0.5, 0.5], "texture": "#bottom"},
-				"east": {"uv": [0, 0, 10, 0.5], "texture": "#bottom"},
-				"south": {"uv": [0, 0, 0.5, 0.5], "texture": "#bottom"},
 				"west": {"uv": [3, 9, 13, 9.5], "texture": "#side"},
 				"up": {"uv": [3, 10.5, 13, 11], "rotation": 90, "texture": "#side"},
 				"down": {"uv": [0, 3, 0.5, 13], "rotation": 90, "texture": "#bottom"}
@@ -275,10 +253,7 @@
 			"from": [15.5, 0, 3],
 			"to": [16, 0.5, 13],
 			"faces": {
-				"north": {"uv": [0, 0, 0.5, 0.5], "texture": "#bottom"},
 				"east": {"uv": [3, 9, 13, 9.5], "texture": "#side"},
-				"south": {"uv": [0, 0, 0.5, 0.5], "texture": "#bottom"},
-				"west": {"uv": [3, 9, 13, 9.5], "texture": "#side"},
 				"up": {"uv": [3, 10.5, 13, 11], "rotation": 90, "texture": "#side"},
 				"down": {"uv": [0, 3, 0.5, 13], "rotation": 90, "texture": "#bottom"}
 			}
@@ -286,7 +261,7 @@
 	],
 	"groups": [
 		{
-			"name": "stonecutter",
+			"name": "group",
 			"children": [
 				{
 					"name": "saw",
