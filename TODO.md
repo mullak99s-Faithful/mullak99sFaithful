@@ -1,3 +1,4 @@
 - Create CTM textures for stripped logs
 - Convert and add old CTM textures
 - More 3D Models (Crops, Pumpkin, etc.)
+- Finish CTM for Doors (Done so far: Acacia)
