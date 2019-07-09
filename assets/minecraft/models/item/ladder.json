@@ -4,7 +4,7 @@
     "display": {
         "gui": {
             "rotation": [ 30, 45, 0 ],
-            "translation": [ -3, 2.25, 0],
+            "translation": [ -3.5, 2.25, 0],
             "scale":[ 0.75, 0.75, 0.75 ]
         },
         "ground": {
