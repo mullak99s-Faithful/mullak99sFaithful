@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Created by mullak99",
 	"textures": {
 		"down": "block/activator_rail",
 		"up": "block/activator_rail",
@@ -14,10 +14,10 @@
 			"from": [2, 1, 0],
 			"to": [4, 1.5, 16],
 			"faces": {
-				"north": {"uv": [2, 0, 4, 16], "texture": "#north", "cullface": "north"},
-				"east": {"uv": [3, 0, 4, 16], "texture": "#east"},
+				"north": {"uv": [2, 0, 4, 16], "rotation": 180, "texture": "#north", "cullface": "north"},
+				"east": {"uv": [3.5, 0, 4, 16], "texture": "#east"},
 				"south": {"uv": [2, 0, 4, 16], "texture": "#south", "cullface": "south"},
-				"west": {"uv": [2, 0, 3, 16], "texture": "#west"},
+				"west": {"uv": [2, 0, 2.5, 16], "texture": "#west"},
 				"up": {"uv": [2, 0, 4, 16], "texture": "#up"},
 				"down": {"uv": [2, 0, 4, 16], "texture": "#down"}
 			}
@@ -27,9 +27,9 @@
 			"to": [14, 1.5, 16],
 			"faces": {
 				"north": {"uv": [2, 0, 4, 16], "texture": "#north", "cullface": "north"},
-				"east": {"uv": [2, 0, 3, 16], "texture": "#east"},
-				"south": {"uv": [2, 0, 4, 16], "texture": "#south", "cullface": "south"},
-				"west": {"uv": [3, 0, 4, 16], "texture": "#west"},
+				"east": {"uv": [2, 0, 2.5, 16], "texture": "#east"},
+				"south": {"uv": [2, 0, 4, 16], "rotation": 180, "texture": "#south", "cullface": "south"},
+				"west": {"uv": [3.5, 0, 4, 16], "texture": "#west"},
 				"up": {"uv": [12, 0, 14, 16], "texture": "#up"},
 				"down": {"uv": [12, 0, 14, 16], "texture": "#down"}
 			}

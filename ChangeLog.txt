@@ -243,18 +243,23 @@
 - Added 1.14 Item textures
 - Added 1.14 Entity textures
 - Added 1.14 GUI textures
+- Added Lily Pad CTM textures
 - Added GUI textures for ModMenu and REI
 - Added 3D Rail models
 - Added 3D Lantern item model
 - Added 3D Door models
 - Added 3D Trapdoor models
 - Added 3D Dispenser and Dropper models
+- Added 3D Lily Pad models
+- Added 3D Furnace, Smoker and Blast Furnace models
 - Updated Recipe Book GUI
 - Updated Beacon UI
 - Updated Minecraft title texture
 - Changes to the Pumpkin and Jack o'Lantern model
 - Changes to the potion effect icons
+- Changes to the 3D Ladder item model position
 - Changed Shield model to make it less visible
 - Changed pack.png
+- Minor changes and optimisations to existing 3D block models
 - Minor changes to the lock button
 - Fixed Globe Banner texture
