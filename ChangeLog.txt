@@ -248,10 +248,13 @@
 - Added 3D Rail models
 - Added 3D Lantern item model
 - Added 3D Door models
+- Added 3D Door item models
 - Added 3D Trapdoor models
 - Added 3D Dispenser and Dropper models
 - Added 3D Lily Pad models
 - Added 3D Furnace, Smoker and Blast Furnace models
+- Added 3D Haybale model
+- Added 3D Jukebox model
 - Updated Recipe Book GUI
 - Updated Beacon UI
 - Updated Minecraft title texture
@@ -263,3 +266,5 @@
 - Minor changes and optimisations to existing 3D block models
 - Minor changes to the lock button
 - Fixed Globe Banner texture
+- Fixed trapdoor item models being too low in first-person
+- Removed Lily Pad Optifine CTM textures (not needed because of the new models)
