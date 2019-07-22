@@ -1,3 +1,3 @@
 - Create CTM textures for stripped logs
 - Convert and add old CTM textures
-- More 3D Models (Crops, Pumpkin, Jukebox, etc.)
+- More 3D Models (Crops, Pumpkin, etc.)

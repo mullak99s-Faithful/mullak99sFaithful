@@ -61,7 +61,7 @@
 				"north": {"uv": [3, 4, 0, 7], "texture": "#side_bottom"},
 				"east": {"uv": [9, 4, 7, 7], "texture": "#door"},
 				"south": {"uv": [0, 4, 3, 7], "texture": "#side_bottom"},
-				"west": {"uv": [7, 7, 9, 10], "texture": "#door", "cullface": "west"}
+				"west": {"uv": [7, 4, 9, 7], "texture": "#door", "cullface": "west"}
 			}
 		},
 		{
