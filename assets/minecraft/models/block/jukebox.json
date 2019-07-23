@@ -1,5 +1,6 @@
 {
 	"credit": "Created by mullak99",
+	"parent": "block/block",
 	"textures": {
 		"side": "block/jukebox_side",
 		"particle": "block/jukebox_side",
