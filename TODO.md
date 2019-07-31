@@ -1,4 +1,5 @@
 - Create CTM textures for stripped logs
 - Convert and add old CTM textures
 - More 3D Models (Crops, Pumpkin, etc.)
-- Add missing Horse Armour and Leather Horse Armour item textures
+- Add missing Horse Armour textures
+- Check Llama chest and GUI texture
