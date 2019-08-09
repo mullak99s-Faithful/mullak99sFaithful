@@ -255,6 +255,8 @@
 - Added 3D Furnace, Smoker and Blast Furnace models
 - Added 3D Haybale model
 - Added 3D Jukebox model
+- Added coloured bow pulling textures
+- Readded some more CTM textures
 - Updated Recipe Book GUI
 - Updated Beacon UI
 - Updated Minecraft title texture
