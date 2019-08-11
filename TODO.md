@@ -2,4 +2,3 @@
 - Convert and add old CTM textures
 - More 3D Models (Crops, Pumpkin, etc.)
 - Add missing Horse Armour textures
-- Check Llama chest and GUI texture

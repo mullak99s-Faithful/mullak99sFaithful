@@ -255,6 +255,11 @@
 - Added 3D Furnace, Smoker and Blast Furnace models
 - Added 3D Haybale model
 - Added 3D Jukebox model
+- Added 3D Bell item model
+- Added 3D Campfire item model
+- Added 3D Flower Pot item model
+- Added 3D Boat item models
+- Added 3D Minecart item models
 - Added coloured bow pulling textures
 - Readded some more CTM textures
 - Updated Recipe Book GUI
@@ -262,7 +267,9 @@
 - Updated Minecraft title texture
 - Changes to the Pumpkin and Jack o'Lantern model
 - Changes to the potion effect icons
+- Changes to the attack icon (crosshair)
 - Changes to the 3D Ladder item model position
+- Changes to the 3D Brewing Stand item model (scale in item frame)
 - Changed Shield model to make it less visible
 - Changed pack.png
 - Minor changes and optimisations to existing 3D block models
