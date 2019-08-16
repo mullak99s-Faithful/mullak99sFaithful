@@ -1,6 +1,6 @@
 # mullak99sFaithful
 
-**Current Branch Version:** _v1.14-RC6_  
+**Current Branch Version:** _v1.14-DEV_  
 
 ## Branch Breakdown
 
