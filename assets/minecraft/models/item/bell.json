@@ -49,7 +49,7 @@
 			"to": [16, 16, 10],
 			"faces": {
 				"north": {"uv": [0, 1, 2, 16], "texture": "#post"},
-				"east": {"uv": [0, 1, 4, 16], "texture": "#post"},
+				"east": {"uv": [0, 1, 4, 16], "texture": "#post", "cullface": "east"},
 				"south": {"uv": [0, 1, 2, 16], "texture": "#post"},
 				"west": {"uv": [0, 1, 4, 16], "texture": "#post"},
 				"up": {"uv": [0, 0, 2, 4], "texture": "#post", "cullface": "up"},
@@ -64,7 +64,7 @@
 				"north": {"uv": [0, 1, 2, 16], "texture": "#post"},
 				"east": {"uv": [0, 1, 4, 16], "texture": "#post"},
 				"south": {"uv": [0, 1, 2, 16], "texture": "#post"},
-				"west": {"uv": [0, 1, 4, 16], "texture": "#post"},
+				"west": {"uv": [0, 1, 4, 16], "texture": "#post", "cullface": "west"},
 				"up": {"uv": [0, 0, 2, 4], "texture": "#post", "cullface": "up"},
 				"down": {"uv": [0, 0, 2, 4], "texture": "#post", "cullface": "down"}
 			}
@@ -94,8 +94,8 @@
 			"scale": [0.3, 0.3, 0.3]
 		},
 		"gui": {
-			"rotation": [15, 15, 0],
-			"scale": [0.7, 0.7, 0.7]
+			"rotation": [15, 45, 0],
+			"scale": [0.75, 0.75, 0.75]
 		},
 		"head": {
 			"translation": [0, 12.75, 0]
@@ -107,10 +107,12 @@
 	"groups": [0,
 		{
 			"name": "bell",
+			"origin": [8, 8, 8],
 			"children": [1, 2]
 		},
 		{
 			"name": "stone",
+			"origin": [8, 8, 8],
 			"children": [3, 4]
 		}
 	]
