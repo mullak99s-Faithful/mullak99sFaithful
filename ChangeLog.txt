@@ -264,10 +264,12 @@
 - Added coloured bow pulling textures
 - Added directional indicators to Observers and Hoppers
 - Added slime to the side of sticky piston heads
+- Added enchanted item glint
 - Readded some more CTM textures
 - Updated Recipe Book GUI
 - Updated Beacon UI
 - Updated Minecraft title texture
+- Updated Horse textures
 - Changes to the Pumpkin and Jack o'Lantern model
 - Changes to the potion effect icons
 - Changes to the attack icon (crosshair)
@@ -282,4 +284,6 @@
 - Minor changes to the lock button
 - Fixed Globe Banner texture
 - Fixed trapdoor item models being too low in first-person
+- Fixed missing Silverfish texture
+- Fixed Minecart texture
 - Removed Lily Pad Optifine CTM textures (not needed because of the new models)
