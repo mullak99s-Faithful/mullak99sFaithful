@@ -265,11 +265,13 @@
 - Added directional indicators to Observers and Hoppers
 - Added slime to the side of sticky piston heads
 - Added enchanted item glint
+- Added transparant Pumpkin Blur texture
 - Readded some more CTM textures
 - Updated Recipe Book GUI
 - Updated Beacon UI
 - Updated Minecraft title texture
 - Updated Horse textures
+- Updated 'Java Edition' title GUI
 - Changes to the Pumpkin and Jack o'Lantern model
 - Changes to the potion effect icons
 - Changes to the attack icon (crosshair)
@@ -280,6 +282,7 @@
 - Changed 'Enchanted Golden Apple' to 'Notch Apple' (English languages only)
 - Changed glass_pane_top texture
 - Changed the Comparator and Repeater (item) models rotation (first and third person)
+- Changed hotbar attack indicator texture
 - Minor changes and optimisations to existing 3D block models
 - Minor changes to the lock button
 - Fixed Globe Banner texture
