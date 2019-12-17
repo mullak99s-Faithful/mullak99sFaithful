@@ -30,17 +30,17 @@
 
 * Getting ready for 1.5 Update
 
-------------------
+---------------------
 | - Version 1.4.1 - |
 
 - Updated to 1.5
 
-------------------
+---------------------
 | - Version 1.4.2 - |
 
 - Fixed Endermen and Spider textures
 
-------------------
+-------------------
 | - Version 1.5 - |
 
 - Added Hopper GUI
@@ -48,49 +48,49 @@
 - Trapped Chest Textures
 - Changed Tall Grass texture to animated
 
-------------------
+-------------------
 | - Version 1.6 - |
 
 - Changed texturepack to resource pack
 - Added horse GUI
 
-------------------
+---------------------
 | - Version 1.6.1 - |
 
 - Fixed Water and Lava textures being 16x insted of 32x (Thanks to Rippahjack pointing it out ;) )
 - Some GUI tweaks done
 
-------------------
+---------------------
 | - Version 1.6.2 - |
 
 - Fixed Horse Health and Jump GUI
 - Fixed Potion effects being 16x
 - Absorbtion effect added
 
-------------------
+-------------------
 | - Version 1.7 - |
 
 - Added 1.7 textures
 - Updated Mojang Logo
 - Added Minecraft Realms Logo
 
-------------------
+---------------------
 | - Version 1.7.1 - |
 
 - Fixed title and realms logo not being HD
 
-------------------
+---------------------
 | - Version 1.7.2 - |
 
 - Added Stream Icons
 - Added Realms Invite Icons
 
-------------------
+---------------------
 | - Version 1.7.3 - |
 
 - Changed Lava texture
 
-------------------
+---------------------
 | - Version 1.7.4 - |
 
 - Changed some widget icons
@@ -101,14 +101,14 @@
 - CTM additions 
 - Minor texture changes
 
-------------------
+---------------------
 | - Version 1.7.5 - |
 
 - Disabled animated grass (Was bugged using mipmap) [Minecraft 1.7.x version of v1.8]
 - Tweaked some flower textures [Minecraft 1.7.x version of v1.8]
 - Tweaked the nether quartz (Item) texture [Minecraft 1.7.x version of v1.8]
 
-------------------
+---------------------
 | - Version 1.7.6 - |
 
 - New Achivement GUI [Minecraft 1.7.x version of v1.8]
@@ -127,7 +127,7 @@
 - Tweaked Hunger Bar textures [Minecraft 1.7.x version of v1.10]
 - Changed Dropper texture (dropper_front_horizontal) [Minecraft 1.7.x version of v1.10]
 
-------------------
+-------------------
 | - Version 1.8 - |
 
 - Added 1.8 Block textures
@@ -153,7 +153,7 @@
 - Lower fire_layer
 - New Emerald Block texture
 
-------------------
+-------------------
 | - Version 1.9 - |
 
 - Added 1.9 Block textures
@@ -162,7 +162,7 @@
 - Updated to 1.9 GUI (Dual wielding slots, More Boss Mob health bars, etc.)
 - Reverted Villager skins to the original large-nosed counterparts
 
-------------------
+--------------------
 | - Version 1.10 - |
 
 - Added 1.10 Block textures
@@ -177,19 +177,19 @@
 - Tweaked Normal/Spectral/Tipped Arrow Entity textures
 - Tweaked Hunger Bar textures
 
-------------------
+----------------------
 | - Version 1.10.1 - |
 
 - Actually added new blockstates
 - Added custom models
 
-------------------
+----------------------
 | - Version 1.10.2 - |
 
 - Fixed bugged CTM textures
 - Fixed Inventory GUI
 
-------------------
+--------------------
 | - Version 1.11 - |
 
 - Added 1.11 Block textures
@@ -202,7 +202,7 @@
 - Compressed many sprites, including the pack.png (Reduced the overall size of the resourcepack)
 - Fixed broken repeater rendering when using Optifine
 
-------------------
+--------------------
 | - Version 1.12 - |
 
 - Added 1.12 Block textures
@@ -215,7 +215,7 @@
 - Minor changes to widgets.png
 - Further sprite compression (Reducing the size of the resourcepack even more)
 
-------------------
+--------------------
 | - Version 1.13 - |
 
 - Updated to 1.13 Pack Format
@@ -235,3 +235,58 @@
 - Changes to the hunger bar
 - Changed Brewing Stand GUI
 - Changed the Ender Crystal Beam
+
+--------------------
+| - Version 1.14 - |
+
+- Added 1.14 Block textures
+- Added 1.14 Item textures
+- Added 1.14 Entity textures
+- Added 1.14 GUI textures
+- Added Lily Pad CTM textures
+- Added Vine CTM textures
+- Added GUI textures for ModMenu and REI
+- Added 3D Rail models
+- Added 3D Lantern item model
+- Added 3D Door models
+- Added 3D Door item models
+- Added 3D Trapdoor models
+- Added 3D Dispenser and Dropper models
+- Added 3D Lily Pad models
+- Added 3D Furnace, Smoker and Blast Furnace models
+- Added 3D Haybale model
+- Added 3D Jukebox model
+- Added 3D Bell item model
+- Added 3D Campfire item model
+- Added 3D Flower Pot item model
+- Added 3D Boat item models
+- Added 3D Minecart item models
+- Added coloured bow pulling textures
+- Added directional indicators to Observers and Hoppers
+- Added slime to the side of sticky piston heads
+- Added enchanted item glint
+- Added transparant Pumpkin Blur texture
+- Readded some more CTM textures
+- Updated Recipe Book GUI
+- Updated Beacon UI
+- Updated Minecraft title texture
+- Updated Horse textures
+- Updated 'Java Edition' title GUI
+- Changes to the Pumpkin and Jack o'Lantern model
+- Changes to the potion effect icons
+- Changes to the attack icon (crosshair)
+- Changes to the 3D Ladder item model position
+- Changes to the 3D Brewing Stand item model (scale in item frame)
+- Changed Shield model to make it less visible
+- Changed pack.png
+- Changed 'Enchanted Golden Apple' to 'Notch Apple' (English languages only)
+- Changed glass_pane_top texture
+- Changed the Comparator and Repeater (item) models rotation (first and third person)
+- Changed hotbar attack indicator texture
+- Minor changes and optimisations to existing 3D block models
+- Minor changes to the lock button
+- Fixed Globe Banner texture
+- Fixed trapdoor item models being too low in first-person
+- Fixed missing Silverfish texture
+- Fixed Minecart texture
+- Removed Lily Pad Optifine CTM textures (not needed because of the new models)

@@ -1,0 +1,4 @@
+- Create CTM textures for stripped logs
+- Convert and add old CTM textures
+- More 3D Models (Crops, Pumpkin, Iron Bars, etc.)
+- Add missing Horse Armour textures

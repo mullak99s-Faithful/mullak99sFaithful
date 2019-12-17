@@ -88,7 +88,8 @@ How you MUST give credit:
 - Add a text file (Such as 'Credits.txt') to your pack.zip with my name and link to the thread.
 
 Bonus ways to credit: *These are not required* 
-- You could also put my name in the pack description (pack.mcmeta). 
+- You could also put my name in the pack description (pack.mcmeta).
+- If you use any of my textures feel free to contact me and let me know.
 
 Final Notes:
 - If I request that I don't want you using resources from my pack this is final. This will only happen in extreme cases.

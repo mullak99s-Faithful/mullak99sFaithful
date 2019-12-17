@@ -1,5 +1,6 @@
 {
-    "parent": "block/torch",
+    "credit": "Created by mullak99",
+	"parent": "block/torch",
 	"display": {
         "gui": {
             "rotation": [ 30, 45, 0 ],
