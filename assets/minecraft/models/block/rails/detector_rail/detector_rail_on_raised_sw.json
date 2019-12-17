@@ -3,6 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"down": "block/detector_rail_on",
+		"particle": "block/detector_rail_on",
 		"up": "block/detector_rail_on",
 		"north": "block/detector_rail_on",
 		"south": "block/detector_rail_on",

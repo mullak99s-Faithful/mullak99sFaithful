@@ -191,21 +191,26 @@
 	"groups": [
 		{
 			"name": "group",
+			"origin": [8, 8, 8],
 			"children": [0,
 				{
 					"name": "north",
+					"origin": [8, 8, 8],
 					"children": [1, 2, 3, 4, 5, 6]
 				},
 				{
 					"name": "west",
+					"origin": [8, 8, 8],
 					"children": [7, 8]
 				},
 				{
 					"name": "east",
+					"origin": [8, 8, 8],
 					"children": [9, 10]
 				},
 				{
 					"name": "south",
+					"origin": [8, 8, 8],
 					"children": [11, 12, 13, 14, 15, 16]
 				}
 			]

@@ -244,6 +244,7 @@
 - Added 1.14 Entity textures
 - Added 1.14 GUI textures
 - Added Lily Pad CTM textures
+- Added Vine CTM textures
 - Added GUI textures for ModMenu and REI
 - Added 3D Rail models
 - Added 3D Lantern item model
@@ -255,16 +256,37 @@
 - Added 3D Furnace, Smoker and Blast Furnace models
 - Added 3D Haybale model
 - Added 3D Jukebox model
+- Added 3D Bell item model
+- Added 3D Campfire item model
+- Added 3D Flower Pot item model
+- Added 3D Boat item models
+- Added 3D Minecart item models
+- Added coloured bow pulling textures
+- Added directional indicators to Observers and Hoppers
+- Added slime to the side of sticky piston heads
+- Added enchanted item glint
+- Added transparant Pumpkin Blur texture
+- Readded some more CTM textures
 - Updated Recipe Book GUI
 - Updated Beacon UI
 - Updated Minecraft title texture
+- Updated Horse textures
+- Updated 'Java Edition' title GUI
 - Changes to the Pumpkin and Jack o'Lantern model
 - Changes to the potion effect icons
+- Changes to the attack icon (crosshair)
 - Changes to the 3D Ladder item model position
+- Changes to the 3D Brewing Stand item model (scale in item frame)
 - Changed Shield model to make it less visible
 - Changed pack.png
+- Changed 'Enchanted Golden Apple' to 'Notch Apple' (English languages only)
+- Changed glass_pane_top texture
+- Changed the Comparator and Repeater (item) models rotation (first and third person)
+- Changed hotbar attack indicator texture
 - Minor changes and optimisations to existing 3D block models
 - Minor changes to the lock button
 - Fixed Globe Banner texture
 - Fixed trapdoor item models being too low in first-person
+- Fixed missing Silverfish texture
+- Fixed Minecart texture
 - Removed Lily Pad Optifine CTM textures (not needed because of the new models)
