@@ -290,3 +290,10 @@
 - Fixed missing Silverfish texture
 - Fixed Minecart texture
 - Removed Lily Pad Optifine CTM textures (not needed because of the new models)
+
+--------------------
+| - Version 1.15 - |
+
+- Added 1.15 Block textures
+- Added 1.15 Item textures
+- Added 1.15 Entity textures
