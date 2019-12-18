@@ -1,10 +1,11 @@
 ~~~~~~~~~ mullak99's Faithful 32x ~~~~~~~~~
 
-Terms Updated: 09/12/2018
+Terms Updated: 18/12/2019
 
 Latest Terms: https://raw.githubusercontent.com/mullak99s-Faithful/mullak99sFaithful/dev/Legal.txt
 
 Official Links:
+https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x
 https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1244998
 https://github.com/mullak99s-Faithful/mullak99sFaithful
 
@@ -99,11 +100,10 @@ Final Notes:
 - These guidelines may be changed at anytime, by using this pack you agree to the latest terms (Can be found using the link at the top of this file).
 
 For any other queries find me on:
+Email: mullak99@mullak99.co.uk
 Twitter: @mullak99 (http://www.twitter.com/mullak99)
 Youtube: mullak99 (http://www.youtube.com/mullak99)
 MinecraftForum: mullak99 (http://www.minecraftforum.net/members/mullak99)
-
-
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -116,8 +116,9 @@ Dowsey/JustJoshy - Dowsey's Faithful (Inspiration for GUI)
 
 ----------------------------------------------------------------------------------------------------------------
 
-mullak99's Faithful - https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1244998
+mullak99's Faithful - https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x
 Vattic's Faithful - https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1223254
+xMrVizzy/FaithfulTeam - https://faithful.team/
 AntVenom's FaithfulVenom - http://antvenom.com/files/
 Dowsey's Faithful - https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1243684
 
