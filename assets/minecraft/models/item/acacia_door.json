@@ -1,6 +1,7 @@
 {
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
+	"gui_light": "front",
 	"textures": {
 		"door_bottom": "block/acacia_door_bottom",
 		"door_bottom_side_bottom_hinge": "ctm/doors/acacia/side_bottom_hinge",

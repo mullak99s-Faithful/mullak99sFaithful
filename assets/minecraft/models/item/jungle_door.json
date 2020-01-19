@@ -1,6 +1,7 @@
 {
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
+	"gui_light": "front",
 	"textures": {
 		"door_bottom": "block/jungle_door_bottom",
 		"door_bottom_bottom": "ctm/doors/jungle/bottom",
