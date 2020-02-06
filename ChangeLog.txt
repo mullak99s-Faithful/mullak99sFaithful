@@ -297,3 +297,13 @@
 - Added 1.15 Block textures
 - Added 1.15 Item textures
 - Added 1.15 Entity textures
+- Added Horse Armour textures
+- Added Minecraft Realm title texture
+- Compressed many textures
+- Changed Painting texture
+- Changed Iron and Gold Ingot textures
+- Changed Dried Kelp texture
+- Changed realms On, Off, and Expired icons
+- Updated Jukebox 3D Model
+- Updated Beehive and Bees Nest textures/models
+- Removed REI GUI textures
