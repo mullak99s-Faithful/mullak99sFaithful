@@ -1,6 +1,7 @@
 {
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
+	"gui_light": "front",
 	"textures": {
 		"door_bottom": "block/birch_door_bottom",
 		"door_bottom_side_bottom": "ctm/doors/birch/side_bottom",
