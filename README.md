@@ -22,6 +22,6 @@ The snapshot branch will contain the absolute latest version of the resource pac
 
 ## Official Links
 
-CurseForge Project: https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x
-Github Repo: https://github.com/mullak99s-Faithful/mullak99sFaithful
-MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998/
+CurseForge Project: https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x  
+Github Repo: https://github.com/mullak99s-Faithful/mullak99sFaithful  
+MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998/  
