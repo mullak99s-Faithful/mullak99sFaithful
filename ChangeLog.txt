@@ -307,3 +307,10 @@
 - Updated Jukebox 3D Model
 - Updated Beehive and Bees Nest textures/models
 - Removed REI GUI textures
+
+--------------------
+| - Version 1.16 - |
+
+- Added 1.16 Block textures
+- Added 1.16 Item textures
+- Added 1.16 Entity textures

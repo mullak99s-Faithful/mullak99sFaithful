@@ -1,3 +1,11 @@
 - Create CTM textures for stripped logs
 - Convert and add old CTM textures
 - More 3D Models (Crops, Pumpkin, Iron Bars, etc.)
+- Netherite Armour models
+- Stripped Stem textures
+- Soul Soil texture
+- Warped trapdoor textures and 3D models
+- Crimson and Warped door 3D models
+- Warped door textures
+- Broken Soul Fire Lantern texture (Maybe model related)
+- Crimson and Warped sign entity textures
