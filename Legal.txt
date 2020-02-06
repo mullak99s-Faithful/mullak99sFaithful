@@ -1,6 +1,6 @@
 ~~~~~~~~~ mullak99's Faithful 32x ~~~~~~~~~
 
-Terms Updated: 18/12/2019
+Terms Updated: 05/02/2019
 
 Latest Terms: https://raw.githubusercontent.com/mullak99s-Faithful/mullak99sFaithful/dev/Legal.txt
 
@@ -85,8 +85,8 @@ You MAY NOT:
 - Reupload this pack onto other sites without my permission (If its your custom variant of this pack it is fine).
 
 How you MUST give credit:
-- If you have a forum page clearly link back to my thread as well as clearly putting my name in the thread.
-- Add a text file (Such as 'Credits.txt') to your pack.zip with my name and link to the thread.
+- If you have a forum page clearly link back to my project as well as clearly putting my name in your project/thread.
+- Add a text file (Such as 'Credits.txt') to your pack.zip with my name and link to my project/thread.
 
 Bonus ways to credit: *These are not required* 
 - You could also put my name in the pack description (pack.mcmeta).
@@ -101,9 +101,9 @@ Final Notes:
 
 For any other queries find me on:
 Email: mullak99@mullak99.co.uk
-Twitter: @mullak99 (http://www.twitter.com/mullak99)
-Youtube: mullak99 (http://www.youtube.com/mullak99)
-MinecraftForum: mullak99 (http://www.minecraftforum.net/members/mullak99)
+Discord: https://discord.mullak99.co.uk/
+Twitter: @mullak99 (https://www.twitter.com/mullak99)
+Github: mullak99 (https://github.com/mullak99)
 
 ----------------------------------------------------------------------------------------------------------------
 
