@@ -1,6 +1,6 @@
 # mullak99's Faithful 32x
 
-**Current Branch Version:** _v1.16-S200207-1_  
+**Current Branch Version:** _v1.16-S200217-1_  
 
 ## Branch Breakdown
 

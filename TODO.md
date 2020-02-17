@@ -4,3 +4,4 @@
 - Netherite Armour models
 - Warped trapdoor textures and 3D models
 - Crimson and Warped door 3D models
+- Zombie Piglin texture
