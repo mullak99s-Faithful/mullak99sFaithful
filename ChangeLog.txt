@@ -307,3 +307,10 @@
 - Updated Jukebox 3D Model
 - Updated Beehive and Bees Nest textures/models
 - Removed REI GUI textures
+
+--------------------
+| - Version 1.15.1 - |
+
+- Added quieter Nether Portal and Minecart sounds
+- Changed Netherrack blockstate so it no longer randomly rotates
+- Optimised Jukebox 3D models
