@@ -321,3 +321,5 @@
 - Added calm4.ogg
 - Changed Rail 3D models (Removed stretched textures)
 - Muted 'Nether', 'Creative' and 'Menu' music tracks
+- Fixed Shield pattern textures
+- Fixed inconsistent shulker textures
