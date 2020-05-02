@@ -330,3 +330,4 @@
 - Added 1.16 Block textures
 - Added 1.16 Item textures
 - Added 1.16 Entity textures
+- Changed Nether Brick textures to JAPPA-styled versions

@@ -1,7 +1,6 @@
 - Create CTM textures for stripped logs
 - Convert and add old CTM textures
 - More 3D Models (Crops, Pumpkin, Iron Bars, etc.)
-- Netherite Armour models
 - Warped trapdoor textures and 3D models
 - Crimson and Warped door 3D models
-- Zombie Piglin texture
+- Change signs to Pre-JAPPA textures (Oak already done)
