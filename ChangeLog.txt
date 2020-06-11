@@ -323,3 +323,11 @@
 - Muted 'Nether', 'Creative' and 'Menu' music tracks
 - Fixed Shield pattern textures
 - Fixed inconsistent shulker textures
+
+----------------------
+| - Version 1.15.3 - |
+
+- Added missing skeleton horse textures
+- Changed Mooshroom textures to Pre-JAPPA style
+- Fixed cow texture
+- Removed unused textures
