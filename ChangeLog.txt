@@ -98,7 +98,7 @@
 - Added custom language file
 - [WIP] Connected Textures Stained Glass (NOT ENABLED YET)
 - Stream icons
-- CTM additions 
+- CTM additions
 - Minor texture changes
 
 ---------------------
@@ -331,3 +331,11 @@
 - Changed Mooshroom textures to Pre-JAPPA style
 - Fixed cow texture
 - Removed unused textures
+
+--------------------
+| - Version 1.16 - |
+
+- Added 1.16 Block textures
+- Added 1.16 Item textures
+- Added 1.16 Entity textures
+- Changed Nether Brick textures to JAPPA-styled versions
