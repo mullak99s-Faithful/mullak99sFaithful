@@ -1,6 +1,5 @@
 - Create CTM textures for stripped logs
 - Convert and add old CTM textures
 - More 3D Models (Crops, Pumpkin, Iron Bars, etc.)
-- Warped trapdoor textures and 3D models
-- Crimson and Warped door 3D models
+- Warped trapdoor 3D models
 - Change signs to Pre-JAPPA textures (Oak already done)
