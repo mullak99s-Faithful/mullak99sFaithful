@@ -1,0 +1,32 @@
+{
+	"credit": "Created by mullak99",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/warped_door_top",
+		"door": "block/warped_door_top",
+		"side_top": "ctm/doors/warped/side_top",
+		"side_top_hinge": "ctm/doors/warped/side_top_hinge",
+		"top": "ctm/doors/warped/top"
+	},
+	"elements": [
+		{
+			"name": "main",
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [3, 0, 0, 16], "texture": "#side_top_hinge", "cullface": "north"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#door"},
+				"south": {"uv": [0, 0, 3, 16], "texture": "#side_top", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#door", "cullface": "west"},
+				"up": {"uv": [0, 3, 16, 0], "rotation": 90, "texture": "#top", "cullface": "up"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"children": [0]
+		}
+	]
+}

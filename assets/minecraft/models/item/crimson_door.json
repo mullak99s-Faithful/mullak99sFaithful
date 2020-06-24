@@ -1,0 +1,117 @@
+{
+	"credit": "Created by mullak99",
+	"ambientocclusion": false,
+	"textures": {
+		"door_bottom": "block/crimson_door_bottom",
+		"door_bottom_bottom": "ctm/doors/crimson/bottom",
+		"door_bottom_side_bottom": "ctm/doors/crimson/side_bottom",
+		"door_bottom_side_bottom_hinge": "ctm/doors/crimson/side_bottom_hinge",
+		"particle": "block/crimson_door_top",
+		"door_top": "block/crimson_door_top",
+		"door_top_side_top": "ctm/doors/crimson/side_top",
+		"door_top_side_top_hinge": "ctm/doors/crimson/side_top_hinge",
+		"door_top_top": "ctm/doors/crimson/top"
+	},
+	"elements": [
+		{
+			"name": "main",
+			"from": [0, 16, 0],
+			"to": [3, 32, 16],
+			"faces": {
+				"north": {"uv": [3, 0, 0, 16], "texture": "#door_top_side_top_hinge", "cullface": "north"},
+				"east": {"uv": [16, 0, 0, 16], "texture": "#door_top"},
+				"south": {"uv": [0, 0, 3, 16], "texture": "#door_top_side_top", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#door_top", "cullface": "west"},
+				"up": {"uv": [0, 3, 16, 0], "rotation": 90, "texture": "#door_top_top", "cullface": "up"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [0, 12, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [3, 0, 0, 4], "texture": "#door_bottom_side_bottom_hinge", "cullface": "north"},
+				"east": {"uv": [16, 11, 0, 15], "texture": "#door_bottom"},
+				"south": {"uv": [0, 0, 3, 4], "texture": "#door_bottom_side_bottom", "cullface": "south"},
+				"west": {"uv": [0, 11, 16, 15], "texture": "#door_bottom", "cullface": "west"}
+			}
+		},
+		{
+			"name": "bottom",
+			"from": [0, 0, 0],
+			"to": [3, 12, 16],
+			"faces": {
+				"north": {"uv": [3, 4, 0, 16], "texture": "#door_bottom_side_bottom_hinge", "cullface": "north"},
+				"east": {"uv": [16, 4, 0, 16], "texture": "#door_bottom"},
+				"south": {"uv": [0, 4, 3, 16], "texture": "#door_bottom_side_bottom", "cullface": "south"},
+				"west": {"uv": [0, 4, 16, 16], "texture": "#door_bottom", "cullface": "west"},
+				"down": {"uv": [0, 0, 16, 3], "rotation": 270, "texture": "#door_bottom_bottom", "cullface": "down"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 0.75, -0.75],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 0.75, 1.75],
+			"scale": [0.2, 0.2, -0.2]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 10, 0],
+			"translation": [2, 0.5, 0.5],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 10, 0],
+			"translation": [-2, 0.5, 0.5],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"ground": {
+			"translation": [1.5, 1, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"gui": {
+			"rotation": [0, 90, 0],
+			"translation": [0, -3.5, 0],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"head": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 1.5, -6.5]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"translation": [0, -3.5, 3.25],
+			"scale": [0.45, 0.45, 0.45]
+		}
+	},
+	"groups": [
+		{
+			"name": "crimson_door_top",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "group",
+					"origin": [8, 8, 8],
+					"children": [0]
+				}
+			]
+		},
+		{
+			"name": "crimson_door_bottom",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "group",
+					"origin": [8, 8, 8],
+					"children": [1, 2]
+				}
+			]
+		}
+	]
+}

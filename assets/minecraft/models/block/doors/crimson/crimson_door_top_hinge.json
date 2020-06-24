@@ -1,0 +1,32 @@
+{
+	"credit": "Created by mullak99",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "ctm/doors/crimson/side_top",
+		"2": "ctm/doors/crimson/side_top_hinge",
+		"3": "ctm/doors/crimson/top",
+		"particle": "block/crimson_door_top",
+		"door": "block/crimson_door_top"
+	},
+	"elements": [
+		{
+			"name": "main",
+			"from": [0, 0, 0],
+			"to": [3, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 3, 16], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#door"},
+				"south": {"uv": [3, 0, 0, 16], "texture": "#2", "cullface": "south"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#door", "cullface": "west"},
+				"up": {"uv": [0, 3, 16, 0], "rotation": 270, "texture": "#3", "cullface": "up"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"children": [0]
+		}
+	]
+}
