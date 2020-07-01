@@ -1,6 +1,6 @@
 # mullak99's Faithful 32x (1.8 Backport)
 
-**Current Branch Version:** _v1.15-BP1_  
+**Current Branch Version:** _v1.15_BR1_  
 
 ## Branch Breakdown
 

@@ -1,6 +1,6 @@
 ~~~~~ mullak99's Faithful (1.8 Backport) ~~~~~
 
 --------------------------
-| - Version 1.15_BP-R1 - |
+| - Version 1.15_BR1 - |
 
 - Initial Release
