@@ -338,4 +338,8 @@
 - Added 1.16 Block textures
 - Added 1.16 Item textures
 - Added 1.16 Entity textures
+- Added 1.16 GUI textures
+- Added Instant Damage, Instant Health, and Saturation mob effect textures
+- Changed sign textures to Pre-JAPPA-styled versions
 - Changed Nether Brick textures to JAPPA-styled versions
+- Updated and fixed various fonts
