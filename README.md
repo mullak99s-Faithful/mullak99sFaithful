@@ -1,6 +1,6 @@
 # mullak99's Faithful 32x
 
-**Current Branch Version:** _v1.16-RC1_  
+**Current Branch Version:** _v1.16_  
 
 ## Branch Breakdown
 
@@ -25,3 +25,7 @@ The snapshot branch will contain the absolute latest version of the resource pac
 CurseForge Project: https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x  
 Github Repo: https://github.com/mullak99s-Faithful/mullak99sFaithful  
 MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998/  
+
+## Related Projects
+MC1.8 Backport: https://github.com/mullak99s-Faithful/mullak99sFaithful-1.8BP  
+AlphaSounds: https://github.com/mullak99s-Faithful/AlphaSounds
