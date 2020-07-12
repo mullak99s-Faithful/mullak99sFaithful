@@ -349,8 +349,10 @@
 
 - Added Natural textures for Nether Gold Ore (Optifine Natural Textures)
 - Added 3D item models for glass panes (Makes them much easier to see in the GUI)
+- Added more CTM textures for red and brown mushrooms
 - Changed Iron Nugget texture (Rotated to match Gold Nugget)
 - Fixed Gold Nugget texture (Nugget used old ingot colours)
+- Updated and tweaked various 3D block models (Major changes to Blast Furnace and Smoker)
 - Updated 'non-latin_european' font
 - Updated and fixed various shield patterns
 - Minor changes to Nether Gold Ore texture
