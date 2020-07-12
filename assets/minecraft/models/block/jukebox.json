@@ -15,8 +15,8 @@
 			"faces": {
 				"north": {"uv": [0, 10, 16, 16], "texture": "#side", "cullface": "north"},
 				"east": {"uv": [0, 10, 16, 16], "texture": "#side", "cullface": "east"},
-				"south": {"uv": [0, 10, 16, 16], "texture": "#side", "cullface": "south"},
-				"west": {"uv": [0, 10, 16, 16], "texture": "#side", "cullface": "west"},
+				"south": {"uv": [16, 10, 0, 16], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [16, 10, 0, 16], "texture": "#side", "cullface": "west"},
 				"down": {"uv": [0, 0, 16, 16], "texture": "#side", "cullface": "down"}
 			}
 		},
@@ -80,8 +80,8 @@
 			"faces": {
 				"north": {"uv": [9, 0, 16, 10], "texture": "#side", "cullface": "north"},
 				"east": {"uv": [7, 3, 7.5, 13], "rotation": 90, "texture": "#top"},
-				"south": {"uv": [0, 0, 7, 10], "texture": "#side", "cullface": "south"},
-				"west": {"uv": [0, 0, 16, 10], "texture": "#side", "cullface": "west"},
+				"south": {"uv": [16, 0, 9, 10], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [16, 0, 0, 10], "texture": "#side", "cullface": "west"},
 				"up": {"uv": [0, 0, 7, 16], "texture": "#top", "cullface": "up"}
 			}
 		},
@@ -92,7 +92,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2, 8]},
 			"faces": {
 				"north": {"uv": [7, 13, 9, 13.5], "texture": "#top"},
-				"south": {"uv": [7, 0, 9, 10], "texture": "#side", "cullface": "south"},
+				"south": {"uv": [9, 0, 7, 10], "texture": "#side", "cullface": "south"},
 				"up": {"uv": [7, 13.5, 9, 16], "texture": "#top", "cullface": "up"}
 			}
 		},
@@ -126,7 +126,7 @@
 			"faces": {
 				"north": {"uv": [0, 0, 7, 10], "texture": "#side", "cullface": "north"},
 				"east": {"uv": [0, 0, 16, 10], "texture": "#side", "cullface": "east"},
-				"south": {"uv": [9, 0, 16, 10], "texture": "#side", "cullface": "south"},
+				"south": {"uv": [7, 0, 0, 10], "texture": "#side", "cullface": "south"},
 				"west": {"uv": [8.5, 3, 9, 13], "rotation": 90, "texture": "#top"},
 				"up": {"uv": [9, 0, 16, 16], "texture": "#top", "cullface": "up"}
 			}
