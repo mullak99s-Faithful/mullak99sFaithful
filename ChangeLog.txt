@@ -352,6 +352,7 @@
 - Added more CTM textures for red and brown mushrooms
 - Changed Iron Nugget texture (Rotated to match Gold Nugget)
 - Fixed Gold Nugget texture (Nugget used old ingot colours)
+- Fixed Powered Rail model (non-raised)
 - Updated and tweaked various 3D block models (Major changes to Blast Furnace and Smoker)
 - Updated 'non-latin_european' font
 - Updated and fixed various shield patterns
