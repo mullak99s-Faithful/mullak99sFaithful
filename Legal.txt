@@ -1,6 +1,6 @@
 ~~~~~~~~~ mullak99's Faithful 32x ~~~~~~~~~
 
-Terms Updated: 05/02/2019
+Terms Updated: 12/07/2020
 
 Latest Terms: https://raw.githubusercontent.com/mullak99s-Faithful/mullak99sFaithful/dev/Legal.txt
 
@@ -107,18 +107,27 @@ Github: mullak99 (https://github.com/mullak99)
 
 ----------------------------------------------------------------------------------------------------------------
 
-Noteworthy Mentions:
+Noteworthy Mentions and Credits:
 
 Vattic - Faithful 32x (Base textures and Major Inspiration)
 xMrVizzy/Faithful Team - Faithful 32x (Keeping the original Vattic pack updated)
+Faithful Community - Faithful 32x (Creating textures for latest/snapshot versions)
 AntVenom - FaithfulVenom (Major Inspiration)
 Dowsey/JustJoshy - Dowsey's Faithful (Inspiration for GUI)
+
+Honestly, I cannot reasonably list the amount of noteworthy mentions and other credits. 
+The community in the Faithful Team Discord are responsible for many of the snapshot textures that not 
+only make it into my Faithful 32x, but my pack before they are officially added to Faithful 32x.
+
+A majority of this pack would not exist if not for Vattic, xMrVizzy (and the Faithful Team), and the other 
+members of the Faithful Discord.
 
 ----------------------------------------------------------------------------------------------------------------
 
 mullak99's Faithful - https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x
 Vattic's Faithful - https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1223254
 xMrVizzy/FaithfulTeam - https://faithful.team/
+Official FaithfulTeam Discord - https://discord.gg/u2C4pBr
 AntVenom's FaithfulVenom - http://antvenom.com/files/
 Dowsey's Faithful - https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1243684
 

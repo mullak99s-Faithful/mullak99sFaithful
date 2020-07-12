@@ -356,6 +356,9 @@
 - Updated and tweaked various 3D block models (Major changes to Blast Furnace and Smoker)
 - Updated 'non-latin_european' font
 - Updated and fixed various shield patterns
+- Tweaked Crimson and Warped Nylium textures
+- Tweaked Netherrack texture
 - Minor changes to Nether Gold Ore texture
 - Tidied-up various 3D model jsons (less duplicate model-data)
+- Disabled random rotation on Stone
 - Removed unused textures
