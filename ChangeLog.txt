@@ -362,3 +362,10 @@
 - Tidied-up various 3D model jsons (less duplicate model-data)
 - Disabled random rotation on Stone
 - Removed unused textures
+
+----------------------
+| - Version 1.16.2 - |
+
+- Changed Smoker textures to look Pre-JAPPA-styled
+- Fixed missing Hay Bale 3D model (when rotated)
+- Fixed over-aggressive culling on Hay Bale 3D model
