@@ -368,4 +368,4 @@
 
 - Changed Smoker textures to look Pre-JAPPA-styled
 - Fixed missing Hay Bale 3D model (when rotated)
-- Fixed over-agressive culling on Hay Bale 3D model
+- Fixed over-aggressive culling on Hay Bale 3D model
