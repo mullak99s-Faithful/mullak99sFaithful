@@ -366,6 +366,11 @@
 ----------------------
 | - Version 1.16.2 - |
 
+- Added 3D Iron Bars model(s)
+- Added 3D Lantern and Soul Lantern models
 - Changed Smoker textures to look Pre-JAPPA-styled
+- Compressed some textures
 - Fixed missing Hay Bale 3D model (when rotated)
 - Fixed over-aggressive culling on Hay Bale 3D model
+- Fixed Smoker and Blast Furnace console warnings
+- Removed more unused textures

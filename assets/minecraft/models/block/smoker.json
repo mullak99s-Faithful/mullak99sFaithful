@@ -322,7 +322,6 @@
 			"faces": {
 				"north": {"uv": [11.5, 4, 12.5, 8], "texture": "#door", "cullface": "north"},
 				"east": {"uv": [3.5, 4, 12.5, 8], "texture": "#door", "cullface": "north"},
-				"south": {"uv": [0, 0, 1, 4], "texture": "#missing"},
 				"west": {"uv": [12.5, 4, 3.5, 8], "texture": "#door"},
 				"up": {"uv": [3.5, 4, 12.5, 5], "rotation": 90, "texture": "#door"},
 				"down": {"uv": [3.5, 4, 12.5, 5], "rotation": 270, "texture": "#door"}
