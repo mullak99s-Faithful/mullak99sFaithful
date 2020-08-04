@@ -374,3 +374,8 @@
 - Fixed over-aggressive culling on Hay Bale 3D model
 - Fixed Smoker and Blast Furnace console warnings
 - Removed more unused textures
+
+----------------------
+| - Version 1.16.3 - |
+
+- Updated fonts
