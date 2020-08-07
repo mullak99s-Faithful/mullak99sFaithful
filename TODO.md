@@ -2,3 +2,4 @@
 - Convert and add old CTM textures
 - More 3D Models (Crops, Pumpkin, Iron Bars, etc.)
 - Improve Stonecutter 3D Model
+- Crimson Fungus CTM

@@ -378,4 +378,5 @@
 ----------------------
 | - Version 1.16.3 - |
 
+- Added Warped Fungus variants
 - Updated fonts
