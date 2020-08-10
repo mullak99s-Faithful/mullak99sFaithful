@@ -1,6 +1,6 @@
 # mullak99's Faithful 32x (1.8 Backport)
 
-**Current Version:** _v1.15_BR2_  
+**Current Version:** _v1.16_BR1_  
 
 ## Official Links
 

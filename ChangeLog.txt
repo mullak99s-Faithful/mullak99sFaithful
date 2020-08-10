@@ -98,7 +98,7 @@
 - Added custom language file
 - [WIP] Connected Textures Stained Glass (NOT ENABLED YET)
 - Stream icons
-- CTM additions 
+- CTM additions
 - Minor texture changes
 
 ---------------------
@@ -307,3 +307,79 @@
 - Updated Jukebox 3D Model
 - Updated Beehive and Bees Nest textures/models
 - Removed REI GUI textures
+
+----------------------
+| - Version 1.15.1 - |
+
+- Added quieter Nether Portal and Minecart sounds
+- Changed Netherrack blockstate so it no longer randomly rotates
+- Optimised Jukebox 3D models
+
+----------------------
+| - Version 1.15.2 - |
+
+- Added calm4.ogg
+- Changed Rail 3D models (Removed stretched textures)
+- Muted 'Nether', 'Creative' and 'Menu' music tracks
+- Fixed Shield pattern textures
+- Fixed inconsistent shulker textures
+
+----------------------
+| - Version 1.15.3 - |
+
+- Added missing skeleton horse textures
+- Changed Mooshroom textures to Pre-JAPPA style
+- Fixed cow texture
+- Removed unused textures
+
+--------------------
+| - Version 1.16 - |
+
+- Added 1.16 Block textures
+- Added 1.16 Item textures
+- Added 1.16 Entity textures
+- Added 1.16 GUI textures
+- Added Instant Damage, Instant Health, and Saturation mob effect textures
+- Changed sign textures to Pre-JAPPA-styled versions
+- Changed Nether Brick textures to JAPPA-styled versions
+- Updated and fixed various fonts
+
+----------------------
+| - Version 1.16.1 - |
+
+- Added Natural textures for Nether Gold Ore (Optifine Natural Textures)
+- Added 3D item models for glass panes (Makes them much easier to see in the GUI)
+- Added more CTM textures for red and brown mushrooms
+- Changed Iron Nugget texture (Rotated to match Gold Nugget)
+- Fixed Gold Nugget texture (Nugget used old ingot colours)
+- Fixed Powered Rail model (non-raised)
+- Updated and tweaked various 3D block models (Major changes to Blast Furnace and Smoker)
+- Updated 'non-latin_european' font
+- Updated and fixed various shield patterns
+- Tweaked Crimson and Warped Nylium textures
+- Tweaked Netherrack texture
+- Minor changes to Nether Gold Ore texture
+- Tidied-up various 3D model jsons (less duplicate model-data)
+- Disabled random rotation on Stone
+- Removed unused textures
+
+----------------------
+| - Version 1.16.2 - |
+
+- Added 3D Iron Bars model(s)
+- Added 3D Lantern and Soul Lantern models
+- Changed Smoker textures to look Pre-JAPPA-styled
+- Compressed some textures
+- Fixed missing Hay Bale 3D model (when rotated)
+- Fixed over-aggressive culling on Hay Bale 3D model
+- Fixed Smoker and Blast Furnace console warnings
+- Removed more unused textures
+
+----------------------
+| - Version 1.16.3 - |
+
+- Added Crimson and Warped Fungus variants
+- Changed Strength, Weakness, Instant Health, and Instant Damage effect icons
+- Changed Attack cooldown icons (hotbar)
+- Changed crosshair
+- Updated fonts

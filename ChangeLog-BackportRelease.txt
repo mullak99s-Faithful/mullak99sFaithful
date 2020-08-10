@@ -1,12 +1,17 @@
 ~~~~~ mullak99's Faithful (1.8 Backport) ~~~~~
 
---------------------------
+------------------------
 | - Version 1.15_BR1 - |
 
 - Initial Release
 
---------------------------
+------------------------
 | - Version 1.15_BR2 - |
 
 - Fixed pack.mcmeta
 - Updated Legal.txt
+
+------------------------
+| - Version 1.16_BR1 - |
+
+- Used textures from v1.16.3-BETA1
