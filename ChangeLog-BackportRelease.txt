@@ -4,3 +4,9 @@
 | - Version 1.15_BR1 - |
 
 - Initial Release
+
+--------------------------
+| - Version 1.15_BR2 - |
+
+- Fixed pack.mcmeta
+- Updated Legal.txt
