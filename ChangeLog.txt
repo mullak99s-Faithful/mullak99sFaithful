@@ -374,3 +374,12 @@
 - Fixed over-aggressive culling on Hay Bale 3D model
 - Fixed Smoker and Blast Furnace console warnings
 - Removed more unused textures
+
+----------------------
+| - Version 1.16.3 - |
+
+- Added Crimson and Warped Fungus variants
+- Changed Strength, Weakness, Instant Health, and Instant Damage effect icons
+- Changed Attack cooldown icons (hotbar)
+- Changed crosshair
+- Updated fonts
