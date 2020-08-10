@@ -1,6 +1,6 @@
 # mullak99's Faithful 32x
 
-**Current Branch Version:** _v1.16.3-CT200810-1_  
+**Current Branch Version:** _v1.16.3-BETA1_  
 
 ## Branch Breakdown
 
