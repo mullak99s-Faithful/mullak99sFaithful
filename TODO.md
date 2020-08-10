@@ -1,5 +1,4 @@
 - Create CTM textures for stripped logs
 - Convert and add old CTM textures
-- More 3D Models (Crops, Pumpkin, Iron Bars, etc.)
+- More 3D Models (Crops, Pumpkin, etc.)
 - Improve Stonecutter 3D Model
-- Crimson Fungus CTM

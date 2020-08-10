@@ -378,5 +378,8 @@
 ----------------------
 | - Version 1.16.3 - |
 
-- Added Warped Fungus variants
+- Added Crimson and Warped Fungus variants
+- Changed Strength, Weakness, Instant Health, and Instant Damage effect icons
+- Changed Attack cooldown icons (hotbar)
+- Changed crosshair
 - Updated fonts
