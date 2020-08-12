@@ -379,7 +379,15 @@
 | - Version 1.16.3 - |
 
 - Added Crimson and Warped Fungus variants
+- Added 3D Turtle Egg item model
+- Added 3D Sea Pickle item model
 - Changed Strength, Weakness, Instant Health, and Instant Damage effect icons
 - Changed Attack cooldown icons (hotbar)
 - Changed crosshair
+- Changed redstone dust textures
+- Changed redstone repeater textures
+- Changed Totem of Undying texture
 - Updated fonts
+- Fixed Z-fighting on raised Powered Rails
+- Fixed Z-fighting on Torch 3D item model (in third-person)
+- Fixed aggressive face culling on all raised rails (Normal, Powered, Activator and Detector)
