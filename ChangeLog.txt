@@ -396,3 +396,8 @@
 | - Version 1.16.4 - |
 
 - Fixed Z-fighting on Redstone Torch 3D item model (in third-person)
+
+----------------------
+| - Version 1.16.5 - |
+
+- Added missing Nether Sprouts item texture
