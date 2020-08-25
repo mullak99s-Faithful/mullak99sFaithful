@@ -391,3 +391,8 @@
 - Fixed Z-fighting on raised Powered Rails
 - Fixed Z-fighting on Torch 3D item model (in third-person)
 - Fixed aggressive face culling on all raised rails (Normal, Powered, Activator and Detector)
+
+----------------------
+| - Version 1.16.4 - |
+
+- Fixed Z-fighting on Redstone Torch 3D item model (in third-person)
