@@ -401,3 +401,4 @@
 | - Version 1.16.5 - |
 
 - Added missing Nether Sprouts item texture
+- New pack.png and unknown_pack.png
