@@ -402,3 +402,10 @@
 
 - Added missing Nether Sprouts item texture
 - New pack.png and unknown_pack.png
+
+----------------------
+| - Version 1.16.6 - |
+
+- Updated Blackstone (and Blackstone variants) textures
+- Compressed various textures
+- Removed unused bed item texture
