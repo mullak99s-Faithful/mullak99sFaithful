@@ -409,3 +409,16 @@
 - Updated Blackstone (and Blackstone variants) textures
 - Compressed various textures
 - Removed unused bed item texture
+
+----------------------
+| - Version 1.16.7 - |
+
+- Added social interactions UI
+- Updated toasts (w/ social interactions button)
+- Changes to Basalt textures
+- Changes to Polished Basalt textures
+- Changes to Lodestone textures
+- Changes to Shroomlight texture
+- Minor improvements to the recipe book UI
+- Minor changes to loom_side texture
+- Minor changes to Netherite armour item textures
