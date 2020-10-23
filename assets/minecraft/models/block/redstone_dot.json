@@ -1,0 +1,27 @@
+{
+	"credit": "Created by mullak99",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/redstone_dust_dot",
+		"dust": "block/redstone_dust_dot"
+	},
+	"elements": [
+		{
+			"name": "redstone_dust_dot",
+			"from": [0, 0, 0],
+			"to": [16, 0.3, 16],
+			"shade": false,
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#dust", "tintindex": 0},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#dust", "tintindex": 0}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 8, 8],
+			"children": [0]
+		}
+	]
+}

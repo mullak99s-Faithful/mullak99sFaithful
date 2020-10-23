@@ -379,7 +379,46 @@
 | - Version 1.16.3 - |
 
 - Added Crimson and Warped Fungus variants
+- Added 3D Turtle Egg item model
+- Added 3D Sea Pickle item model
 - Changed Strength, Weakness, Instant Health, and Instant Damage effect icons
 - Changed Attack cooldown icons (hotbar)
 - Changed crosshair
+- Changed redstone dust textures
+- Changed redstone repeater textures
+- Changed Totem of Undying texture
 - Updated fonts
+- Fixed Z-fighting on raised Powered Rails
+- Fixed Z-fighting on Torch 3D item model (in third-person)
+- Fixed aggressive face culling on all raised rails (Normal, Powered, Activator and Detector)
+
+----------------------
+| - Version 1.16.4 - |
+
+- Fixed Z-fighting on Redstone Torch 3D item model (in third-person)
+
+----------------------
+| - Version 1.16.5 - |
+
+- Added missing Nether Sprouts item texture
+- New pack.png and unknown_pack.png
+
+----------------------
+| - Version 1.16.6 - |
+
+- Updated Blackstone (and Blackstone variants) textures
+- Compressed various textures
+- Removed unused bed item texture
+
+----------------------
+| - Version 1.16.7 - |
+
+- Added social interactions UI
+- Updated toasts (w/ social interactions button)
+- Changes to Basalt textures
+- Changes to Polished Basalt textures
+- Changes to Lodestone textures
+- Changes to Shroomlight texture
+- Minor improvements to the recipe book UI
+- Minor changes to loom_side texture
+- Minor changes to Netherite armour item textures
