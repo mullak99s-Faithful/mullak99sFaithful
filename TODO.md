@@ -2,3 +2,4 @@
 - Convert and add old CTM textures
 - More 3D Models (Crops, Pumpkin, etc.)
 - Improve Stonecutter 3D Model
+- Add missing 1.17 block and item textures
