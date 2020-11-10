@@ -415,6 +415,7 @@
 
 - Added social interactions UI
 - Updated toasts (w/ social interactions button)
+- Changes to Mod Menu UI textures (Fabric)
 - Changes to Basalt textures
 - Changes to Polished Basalt textures
 - Changes to Lodestone textures
@@ -422,6 +423,7 @@
 - Minor improvements to the recipe book UI
 - Minor changes to loom_side texture
 - Minor changes to Netherite armour item textures
+- Removed unused textures
 
 --------------------
 | - Version 1.17 - |
@@ -430,4 +432,3 @@
 - Added 1.17 Item textures
 - Added 1.17 GUI textures (Spyglass atm)
 - Added 3D Candle item model
-- Removed unused textures
