@@ -424,3 +424,9 @@
 - Minor changes to loom_side texture
 - Minor changes to Netherite armour item textures
 - Removed unused textures
+
+----------------------
+| - Version 1.16.8 - |
+
+- Fixed Recipe Book textures (Missing furnace elements)
+- Fixed Lava Bucket (inconsistent pixels)
