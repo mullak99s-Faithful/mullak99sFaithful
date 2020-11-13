@@ -425,10 +425,16 @@
 - Minor changes to Netherite armour item textures
 - Removed unused textures
 
+----------------------
+| - Version 1.16.8 - |
+
+- Fixed Recipe Book textures (Missing furnace elements)
+- Fixed Lava Bucket (inconsistent pixels)
+
 --------------------
 | - Version 1.17 - |
 
 - Added 1.17 Block textures
 - Added 1.17 Item textures
-- Added 1.17 GUI textures (Spyglass atm)
+- Added 1.17 GUI textures
 - Added 3D Candle item model
