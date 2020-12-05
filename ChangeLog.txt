@@ -430,3 +430,4 @@
 
 - Fixed Recipe Book textures (Missing furnace elements)
 - Fixed Lava Bucket (inconsistent pixels)
+- Compressed various textures
