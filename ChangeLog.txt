@@ -431,3 +431,8 @@
 - Fixed Recipe Book textures (Missing furnace elements)
 - Fixed Lava Bucket (inconsistent pixels)
 - Compressed various textures
+
+----------------------
+| - Version 1.16.9 - |
+
+- Added 3D models for Crimson and Warped doors
