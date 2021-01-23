@@ -443,4 +443,5 @@
 - Added 1.17 Block textures
 - Added 1.17 Item textures
 - Added 1.17 GUI textures
+- Added 1.17 Entity textures
 - Added 3D Candle item model
