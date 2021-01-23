@@ -26,3 +26,5 @@ Thumbs.db
 *.cfg
 *.log
 *.psd
+*.exe
+*.bat
