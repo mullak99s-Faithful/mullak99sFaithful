@@ -437,6 +437,11 @@
 
 - Added 3D models for Crimson and Warped doors
 
+-----------------------
+| - Version 1.16.10 - |
+
+- Improved face culling on Crimson and Warped doors (will fix z-fighting)
+
 --------------------
 | - Version 1.17 - |
 
