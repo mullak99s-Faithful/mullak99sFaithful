@@ -3,3 +3,4 @@
 - More 3D Models (Crops, Pumpkin, etc.)
 - Improve Stonecutter 3D Model
 - Add Axolotl Entity texture
+- Add Moss Block, Rooted Dirt, Azalea Bush & Leaves textures
