@@ -451,3 +451,6 @@
 - Added 1.17 Entity textures
 - Added 3D Candle item model
 - Changed Enchant Glint
+- Changed Experience Bottle to match Splash Potion
+- Changed Grass Block (side) texture
+- Removed vignette
