@@ -26,10 +26,13 @@ Experimental downloads can be found on the [Builds Server](https://builds.mullak
 
 The snapshot branch will contain the absolute latest version of the resource pack for the current(-ish) snapshot version of Minecraft.
 
+Snapshot downloads can be found on the [Builds Server](https://builds.mullak99.co.uk/mullak99s-Faithful/Snapshot-Branch/). A direct link to the latest can be found [here](https://builds.mullak99.co.uk/mullak99s-Faithful/Snapshot-Branch/latest).
+
 ## Official Links
 
 CurseForge Project: https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x  
 GitHub Repo: https://github.com/mullak99s-Faithful/mullak99sFaithful  
+Direct Downloads: https://builds.mullak99.co.uk/mullak99s-Faithful/  
 MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998/  
 
 ## Related Projects
