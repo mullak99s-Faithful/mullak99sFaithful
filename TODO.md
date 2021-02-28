@@ -2,5 +2,7 @@
 - Convert and add old CTM textures
 - More 3D Models (Crops, Pumpkin, etc.)
 - Improve Stonecutter 3D Model
+- Create CTM textures for Crimson and Warped logs
 - Add Axolotl Entity texture
-- Add Rooted Dirt & Leaves textures
+- Add Natural Textures for Deepslate Diamond, Gold, Iron, Lapis, and Redstone Ore
+- Add Smooth Basalt texture
