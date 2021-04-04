@@ -441,3 +441,12 @@
 | - Version 1.16.10 - |
 
 - Improved face culling on Crimson and Warped doors (will fix z-fighting)
+
+-----------------------
+| - Version 1.16.11 - |
+
+- Changed Netherite Armour to look Pre-JAPPA-styled
+- Changed Enchant Glint
+- Changed Experience Bottle to match Splash Potion
+- Changed Grass Block (side) texture
+- Removed vignette
