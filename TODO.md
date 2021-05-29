@@ -5,4 +5,5 @@
 - Create CTM textures for Crimson and Warped logs
 - Add Axolotl Entity texture
 - Add Natural Textures for Deepslate Diamond, Gold, Iron, Lapis, and Redstone Ore
-- Add Smooth Basalt texture
+- Add Light item textures
+- Add Raw Copper Block texture
