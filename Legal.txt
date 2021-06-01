@@ -1,8 +1,8 @@
 ======= mullak99's Faithful 32x =======
 
-Terms Updated: 25/05/2021
+Terms Updated: 01/06/2021
 
-Latest Terms: https://raw.githubusercontent.com/mullak99s-Faithful/mullak99sFaithful/dev/Legal.txt
+Latest Terms: https://raw.githubusercontent.com/mullak99s-Faithful/mullak99sFaithful/master/Legal.txt
 
 Official Links:
 https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x
