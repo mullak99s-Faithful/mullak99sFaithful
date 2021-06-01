@@ -1,0 +1,15 @@
+== Noteworthy Mentions and Credits ==
+
+Vattic - Faithful 32x (Original textures)
+xMrVizzy/Faithful Team - Faithful Team (Some Pre-JAPPA styled textures)
+Faithful Community - Faithful 32x (Creating textures for latest/snapshot versions)
+AntVenom - FaithfulVenom (Inspiration)
+
+Honestly, I cannot reasonably list the amount of noteworthy mentions and other credits. 
+The community in the Faithful Team Discord are responsible for many of the snapshot textures that not 
+only make it into Faithful 32x, but my pack before they are officially added to Faithful 32x.
+
+A majority of this pack would not exist if not for Vattic, xMrVizzy (and the Faithful Team), and the other 
+members of the Faithful Discord.
+
+-----------------------------------------------------------------------------------------------------------
