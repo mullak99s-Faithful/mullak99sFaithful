@@ -9,9 +9,11 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Added 1.17 Entity textures
 - Added 3D Candle item model
 
+## [MC1.16-R13] - 2021-06-02
 ### Changed
 - Changed naming convention (vX.X.X > MCx.x-Rx) [Will apply retroactively]
-- Changed Dirt Path, Mycelium, Farmland, and Podzol side textures
+- Changed Dirt Path, Mycelium, Farmland, Grass (Snow), and Podzol side textures
+- Minor optimisations with Sugar Cane model
 
 ## [MC1.16-R12] - 2021-04-04
 ### Changed
