@@ -7,6 +7,7 @@
 
 |---| 1.17 |---|
 - Add Axolotl entity textures
+- Add Goat entity textures
 - Add Light item textures
 - Add Raw Copper Block texture
 - Add potted Azalea plants textures
