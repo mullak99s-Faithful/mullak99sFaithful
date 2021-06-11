@@ -11,3 +11,4 @@
 - Add Light item textures
 - Add Raw Copper Block texture
 - Add potted Azalea plants textures
+- Add lit candle block textures
