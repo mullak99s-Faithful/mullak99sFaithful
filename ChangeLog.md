@@ -1,13 +1,16 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [Unreleased]
+## [MC1.17-R1] - 2021-06-11
 ### Added
 - Added 1.17 Block textures
 - Added 1.17 Item textures
 - Added 1.17 GUI textures
 - Added 1.17 Entity textures
 - Added 3D Candle item model
+
+### Fixed
+- Fixed incorrect Glass CTM texture (glass_clear/34.png)
 
 ## [MC1.16-R13] - 2021-06-02
 ### Changed
