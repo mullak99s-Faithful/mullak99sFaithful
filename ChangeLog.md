@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [MC1.17-R2] - 2021-06-22
+### Added
+- Added potted Azalea plants textures
+
 ## [MC1.17-R1] - 2021-06-11
 ### Added
 - Added 1.17 Block textures
