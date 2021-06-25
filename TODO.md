@@ -28,3 +28,4 @@
 - Weathered Copper and Cut Copper blocks texture
 - Raw Iron Block texture
 - Deepslate top texture
+- Bee Hive and Nest textures
