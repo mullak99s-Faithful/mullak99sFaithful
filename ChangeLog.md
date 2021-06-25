@@ -2,6 +2,9 @@
 All notable changes to mullak99's Faithful will be documented in this file.
 
 ## [Unreleased]
+### Added
+- Added 3D model for pointed dripstone
+
 ### Fixed
 - Gradient textures on banners
 

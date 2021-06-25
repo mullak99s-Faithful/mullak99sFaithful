@@ -1,0 +1,56 @@
+{
+	"credit": "Created by mullak99",
+	"textures": {
+		"particle": "block/pointed_dripstone_up_frustum",
+		"pointed_dripstone": "block/pointed_dripstone_up_frustum",
+		"dripstone_block": "block/dripstone_block"
+	},
+	"elements": [
+		{
+			"name": "top",
+			"from": [5, 13, 5],
+			"to": [11, 16, 11],
+			"rotation": {"angle": 0, "axis": "z", "origin": [16, 16, 0]},
+			"faces": {
+				"north": {"uv": [5, 0, 11, 3], "texture": "#pointed_dripstone"},
+				"east": {"uv": [5, 0, 11, 3], "texture": "#pointed_dripstone"},
+				"south": {"uv": [5, 0, 11, 3], "texture": "#pointed_dripstone"},
+				"west": {"uv": [5, 0, 11, 3], "texture": "#pointed_dripstone"},
+				"up": {"uv": [5, 5, 11, 11], "texture": "#dripstone_block"}
+			}
+		},
+		{
+			"name": "middle",
+			"from": [4, 7, 4],
+			"to": [12, 13, 12],
+			"rotation": {"angle": 0, "axis": "z", "origin": [16, 16, 0]},
+			"faces": {
+				"north": {"uv": [4, 3, 12, 9], "texture": "#pointed_dripstone"},
+				"east": {"uv": [4, 3, 12, 9], "texture": "#pointed_dripstone"},
+				"south": {"uv": [4, 3, 12, 9], "texture": "#pointed_dripstone"},
+				"west": {"uv": [4, 3, 12, 9], "texture": "#pointed_dripstone"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#dripstone_block"}
+			}
+		},
+		{
+			"name": "bottom",
+			"from": [3, 0, 3],
+			"to": [13, 7, 13],
+			"rotation": {"angle": 0, "axis": "z", "origin": [16, 16, 0]},
+			"faces": {
+				"north": {"uv": [3.5, 9, 13.5, 16], "texture": "#pointed_dripstone"},
+				"east": {"uv": [3.5, 9, 13.5, 16], "texture": "#pointed_dripstone"},
+				"south": {"uv": [3.5, 9, 13.5, 16], "texture": "#pointed_dripstone"},
+				"west": {"uv": [3.5, 9, 13.5, 16], "texture": "#pointed_dripstone"},
+				"up": {"uv": [3, 3, 13, 13], "texture": "#dripstone_block"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "pointed_dripstone",
+			"origin": [8, 8, 8],
+			"children": [0, 1, 2]
+		}
+	]
+}
