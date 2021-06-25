@@ -1,15 +1,31 @@
+-----------------------------------------------------------------------------------------------------------
+
 == Noteworthy Mentions and Credits ==
 
-Vattic - Faithful 32x (Original textures)
-xMrVizzy/Faithful Team - Faithful Team (Some Pre-JAPPA styled textures)
-Faithful Community - Faithful 32x (Creating textures for latest/snapshot versions)
-AntVenom - FaithfulVenom (Inspiration)
+'Vattic' for creating the original Faithful 32x (Pre-1.9 textures)
+'EM32D' for creating the Emulated Vattic packs (Some Post-1.9 textures)
+'Compliance Team' for creating the Compliance Pack (Some Post-1.9 textures)
+'AntVenom' for creating the FaithfulVenom Pack (Major Inspiration)
 
 Honestly, I cannot reasonably list the amount of noteworthy mentions and other credits. 
-The community in the Faithful Team Discord are responsible for many of the snapshot textures that not 
-only make it into Faithful 32x, but my pack before they are officially added to Faithful 32x.
+The community in the "Compliance 32x" Discord, as well as the "Emulated Vattic Textures" Discord
+for creating and maintaining Vattic's original Faithful.
 
-A majority of this pack would not exist if not for Vattic, xMrVizzy (and the Faithful Team), and the other 
-members of the Faithful Discord.
+A majority of this pack would not exist if not for Vattic, Compliance Team, and the 
+Emulated Vattic Team.
+
+-----------------------------------------------------------------------------------------------------------
+
+== Links ==
+
+EM32D: https://www.planetminecraft.com/texture-pack/em32d/
+Compliance: https://compliancepack.net/
+FaithfulVenom: https://antvenom.com/files
+
+-----------------------------------------------------------------------------------------------------------
+
+== Notes ==
+
+Licence's from Vattic, EM32D, and Compliance can be found within the Legal.txt file along with my licence.
 
 -----------------------------------------------------------------------------------------------------------

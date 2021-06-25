@@ -5,8 +5,15 @@ All notable changes to mullak99's Faithful will be documented in this file.
 ### Added
 - Added 3D model for pointed dripstone
 
+### Changed
+- Changed most (1.9+) textures from Faithful's to EM32D or Compliance's
+- Reworked models to fit new textures
+
 ### Fixed
 - Gradient textures on banners
+
+### Removed
+- Removed mirrored deepslate
 
 ## [MC1.17-R2] - 2021-06-22
 ### Added
