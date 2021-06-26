@@ -1,14 +1,4 @@
-## Whenever
-### To Add
-- Create CTM textures for stripped logs
-- Convert and add old CTM textures
-- More 3D Models (Crops, Pumpkin, etc.)
-- Create CTM textures for Crimson and Warped logs
-
-### To Change
-- Improve Stonecutter 3D model
-
-## 1.17
+## [Major]
 ### To Add
 - Raw Copper Block texture
 - Natural Textures for Deepslate Ore
@@ -28,3 +18,14 @@
 - Weathered Copper and Cut Copper blocks texture
 - Raw Iron Block texture
 - Deepslate top texture
+- Warped Door textures and models
+
+## [Minor]
+### To Add
+- Create CTM textures for stripped logs
+- Convert and add old CTM textures
+- More 3D Models (Crops, Pumpkin, etc.)
+- Create CTM textures for Crimson and Warped logs
+
+### To Change
+- Improve Stonecutter 3D model

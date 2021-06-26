@@ -11,9 +11,10 @@ All notable changes to mullak99's Faithful will be documented in this file.
 
 ### Fixed
 - Gradient textures on banners
+- Incorrectly flipped texture on 3D Crimson Door model
 
 ### Removed
-- Removed mirrored deepslate
+- Removed unused textures
 
 ## [MC1.17-R2] - 2021-06-22
 ### Added

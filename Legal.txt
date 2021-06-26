@@ -1,6 +1,6 @@
 ======= mullak99's Faithful 32x =======
 
-Terms Updated: 25/06/2021
+Terms Updated: 26/06/2021
 
 Latest Terms: https://raw.githubusercontent.com/mullak99s-Faithful/mullak99sFaithful/master/Legal.txt
 
@@ -109,7 +109,7 @@ Finally:
 ~~ mullak99's Terms ~~
 
 You MAY:
-- Use this resourcepack in videos (And other media).
+- Use this resourcepack in videos (and other media).
 - Use textures as a base for your resourcepack IF you credit me.
 - Use these textures in your pack IF you credit me.
 - Use this pack for a custom map or server resourcepack IF you credit me.
@@ -133,7 +133,6 @@ Final Notes:
 - Follow Vattic's Guidelines.
 - Follow EM32D's Guidelines.
 - Follow Compliance Team's Guidelines.
-- Many of my download links on will go though a URL Shortner, the purpose of this is to track download/visit counts.
 - These guidelines may be changed at anytime, by using this pack you agree to the latest terms (Can be found using the link at the top of this file).
 
 For any other queries find me on:
