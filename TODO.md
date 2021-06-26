@@ -19,6 +19,7 @@
 - Raw Iron Block texture
 - Deepslate top texture
 - Warped Door textures and models
+- Bee Hive and Nest textures
 
 ## [Minor]
 ### To Add
@@ -29,3 +30,4 @@
 
 ### To Change
 - Improve Stonecutter 3D model
+
