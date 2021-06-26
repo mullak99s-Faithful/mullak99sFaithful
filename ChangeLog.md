@@ -3,15 +3,31 @@ All notable changes to mullak99's Faithful will be documented in this file.
 
 ## [Unreleased]
 ### Added
+- Added 3D model for pointed dripstone
+
+### Fixed
+- Gradient textures on banners
+
+## [MC1.17-R2] - 2021-06-22
+### Added
+- Added potted Azalea plants textures
+
+## [MC1.17-R1] - 2021-06-11
+### Added
 - Added 1.17 Block textures
 - Added 1.17 Item textures
 - Added 1.17 GUI textures
 - Added 1.17 Entity textures
 - Added 3D Candle item model
 
+### Fixed
+- Fixed incorrect Glass CTM texture (glass_clear/34.png)
+
+## [MC1.16-R13] - 2021-06-02
 ### Changed
 - Changed naming convention (vX.X.X > MCx.x-Rx) [Will apply retroactively]
-- Changed Dirt Path, Mycelium, Farmland, and Podzol side textures
+- Changed Dirt Path, Mycelium, Farmland, Grass (Snow), and Podzol side textures
+- Minor optimisations with Sugar Cane model
 
 ## [MC1.16-R12] - 2021-04-04
 ### Changed
