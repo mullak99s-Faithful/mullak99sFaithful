@@ -10,6 +10,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 ### Changed
 - Changed most (1.9+) textures from Faithful's to EM32D or Compliance's
 - Reworked models to fit new textures
+- Reorganised Optifine CTM folder
 
 ### Fixed
 - Gradient textures on banners
