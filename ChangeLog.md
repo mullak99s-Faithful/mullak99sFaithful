@@ -4,6 +4,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 ## [Unreleased]
 ### Added
 - Added 3D model for pointed dripstone
+- Added Natural textures to Deepslate Emerald Ore
+- Added Deepslate Ore end textures (created new model for Deepslate Ores)
 
 ### Changed
 - Changed most (1.9+) textures from Faithful's to EM32D or Compliance's

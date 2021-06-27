@@ -1,13 +1,10 @@
 ## [Major]
 ### To Add
 - Raw Copper Block texture
-- Natural Textures for Deepslate Ore
-- Top textures for Deepslate Ore
 
 ### To Change
 - Snow Fox entity textures
 - Evoker entity texture
-- Illager fangs(?)
 - Pillager entity texture
 - Vindicator entity texture
 - Llama Decor textures
@@ -17,9 +14,8 @@
 - Exposed Copper block texture
 - Weathered Copper and Cut Copper blocks texture
 - Raw Iron Block texture
-- Deepslate top texture
 - Warped Door textures and models
-- Bee Hive and Nest textures
+- Cobbled Deepslate texture
 
 ## [Minor]
 ### To Add

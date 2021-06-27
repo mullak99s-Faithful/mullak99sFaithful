@@ -4,8 +4,8 @@
 
 'Vattic' for creating the original Faithful 32x (Pre-1.9 textures)
 'EM32D' for creating the Emulated Vattic packs (Post-1.9 textures)
-'Compliance Team' for creating the Compliance Pack (Post-1.9 textures)
-'AntVenom' for creating the FaithfulVenom Pack (Major Inspiration)
+'Compliance Team' for creating the Compliance pack (Post-1.9 textures)
+'AntVenom' for creating the FaithfulVenom pack (Major Inspiration)
 
 Honestly, I cannot reasonably list the amount of noteworthy mentions and other credits. 
 The community in the "Compliance 32x" Discord, as well as the "Emulated Vattic Textures" Discord
