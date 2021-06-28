@@ -1,6 +1,7 @@
 ## [Major]
 ### To Add
 - Raw Copper Block texture
+- Goat entity texture
 
 ### To Change
 - Snow Fox entity textures
@@ -16,6 +17,7 @@
 - Raw Iron Block texture
 - Warped Door textures and models
 - Cobbled Deepslate texture
+- Deepslate Brick etc. textures
 
 ## [Minor]
 ### To Add

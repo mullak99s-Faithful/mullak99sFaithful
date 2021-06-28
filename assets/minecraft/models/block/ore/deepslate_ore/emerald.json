@@ -3,6 +3,6 @@
 	"parent": "minecraft:block/cube_column",
 	"textures": {
 		"end": "ctm/ore/deepslate_ore_ends/emerald",
-		"side": "block/deepslate_coal_ore/emerald"
+		"side": "block/deepslate_emerald_ore"
 	}
 }
