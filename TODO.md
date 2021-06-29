@@ -4,20 +4,20 @@
 - Goat entity texture
 
 ### To Change
-- Snow Fox entity textures
-- Evoker entity texture
-- Pillager entity texture
-- Vindicator entity texture
-- Llama Decor textures
-- Phantom eyes texture
-- Villager Profession and Profession Level textures
-- Wandering Trader texture
-- Exposed Copper block texture
-- Weathered Copper and Cut Copper blocks texture
-- Raw Iron Block texture
-- Warped Door textures and models
-- Cobbled Deepslate texture
-- Deepslate Brick etc. textures
+- Snow Fox entity textures (Faithful)
+- Evoker entity texture (Faithful)
+- Pillager entity texture (Faithful)
+- Vindicator entity texture (Faithful)
+- Llama Decor textures (Faithful)
+- Phantom eyes texture (Faithful)
+- Villager Profession textures (Faithful)
+- Zombie Villager (Faithful)
+- Zombie Villager Types and Profession textures (Faithful)
+- Exposed Copper block texture (Faithful)
+- Weathered Copper and Cut Copper blocks texture (Faithful)
+- Raw Iron Block texture (Faithful)
+- Cobbled Deepslate texture (Compliance)
+- Deepslate Brick etc. textures (Compliance)
 
 ## [Minor]
 ### To Add
