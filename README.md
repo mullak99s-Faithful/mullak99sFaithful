@@ -20,7 +20,7 @@ AlphaSounds: https://github.com/mullak99s-Faithful/AlphaSounds
 [EM32D](https://www.planetminecraft.com/texture-pack/em32d/) for creating the Emulated Vattic packs (Post-1.9 textures)  
 [Compliance Team](https://compliancepack.net/) for creating the Compliance pack (Post-1.9 textures)  
 [AntVenom](https://antvenom.com/files) for creating the FaithfulVenom pack (Major Inspiration)  
-The community in the "Compliance 32x" Discord, as well as the "Emulated Vattic Textures" Discord for creating and maintaining Vattic's original Faithful.  
+The community in the "Compliance 32x" Discord, as well as the "Emulated Vattic Textures" Discord for maintaining Vattic's original Faithful.  
 
 Honestly, I cannot reasonably list the amount of noteworthy mentions and other credits.   
 
