@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [Unreleased]
+## [MC1.17-R3] - 2021-07-03
 ### Added
 - Added 3D model for pointed dripstone
 - Added CTM textures for Deepslate Emerald Ore
