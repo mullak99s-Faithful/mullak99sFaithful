@@ -4,9 +4,21 @@ All notable changes to mullak99's Faithful will be documented in this file.
 ## [Unreleased]
 ### Added
 - Added 3D model for pointed dripstone
+- Added CTM textures for Deepslate Emerald Ore
+- Added Deepslate Ore end textures (created new model for Deepslate Ores)
+- Added Main Menu Panorama
+
+### Changed
+- Changed most (1.9+) textures from Faithful's to EM32D or Compliance's
+- Reworked some models to fit new textures
+- Reorganised Optifine CTM folder
 
 ### Fixed
-- Gradient textures on banners
+- Fixed gradient textures on banners
+- Fixed incorrectly flipped texture on 3D Crimson Door model
+
+### Removed
+- Removed unused textures
 
 ## [MC1.17-R2] - 2021-06-22
 ### Added
