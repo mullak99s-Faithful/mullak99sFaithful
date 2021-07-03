@@ -7,7 +7,7 @@
 'Compliance Team' for creating the Compliance pack (Post-1.9 textures)
 'AntVenom' for creating the FaithfulVenom pack (Major Inspiration)
 The community in the "Compliance 32x" Discord, as well as the "Emulated Vattic Textures" Discord
-for creating and maintaining Vattic's original Faithful.
+for maintaining Vattic's original Faithful.
 
 Honestly, I cannot reasonably list the amount of noteworthy mentions and other credits. 
 
