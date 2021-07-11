@@ -1,6 +1,19 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [Unreleased]
+### Changed
+- Replaced Light (item) textures
+- Replaced map_icons texture
+- Replaced both Lantern textures
+- Replaced Chain texture
+- Replaced Candle textures
+- Replaced Horse armour textures
+- Replaced a few horse entity textures
+- Replaced Beetroot Soup and Rabbit Stew textures
+- Replaced Piglin Brute texture
+- Compressed some textures that were missed
+
 ## [MC1.17-R3] - 2021-07-03
 ### Added
 - Added 3D model for pointed dripstone
