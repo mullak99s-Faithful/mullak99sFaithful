@@ -75,7 +75,7 @@
 			"to": [8.25, 14.5, 9.5],
 			"rotation": {"angle": -45, "axis": "y", "origin": [8, 8, 8]},
 			"faces": {
-				"north": {"uv": [13, 2, 13.5, 4.5], "texture": "#lantern"},
+				"north": {"uv": [13, 1.5, 13.5, 4.5], "texture": "#lantern"},
 				"east": {"uv": [14, 1.5, 13, 4.5], "texture": "#lantern"},
 				"south": {"uv": [13.5, 1.5, 14, 4.5], "texture": "#lantern"},
 				"west": {"uv": [13, 1.5, 14, 4.5], "texture": "#lantern"},
@@ -104,7 +104,7 @@
 			"faces": {
 				"north": {"uv": [11, 1.5, 11.5, 4.5], "texture": "#lantern"},
 				"east": {"uv": [12, 1.5, 11, 4.5], "texture": "#lantern"},
-				"south": {"uv": [11.5, 2, 12, 4.5], "texture": "#lantern"},
+				"south": {"uv": [11.5, 1.5, 12, 4.5], "texture": "#lantern"},
 				"west": {"uv": [11, 1.5, 12, 4.5], "texture": "#lantern"},
 				"up": {"uv": [11, 1.5, 12, 2], "rotation": 90, "texture": "#lantern"},
 				"down": {"uv": [11, 4, 12, 4.5], "rotation": 270, "texture": "#lantern"}
@@ -129,7 +129,7 @@
 			"faces": {
 				"east": {"uv": [12, 4, 13, 4.5], "texture": "#lantern"},
 				"west": {"uv": [12, 4, 13, 4.5], "texture": "#lantern"},
-				"up": {"uv": [12, 4, 13, 4.5], "texture": "#lantern"}
+				"up": {"uv": [12.5, 10, 13.5, 10.5], "texture": "#lantern"}
 			}
 		},
 		{
@@ -155,7 +155,7 @@
 				"east": {"uv": [11.5, 10, 13.5, 10.5], "rotation": 180, "texture": "#lantern"},
 				"south": {"uv": [13, 10, 13.5, 10.5], "texture": "#lantern"},
 				"west": {"uv": [11.5, 10, 13.5, 10.5], "texture": "#lantern"},
-				"up": {"uv": [11.5, 10, 13.5, 10.5], "rotation": 90, "texture": "#lantern"}
+				"up": {"uv": [12.5, 10, 13.5, 10.5], "rotation": 90, "texture": "#lantern"}
 			}
 		},
 		{
@@ -288,24 +288,29 @@
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [
 				{
 					"name": "chain",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [
 						{
 							"name": "1",
 							"origin": [8, 8, 8],
+							"color": 0,
 							"children": [0, 1, 2, 3]
 						},
 						{
 							"name": "2",
 							"origin": [8, 8, 8],
+							"color": 0,
 							"children": [4, 5, 6, 7, 8, 9]
 						},
 						{
 							"name": "3",
 							"origin": [8, 8, 8],
+							"color": 0,
 							"children": [10, 11, 12, 13]
 						}
 					]
@@ -313,10 +318,12 @@
 				{
 					"name": "lantern",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [14, 15,
 						{
 							"name": "frame",
 							"origin": [8, 8, 8],
+							"color": 0,
 							"children": [16, 17, 18, 19, 20, 21]
 						}
 					]
