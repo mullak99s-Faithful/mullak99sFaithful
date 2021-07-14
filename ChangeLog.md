@@ -9,10 +9,16 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Chain texture
 - Replaced Candle textures
 - Replaced Horse armour textures
-- Replaced a few horse entity textures
+- Replaced Horse entity textures
 - Replaced Beetroot Soup and Rabbit Stew textures
 - Replaced Piglin Brute texture
-- Compressed some textures that were missed
+- Replaced Realms textures with those from EM32D
+- Replaced Iron Golem crack textures with those from EM32D
+- Changed minecart entity texture (used upscaled leather part from EM32D)
+
+- Compressed some textures that were missed previously
+- Minor UI changes (replaced some elements with those from EM32D)
+- Reorganised CTM / 3D Models folder structure
 
 ## [MC1.17-R3] - 2021-07-03
 ### Added
