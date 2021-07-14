@@ -16,6 +16,7 @@
 - Raw Iron Block texture (Faithful)
 - Cobbled Deepslate texture (Compliance)
 - Deepslate Brick etc. textures (Compliance)
+- Skeleton Horse texture (Compliance)
 
 ## [Minor]
 ### To Add
@@ -23,7 +24,3 @@
 - Convert and add old CTM textures
 - More 3D Models (Crops, Pumpkin, etc.)
 - Create CTM textures for Crimson and Warped logs
-
-### To Change
-- Improve Stonecutter 3D model
-

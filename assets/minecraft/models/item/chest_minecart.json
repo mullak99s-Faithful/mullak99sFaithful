@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"minecart": "entity/3dmodels/minecart",
+		"minecart": "ctm/minecarts/minecart",
 		"particle": "entity/chest/normal",
 		"texture1": "entity/chest/normal"
 	},
