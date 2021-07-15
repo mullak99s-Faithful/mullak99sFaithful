@@ -16,7 +16,6 @@
 - Raw Iron Block texture (Faithful)
 - Cobbled Deepslate texture (Compliance)
 - Deepslate Brick etc. textures (Compliance)
-- Update Panorama (New water texture)
 
 ## [Minor]
 ### To Add
