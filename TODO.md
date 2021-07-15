@@ -16,7 +16,6 @@
 - Raw Iron Block texture (Faithful)
 - Cobbled Deepslate texture (Compliance)
 - Deepslate Brick etc. textures (Compliance)
-- Skeleton Horse texture (Compliance)
 
 ## [Minor]
 ### To Add
