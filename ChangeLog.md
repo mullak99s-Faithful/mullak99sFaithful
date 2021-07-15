@@ -15,6 +15,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Realms textures with those from EM32D
 - Replaced Iron Golem crack textures with those from EM32D
 - Changed minecart entity texture (used upscaled leather part from EM32D)
+- Changed Grass and Foliage colormaps
+- Changed Water textures to be like they were Pre-1.13
 
 - Compressed some textures that were missed previously
 - Minor UI changes (replaced some elements with those from EM32D)

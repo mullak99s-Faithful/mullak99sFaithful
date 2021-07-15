@@ -1,7 +1,7 @@
 # mullak99's Faithful 32x
 
 **Latest 1.16.x Version:** [_MC1.16-R13_](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.16)  
-**Latest 1.17.x Version:** [_MC1.17-R4_DEV210714-1_](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.17)  
+**Latest 1.17.x Version:** [_MC1.17-R4_DEV210715-1_](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.17)  
 
 ## Official Links
 
