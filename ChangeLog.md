@@ -17,7 +17,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed minecart entity texture (used upscaled leather part from EM32D)
 - Changed Grass and Foliage colormaps
 - Changed Water textures to be like they were Pre-1.13
-
+- Changed the Main Menu Panorama (to match the water texture change)
 - Compressed some textures that were missed previously
 - Minor UI changes (replaced some elements with those from EM32D)
 - Reorganised CTM / 3D Models folder structure
