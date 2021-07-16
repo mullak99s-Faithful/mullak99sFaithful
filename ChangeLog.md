@@ -2,6 +2,9 @@
 All notable changes to mullak99's Faithful will be documented in this file.
 
 ## [Unreleased]
+### Added
+- Added Fabric GUI textures
+
 ### Changed
 - Replaced Light (item) textures
 - Replaced map_icons texture
@@ -14,6 +17,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Piglin Brute texture
 - Replaced Realms textures with those from EM32D
 - Replaced Iron Golem crack textures with those from EM32D
+- Replaced Copper Block texture
+- Replaced Realms "traffic lights"/server status textures with those from EM32D
 - Changed minecart entity texture (used upscaled leather part from EM32D)
 - Changed Grass and Foliage colormaps
 - Changed Water textures to be like they were Pre-1.13
