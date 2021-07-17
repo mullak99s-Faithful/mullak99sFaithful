@@ -19,13 +19,24 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Iron Golem crack textures with those from EM32D
 - Replaced Copper Block texture
 - Replaced Realms "traffic lights"/server status textures with those from EM32D
+- Replaced Turtle Armour layer with that from EM32D
+- Replaced Chorus Flower/Plant block textures with those from EM32D
+- Replaced Coal Block texture with that from EM32D
 - Changed minecart entity texture (used upscaled leather part from EM32D)
 - Changed Grass and Foliage colormaps
 - Changed Water textures to be like they were Pre-1.13
 - Changed the Main Menu Panorama (to match the water texture change)
-- Compressed some textures that were missed previously
+- Changed stripped log top textures
+- Changed Warped and Crimson top textures
+- Minor changes to Stonecutter textures
+- Minor changes to Red Sandstone
+- Minor changes to Phantom Eyes
 - Minor UI changes (replaced some elements with those from EM32D)
+- Compressed some textures that were missed previously
 - Reorganised CTM / 3D Models folder structure
+
+### Removed
+- Removed Log CTM textures since they were causing issues
 
 ## [MC1.17-R3] - 2021-07-03
 ### Added
