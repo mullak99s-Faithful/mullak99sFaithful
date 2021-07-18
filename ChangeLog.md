@@ -24,6 +24,11 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Coal Block texture with that from EM32D
 - Replaced Exposed and Oxidized Copper block textures
 - Replaced Slot Frame (Realms) texture
+- Replaced Bone Block textures
+- Replaced Purpur Block textures
+- Replaced End Rod texture
+- Replaced Endermite texture
+- Replaced Ladder texture
 - Changed minecart entity texture (used upscaled leather part from EM32D)
 - Changed Grass and Foliage colormaps
 - Changed Water textures to be like they were Pre-1.13
