@@ -22,16 +22,24 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Turtle Armour layer with that from EM32D
 - Replaced Chorus Flower/Plant block textures with those from EM32D
 - Replaced Coal Block texture with that from EM32D
+- Replaced Exposed and Oxidized Copper block textures
+- Replaced Slot Frame (Realms) texture
 - Changed minecart entity texture (used upscaled leather part from EM32D)
 - Changed Grass and Foliage colormaps
 - Changed Water textures to be like they were Pre-1.13
 - Changed the Main Menu Panorama (to match the water texture change)
 - Changed stripped log top textures
 - Changed Warped and Crimson top textures
+- Changed Deepslate Coal textures
+- Changed Crossbow textures
+- Changed Firework texture
+- Changed Bad Omen and Hero of the Village mob effect textures
 - Minor changes to Stonecutter textures
 - Minor changes to Red Sandstone
 - Minor changes to Phantom Eyes
 - Minor UI changes (replaced some elements with those from EM32D)
+- Minor changes to some particles
+- Minor changes to the Crimson Door CTM textures
 - Compressed some textures that were missed previously
 - Reorganised CTM / 3D Models folder structure
 
