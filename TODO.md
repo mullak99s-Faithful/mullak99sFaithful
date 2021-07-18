@@ -10,7 +10,6 @@
 - Vindicator entity texture (Faithful)
 - Llama Decor textures (Faithful)
 - Zombie Villager (Faithful)
-- Exposed Copper block texture (Faithful)
 - Weathered Copper and Cut Copper blocks texture (Faithful)
 - Raw Iron Block texture (Faithful)
 - Cobbled Deepslate texture (Compliance)
