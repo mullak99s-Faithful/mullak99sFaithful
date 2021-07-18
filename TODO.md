@@ -14,6 +14,7 @@
 - Raw Iron Block texture (Faithful)
 - Cobbled Deepslate texture (Compliance)
 - Deepslate Brick etc. textures (Compliance)
+- Shulker entity textures (Faithful)
 
 ## [Minor]
 ### To Add
