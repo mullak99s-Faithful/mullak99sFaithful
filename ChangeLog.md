@@ -11,8 +11,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced both Lantern textures
 - Replaced Chain texture
 - Replaced Candle textures
-- Replaced Horse armour textures
-- Replaced Horse entity textures
+- Replaced Horse entity and armour textures
 - Replaced Beetroot Soup and Rabbit Stew textures
 - Replaced Piglin Brute texture
 - Replaced Realms textures with those from EM32D
@@ -29,6 +28,17 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced End Rod texture
 - Replaced Endermite texture
 - Replaced Ladder texture
+- Replaced Crossbow textures
+- Replaced Blackstone textures
+- Replaced Gilded Blackstone texture
+- Replaced Quartz Bricks texture
+- Replaced Stonecutter Saw texture
+- Replaced Structure Block textures
+- Replaced Bee textures
+- Replaced Snow (Environment) texture
+- Replaced Bundle textures
+- Replaced Honeycomb texture
+- Replaced some particle textures
 - Changed minecart entity texture (used upscaled leather part from EM32D)
 - Changed Grass and Foliage colormaps
 - Changed Water textures to be like they were Pre-1.13
@@ -36,7 +46,6 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed stripped log top textures
 - Changed Warped and Crimson top textures
 - Changed Deepslate Coal textures
-- Changed Crossbow textures
 - Changed Firework texture
 - Changed Bad Omen and Hero of the Village mob effect textures
 - Minor changes to Stonecutter textures
