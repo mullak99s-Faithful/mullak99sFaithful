@@ -41,6 +41,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced some particle textures
 - Replaced Stripped Log/Stem (side) block textures
 - Replaced both Campfire item textures (fallbacks for 3D item models)
+- Replaced various entity textures (now from EM32D)
+- Replaced Spore Blossom textures
 - Changed minecart entity texture (used upscaled leather part from EM32D)
 - Changed Grass and Foliage colormaps
 - Changed Water textures to be like they were Pre-1.13
