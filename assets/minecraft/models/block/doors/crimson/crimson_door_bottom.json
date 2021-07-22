@@ -18,7 +18,7 @@
 				"south": {"uv": [15.5, 4, 16, 11], "texture": "#door", "cullface": "west"},
 				"west": {"uv": [0, 4, 16, 11], "texture": "#door", "cullface": "west"},
 				"up": {"uv": [0, 4, 16, 4.5], "rotation": 90, "texture": "#door", "cullface": "west"},
-				"down": {"uv": [0, 10.5, 16, 11], "rotation": 90, "texture": "#door", "cullface": "west"}
+				"down": {"uv": [16, 10.5, 0, 11], "rotation": 90, "texture": "#door", "cullface": "west"}
 			}
 		},
 		{
@@ -41,7 +41,7 @@
 				"north": {"uv": [0, 4, 0.5, 11], "texture": "#door", "cullface": "north"},
 				"east": {"uv": [16, 4, 0, 11], "texture": "#door"},
 				"south": {"uv": [15.5, 4, 16, 11], "texture": "#door", "cullface": "south"},
-				"up": {"uv": [0, 4, 16, 4.5], "rotation": 270, "texture": "#door"},
+				"up": {"uv": [16, 4, 0, 4.5], "rotation": 270, "texture": "#door"},
 				"down": {"uv": [0, 10.5, 16, 11], "rotation": 270, "texture": "#door"}
 			}
 		},
@@ -63,10 +63,12 @@
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [0, 1, 2,
 				{
 					"name": "handle",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [3]
 				}
 			]
