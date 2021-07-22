@@ -39,6 +39,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Bundle textures
 - Replaced Honeycomb texture
 - Replaced some particle textures
+- Replaced Stripped Log/Stem (side) block textures
+- Replaced both Campfire item textures (fallbacks for 3D item models)
 - Changed minecart entity texture (used upscaled leather part from EM32D)
 - Changed Grass and Foliage colormaps
 - Changed Water textures to be like they were Pre-1.13
@@ -48,6 +50,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Deepslate Coal textures
 - Changed Firework texture
 - Changed Bad Omen and Hero of the Village mob effect textures
+- Changed Frosted Ice block textures
+- Changed Blue Ice block texture
 - Minor changes to Stonecutter textures
 - Minor changes to Red Sandstone
 - Minor changes to Phantom Eyes
