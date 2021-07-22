@@ -58,6 +58,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Minor UI changes (replaced some elements with those from EM32D)
 - Minor changes to some particles
 - Minor changes to the Crimson Door CTM textures
+- Minor changes to various door models
 - Compressed some textures that were missed previously
 - Reorganised CTM / 3D Models folder structure
 
