@@ -97,7 +97,7 @@
 				"east": {"uv": [4, 14, 3, 15], "texture": "#rail"},
 				"south": {"uv": [2, 14, 4, 15], "texture": "#rail"},
 				"west": {"uv": [2, 14, 2.5, 15], "texture": "#rail"},
-				"up": {"uv": [3, 10.5, 5, 11.5], "texture": "#rail"},
+				"up": {"uv": [2.5, 11.5, 4.5, 12.5], "texture": "#rail"},
 				"down": {"uv": [3, 10, 5, 11], "texture": "#rail"}
 			}
 		},
@@ -147,7 +147,7 @@
 			"faces": {
 				"north": {"uv": [2.5, 14, 2, 15], "texture": "#rail"},
 				"west": {"uv": [2, 14, 2.5, 15], "texture": "#rail"},
-				"up": {"uv": [9.5, 3.5, 10.5, 4.5], "texture": "#rail"},
+				"up": {"uv": [9, 3.5, 10, 4.5], "texture": "#rail"},
 				"down": {"uv": [14, 2, 15.5, 3], "texture": "#rail"}
 			}
 		},
@@ -485,7 +485,7 @@
 			"faces": {
 				"east": {"uv": [15, 15, 14.5, 16], "texture": "#rail"},
 				"south": {"uv": [14.5, 15, 15, 16], "texture": "#rail"},
-				"up": {"uv": [14.5, 14, 15.5, 15.5], "texture": "#rail"},
+				"up": {"uv": [14, 14, 15, 15.5], "texture": "#rail"},
 				"down": {"uv": [14.5, 10.5, 15.5, 12], "texture": "#rail", "cullface": "down"}
 			}
 		},
@@ -534,7 +534,7 @@
 				"south": {"uv": [6, 13, 7, 14], "texture": "#rail"},
 				"west": {"uv": [5.5, 13, 7.5, 14], "texture": "#rail"},
 				"up": {"uv": [6, 5.5, 7, 7.5], "texture": "#rail"},
-				"down": {"uv": [7.5, 7, 8.5, 9], "texture": "#rail", "cullface": "down"}
+				"down": {"uv": [8, 7.5, 9, 9.5], "texture": "#rail", "cullface": "down"}
 			}
 		},
 		{
@@ -546,7 +546,7 @@
 				"east": {"uv": [8.5, 13, 6.5, 14], "texture": "#rail"},
 				"south": {"uv": [7, 13, 8, 14], "texture": "#rail"},
 				"west": {"uv": [6.5, 13, 8.5, 14], "texture": "#rail"},
-				"up": {"uv": [7, 6.5, 8, 8.5], "texture": "#rail"},
+				"up": {"uv": [8.5, 8, 9.5, 10], "texture": "#rail"},
 				"down": {"uv": [8, 7.5, 9, 9.5], "texture": "#rail", "cullface": "down"}
 			}
 		},
@@ -642,19 +642,23 @@
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [
 				{
 					"name": "rail",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [
 						{
 							"name": "east",
 							"origin": [8, 8, 8],
+							"color": 0,
 							"children": [0, 1, 2, 3, 4]
 						},
 						{
 							"name": "west",
 							"origin": [8, 8, 8],
+							"color": 0,
 							"children": [5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
 						}
 					]
@@ -662,6 +666,7 @@
 				{
 					"name": "sleeper",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51]
 				}
 			]

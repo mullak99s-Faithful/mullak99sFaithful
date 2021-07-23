@@ -15,8 +15,8 @@
 - Cobbled Deepslate texture (Compliance)
 - Deepslate Brick etc. textures (Compliance)
 - Shulker entity textures (Faithful)
+- Warped Trapdoor textures and models (Compliance)
 
 ## [Minor]
 ### To Add
-- Convert and add old CTM textures
 - More 3D Models (Crops, Pumpkin, etc.)

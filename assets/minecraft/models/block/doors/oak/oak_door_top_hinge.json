@@ -15,7 +15,7 @@
 			"from": [0, 0, 13],
 			"to": [3, 16, 16],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 3], "rotation": 270, "texture": "#top"},
+				"north": {"uv": [0, 0, 16, 3], "rotation": 270, "texture": "#bottom"},
 				"east": {"uv": [0, 0, 3, 16], "texture": "#door"},
 				"south": {"uv": [3, 0, 0, 16], "texture": "#side_top_hinge", "cullface": "south"},
 				"west": {"uv": [3, 0, 0, 16], "texture": "#door", "cullface": "west"},
