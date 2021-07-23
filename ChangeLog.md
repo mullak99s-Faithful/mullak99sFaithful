@@ -54,6 +54,10 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Bad Omen and Hero of the Village mob effect textures
 - Changed Frosted Ice block textures
 - Changed Blue Ice block texture
+- Changed Crimson and Warped door textures and models
+- Changed Crimson trapdoor textures and models
+- Changed Rail textures and models
+- Changed Ladder model
 - Minor changes to Stonecutter textures
 - Minor changes to Red Sandstone
 - Minor changes to Phantom Eyes
