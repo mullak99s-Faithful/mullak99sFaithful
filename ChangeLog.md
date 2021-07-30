@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [Unreleased]
+## [MC1.17-R4] - 2021-07-30
 ### Added
 - Added Fabric GUI textures
 
@@ -64,6 +64,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Dark Oak trapdoor textures and models
 - Changed Rail textures and models
 - Changed Ladder model
+- Changed Deepslate Coal Ore textures (should be more visible now)
 - Minor changes to Stonecutter textures
 - Minor changes to Red Sandstone
 - Minor changes to Phantom Eyes
@@ -77,6 +78,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 
 ### Removed
 - Removed Log CTM textures since they were causing issues
+- Removed Packed Ice CTM (to match Blue Ice)
+- Removed Unicode fonts
 
 ## [MC1.17-R3] - 2021-07-03
 ### Added
