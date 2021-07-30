@@ -43,6 +43,11 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced both Campfire item textures (fallbacks for 3D item models)
 - Replaced various entity textures (now from EM32D)
 - Replaced Spore Blossom textures
+- Replaced Calcite texture
+- Replaced Dried Kelp block textures
+- Replaced Tuff texture
+- Replaced Zombie and Zombie Villager textures
+- Replaced Salmon entity texture
 - Changed minecart entity texture (used upscaled leather part from EM32D)
 - Changed Grass and Foliage colormaps
 - Changed Water textures to be like they were Pre-1.13
@@ -55,7 +60,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Frosted Ice block textures
 - Changed Blue Ice block texture
 - Changed Crimson and Warped door textures and models
-- Changed Crimson trapdoor textures and models
+- Changed Crimson and Warped trapdoor textures and models
+- Changed Dark Oak trapdoor textures and models
 - Changed Rail textures and models
 - Changed Ladder model
 - Minor changes to Stonecutter textures
@@ -65,6 +71,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Minor changes to some particles
 - Minor changes to the Crimson Door CTM textures
 - Minor changes to various door models
+- Minor changes to Zombie Villager type textures
 - Compressed some textures that were missed previously
 - Reorganised CTM / 3D Models folder structure
 
