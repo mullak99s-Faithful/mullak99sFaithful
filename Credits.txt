@@ -1,0 +1,31 @@
+-----------------------------------------------------------------------------------------------------------
+
+== Noteworthy Mentions and Credits ==
+
+'Vattic' for creating the original Faithful 32x
+'EM32D' for creating the Emulated Vattic packs
+'Compliance Team' for creating the Compliance pack
+'AntVenom' for creating the FaithfulVenom pack (Major Inspiration)
+The community in the "Compliance 32x" Discord, as well as the "Emulated Vattic Textures" Discord
+for maintaining Vattic's original Faithful.
+
+Honestly, I cannot reasonably list the amount of noteworthy mentions and other credits. 
+
+A majority of this pack would not exist if not for Vattic, the Compliance Team, and the 
+Emulated Vattic Team.
+
+-----------------------------------------------------------------------------------------------------------
+
+== Links ==
+
+EM32D: https://www.planetminecraft.com/texture-pack/em32d/
+Compliance: https://compliancepack.net/
+FaithfulVenom: https://antvenom.com/files
+
+-----------------------------------------------------------------------------------------------------------
+
+== Notes ==
+
+Licence's from Vattic, EM32D, and Compliance can be found within the Legal.txt file along with my licence.
+
+-----------------------------------------------------------------------------------------------------------
