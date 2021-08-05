@@ -1,6 +1,30 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [Unreleased]
+### Changed
+- Replaced Wool textures (EM32D)
+- Replaced Warped and Crimson planks textures (EM32D)
+- Replaced Corner Rail model
+- Replaced Bedrock texture (from Evorp)
+- Replaced Crimson and Warped Planks textures (from Evorp)
+- Replaced Diamond texture (from Evorp)
+- Replaced End Stone Bricks texture (EM32D)
+- Replaced some Villager and Zombie Villager type textures (EM32D)
+- Replaced all Bucket related textures with a slightly edited Vattic bucket
+- Replaced all Bowl related textures with EM's bowl
+- Replaced Sugar Cane block texture (EM32D)
+- Changed Sugar Cane model to match new texture
+- Changed Deepslate Ore textures (removed 'glow')
+- Changed End Crystal (entity) texture to match new bedrock
+- Minor changes to Crimson and Warped trapdoor CTM textures
+- Minor changes to other rail models
+- Minor changes to Crimson Trapdoor model
+- Minor changes to Stonecutter Saw texture
+
+### Fixed
+- Fixed ore textures using Vizzy's texture (while CTM was, correctly, Vattic's)
+
 ## [MC1.17-R4] - 2021-07-30
 ### Added
 - Added Fabric GUI textures
