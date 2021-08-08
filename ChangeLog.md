@@ -14,6 +14,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced all Bucket related textures with a slightly edited Vattic bucket
 - Replaced all Bowl related textures with EM's bowl
 - Replaced Sugar Cane block texture (EM32D)
+- Replaced Deepslate Top texture (and all Deepslate ore top textures)
+- Replaced Glazed Terracotta textures [Except Horn and Tube atm] (EM32D)
 - Changed Sugar Cane model to match new texture
 - Changed Deepslate Ore textures (removed 'glow')
 - Changed End Crystal (entity) texture to match new bedrock
@@ -21,6 +23,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Minor changes to other rail models
 - Minor changes to Crimson Trapdoor model
 - Minor changes to Stonecutter Saw texture
+- Minor changes to Elytra (item) textures
 
 ### Fixed
 - Fixed ore textures using Vizzy's texture (while CTM was, correctly, Vattic's)
