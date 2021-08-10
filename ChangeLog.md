@@ -15,10 +15,15 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced all Bowl related textures with EM's bowl
 - Replaced Sugar Cane block texture (EM32D)
 - Replaced Deepslate Top texture (and all Deepslate ore top textures)
-- Replaced Glazed Terracotta textures [Except Horn and Tube atm] (EM32D)
+- Replaced Glazed Terracotta textures (EM32D)
+- Replaced Coral textures (EM32D)
+- Replaced Calcite and Tuff textures
+- Replaced Blackstone Brick textures
+- Replaced Deepslate Brick textures
 - Changed Sugar Cane model to match new texture
 - Changed Deepslate Ore textures (removed 'glow')
 - Changed End Crystal (entity) texture to match new bedrock
+- Changed Ancient Debris textures
 - Minor changes to Crimson and Warped trapdoor CTM textures
 - Minor changes to other rail models
 - Minor changes to Crimson Trapdoor model
