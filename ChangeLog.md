@@ -20,6 +20,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Calcite and Tuff textures
 - Replaced Blackstone Brick textures
 - Replaced Deepslate Brick textures
+- Replaced Nether Brick textures (EM32D)
+- Replaced Nether and Warped Wart block textures (Based off Nether Wart Block from HARAG0N)
 - Changed Sugar Cane model to match new texture
 - Changed Deepslate Ore textures (removed 'glow')
 - Changed End Crystal (entity) texture to match new bedrock
