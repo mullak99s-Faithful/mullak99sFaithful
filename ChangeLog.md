@@ -21,11 +21,15 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Blackstone Brick textures
 - Replaced Deepslate Brick textures
 - Replaced Nether Brick textures (EM32D)
-- Replaced Nether and Warped Wart block textures (Based off Nether Wart Block from HARAG0N)
+- Replaced Nether and Warped Wart block textures (Based on Nether Wart block from HARAG0N)
+- Replaced Sponge textures with Vattic's
+- Replaced all Shulker textures (Loosely based on Compliance's texture)
+- Replaced Shulker spark texture (Compliance)
 - Changed Sugar Cane model to match new texture
 - Changed Deepslate Ore textures (removed 'glow')
 - Changed End Crystal (entity) texture to match new bedrock
 - Changed Ancient Debris textures
+- Changed Smoker textures (Prog-Art styled)
 - Minor changes to Crimson and Warped trapdoor CTM textures
 - Minor changes to other rail models
 - Minor changes to Crimson Trapdoor model
@@ -34,6 +38,10 @@ All notable changes to mullak99's Faithful will be documented in this file.
 
 ### Fixed
 - Fixed ore textures using Vizzy's texture (while CTM was, correctly, Vattic's)
+- Fixed Smoker model issue
+
+### Removed
+- Disabled variations of Bedrock block
 
 ## [MC1.17-R4] - 2021-07-30
 ### Added

@@ -14,7 +14,6 @@
 - Cobbled Deepslate texture (Compliance)
 - Deepslate Brick etc. textures (Compliance)
 - Blackstone Brick etc. textures (Compliance)
-- Shulker entity textures (Faithful)
 - Villager and Zombie Villager Professions and Types (Faithful)
 
 ## [Minor]
