@@ -5,9 +5,6 @@
 
 ### To Change
 - Snow Fox entity textures (Faithful)
-- Evoker entity texture (Faithful)
-- Pillager entity texture (Faithful)
-- Vindicator entity texture (Faithful)
 - Llama Decor textures (Faithful)
 - Weathered Copper and Cut Copper blocks texture (Faithful)
 - Raw Iron Block texture (Faithful)
@@ -23,3 +20,4 @@
 ### To Change
 - Various Entity textures (Compliance)
 - Various Block textures (Compliance)
+- Placeholder Illusioner and Pillager textures (Custom with Faithful base)

@@ -25,11 +25,15 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Sponge textures with Vattic's
 - Replaced all Shulker textures (Loosely based on Compliance's texture)
 - Replaced Shulker spark texture (Compliance)
+- Replaced Music Discs (EM32D)
+- Replaced Vindicator and Evoker textures (EM32D)
+- Replaced Pig texture (EM32D)
 - Changed Sugar Cane model to match new texture
 - Changed Deepslate Ore textures (removed 'glow')
 - Changed End Crystal (entity) texture to match new bedrock
 - Changed Ancient Debris textures
 - Changed Smoker textures (Prog-Art styled)
+- Changed Illusioner and Pillager textures (Placeholders)
 - Minor changes to Crimson and Warped trapdoor CTM textures
 - Minor changes to other rail models
 - Minor changes to Crimson Trapdoor model
