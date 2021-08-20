@@ -464,7 +464,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 ## [MC1.8-R2] (Unreleased)
 ### Added/Changed
 - Moved Backport Release into the main repo
-- Updated to be level with MC1.17-R4
+- Updated to be level with MC1.17-R5_BETA1
 
 ## [MC1.8-R1] - 2015-08-02
 ### Added
