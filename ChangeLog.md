@@ -35,6 +35,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Turtle Egg block textures (EM32D)
 - Replaced Command Block textures (EM32D)
 - Replaced Llama textures (EM32D)
+- Replaced Conduit textures (EM32D)
+- Replaced Pufferfish entity texture (EM32D)
 - Changed Sugar Cane model to match new texture
 - Changed Deepslate Ore textures (removed 'glow')
 - Changed End Crystal (entity) texture to match new bedrock
@@ -46,6 +48,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Minor changes to Crimson Trapdoor model
 - Minor changes to Stonecutter Saw texture
 - Minor changes to Elytra (item) textures
+- Minor changes to water textures
 
 ### Fixed
 - Fixed ore textures using Vizzy's texture (while CTM was, correctly, Vattic's)
