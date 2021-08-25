@@ -2,7 +2,7 @@
 	"credit": "Created by mullak99",
 	"ambientocclusion": false,
 	"textures": {
-		"minecart": "entity/3dmodels/minecart",
+		"minecart": "ctm/minecarts/minecart",
 		"hopper_side": "block/hopper_outside",
 		"particle": "block/hopper_outside",
 		"hopper_inside": "block/hopper_inside",

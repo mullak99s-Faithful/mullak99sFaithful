@@ -1,4 +1,8 @@
-- Create CTM textures for stripped logs
-- Convert and add old CTM textures
+## [Minor]
+### To Add
 - More 3D Models (Crops, Pumpkin, etc.)
-- Improve Stonecutter 3D Model
+
+### To Change
+- Various Entity textures (Compliance)
+- Various Block textures (Compliance)
+- Placeholder Illusioner and Pillager textures (Custom with Faithful base)
