@@ -37,6 +37,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Llama textures (EM32D)
 - Replaced Conduit textures (EM32D)
 - Replaced Pufferfish entity texture (EM32D)
+- Replaced Dolphin texture (EM32D)
 - Changed Sugar Cane model to match new texture
 - Changed Deepslate Ore textures (removed 'glow')
 - Changed End Crystal (entity) texture to match new bedrock
