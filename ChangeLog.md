@@ -3,6 +3,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 
 ## [Unreleased]
 ### Added
+- Added 3D model for Redstone Dust
+- Added various Emissive textures
 - Readded Red Mushroom Block CTM from older version
 - Readded Red Mushroom Stem CTM from older version
 
@@ -44,6 +46,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Ancient Debris textures
 - Changed Smoker textures (Prog-Art styled)
 - Changed Pillager textures (Placeholders)
+- Changed Crying Obsidian and Respawn Anchor textures
 - Minor changes to Crimson and Warped trapdoor CTM textures
 - Minor changes to other rail models
 - Minor changes to Crimson Trapdoor model
@@ -54,6 +57,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 ### Fixed
 - Fixed ore textures using Vizzy's texture (while CTM was, correctly, Vattic's)
 - Fixed Smoker model issue
+- Minor fixes to some ore textures
 
 ### Removed
 - Disabled variations of Bedrock block

@@ -20,4 +20,4 @@
 ### To Change
 - Various Entity textures (Compliance)
 - Various Block textures (Compliance)
-- Placeholder Illusioner and Pillager textures (Custom with Faithful base)
+- Placeholder Pillager textures (Custom with Faithful base)
