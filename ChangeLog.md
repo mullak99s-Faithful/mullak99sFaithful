@@ -9,6 +9,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Readded Red Mushroom Stem CTM from older version
 
 ### Changed
+- Completely reworked UI textures
 - Replaced Wool textures (EM32D)
 - Replaced Warped and Crimson planks textures (EM32D)
 - Replaced Corner Rail model
@@ -40,6 +41,9 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Conduit textures (EM32D)
 - Replaced Pufferfish entity texture (EM32D)
 - Replaced Dolphin texture (EM32D)
+- Replaced Cobbled and Polished Deepslate texture (EM32D)
+- Replaced Smooth Basalt texture (EM32D)
+- Replaced Dripstone Block texture (EM32D)
 - Changed Sugar Cane model to match new texture
 - Changed Deepslate Ore textures (removed 'glow')
 - Changed End Crystal (entity) texture to match new bedrock
