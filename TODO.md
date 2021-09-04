@@ -8,9 +8,9 @@
 - Llama Decor textures (Faithful)
 - Weathered Copper and Cut Copper blocks texture (Faithful)
 - Raw Iron Block texture (Faithful)
-- Cobbled Deepslate texture (Compliance)
-- Deepslate Brick etc. textures (Compliance)
-- Blackstone Brick etc. textures (Compliance)
+- Deepslate Tiles (Normal and Cracked) textures (Compliance)
+- Chiseled Deepslate texture (Compliance)
+- Chiseled Blackstone Brick texture (Compliance)
 - Villager and Zombie Villager Professions and Types (Faithful)
 
 ## [Minor]
