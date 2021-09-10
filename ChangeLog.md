@@ -1,10 +1,11 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [Unreleased]
+## [MC1.17-R5] - 2021-09-10
 ### Added
 - Added 3D model for Redstone Dust
 - Added various Emissive textures
+- Added (Placeholder) Raw Copper Block texture
 - Readded Red Mushroom Block CTM from older version
 - Readded Red Mushroom Stem CTM from older version
 
@@ -44,6 +45,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Cobbled and Polished Deepslate texture (EM32D)
 - Replaced Smooth Basalt texture (EM32D)
 - Replaced Dripstone Block texture (EM32D)
+- Replaced Bee's Nest textures (EM32D)
+- Replaced Polished Basalt textures (EM32D)
 - Changed Sugar Cane model to match new texture
 - Changed Deepslate Ore textures (removed 'glow')
 - Changed End Crystal (entity) texture to match new bedrock
@@ -51,6 +54,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Smoker textures (Prog-Art styled)
 - Changed Pillager textures (Placeholders)
 - Changed Crying Obsidian and Respawn Anchor textures
+- Changed Glow Item Frame block texture (based on EM's)
 - Minor changes to Crimson and Warped trapdoor CTM textures
 - Minor changes to other rail models
 - Minor changes to Crimson Trapdoor model

@@ -1,6 +1,6 @@
 # mullak99's Faithful 32x
 
-**Latest 1.17.x Version:** [_MC1.17-R5_DEV210904-1_](https://builds.mullak99.co.uk/mullak99s-Faithful/Dev-Branch/mullak99s-Faithful-32x-MC1.17-R5_DEV210904-1.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.17)  
+**Latest 1.17.x Version:** [_MC1.17-R5_DEV210904-1_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.17-R5.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.17)  
 **Latest 1.16.x Version:** [_MC1.16-R14_BETA1_](https://builds.mullak99.co.uk/mullak99s-Faithful/Beta-Branch/mullak99s-Faithful-32x-MC1.16-R14_BETA1.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.16)   
 **Latest 1.8.x Version:** [_MC1.8-R2_BETA1_](https://builds.mullak99.co.uk/mullak99s-Faithful/Beta-Branch/mullak99s-Faithful-32x-MC1.8-R2_BETA1.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.8)  
 
@@ -11,7 +11,8 @@ GitHub Repo: https://github.com/mullak99s-Faithful/mullak99sFaithful
 Direct Downloads: https://builds.mullak99.co.uk/mullak99s-Faithful/  
 
 ## Related Projects
-AlphaSounds: https://github.com/mullak99s-Faithful/AlphaSounds
+Addons: https://github.com/mullak99s-Faithful/Addons  
+AlphaSounds: https://github.com/mullak99s-Faithful/AlphaSounds  
 
 ## Credits
 
