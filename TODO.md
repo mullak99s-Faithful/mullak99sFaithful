@@ -5,7 +5,6 @@
 ### To Change
 - Snow Fox entity textures (Faithful)
 - Llama Decor textures (Faithful)
-- Weathered Copper block texture (Faithful)
 - Raw Iron Block texture (Faithful)
 - Deepslate Tiles (Normal and Cracked) textures (Compliance)
 - Chiseled Deepslate texture (Compliance)

@@ -1,6 +1,15 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [Unreleased]
+### Changed
+- Replaced Bamboo (block) textures (EM32D)
+- Replaced Bell textures (EM32D)
+- Replaced Weeping & Twisting Vines textures (EM32D)
+- Replaced Hanging Roots texture (EM32D)
+- Replaced Vex textures (EM32D)
+- Minor changes to accented font (Compliance)
+
 ## [MC1.17-R5] - 2021-09-10
 ### Added
 - Added 3D model for Redstone Dust
