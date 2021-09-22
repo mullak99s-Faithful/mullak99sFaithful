@@ -8,7 +8,17 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Weeping & Twisting Vines textures (EM32D)
 - Replaced Hanging Roots texture (EM32D)
 - Replaced Vex textures (EM32D)
+- Replaced Cartography Table textures (based on EM32D)
+- Replaced Composter textures (EM32D, except for compost)
+- Replaced Smoker textures (based on EM32D)
+- Replaced Shroomlight texture (EM32D)
+- Replaced Target texture (EM32D)
+- Replaced Powder Snow texture
+- Replaced Lightning Rod (Compliance)
+- Replaced Spore Blossom (Compliance)
+- Replaced Weathered Copper (Compliance)
 - Minor changes to accented font (Compliance)
+- Minor changes to Smoker model
 
 ## [MC1.17-R5] - 2021-09-10
 ### Added
