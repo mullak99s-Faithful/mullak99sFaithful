@@ -20,6 +20,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Snow Fox texture (Compliance)
 - Replaced Raw Copper, Gold & Iron block textures (EM32D)
 - Replaced Scaffolding textures (EM32D)
+- Replaced Vibration particle (EM32D)
+- Replaced Jigsaw block textures (EM32D)
 - Minor changes to accented font (Compliance)
 - Minor changes to Smoker model
 - Minor changes to Guardian textures (EM32D)
