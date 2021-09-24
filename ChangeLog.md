@@ -14,11 +14,15 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Shroomlight texture (EM32D)
 - Replaced Target texture (EM32D)
 - Replaced Powder Snow texture
-- Replaced Lightning Rod (Compliance)
-- Replaced Spore Blossom (Compliance)
-- Replaced Weathered Copper (Compliance)
+- Replaced Lightning Rod texture (Compliance)
+- Replaced Spore Blossom texture (Compliance)
+- Replaced Weathered Copper texture (Compliance)
+- Replaced Snow Fox texture (Compliance)
+- Replaced Raw Copper, Gold & Iron block textures (EM32D)
+- Replaced Scaffolding textures (EM32D)
 - Minor changes to accented font (Compliance)
 - Minor changes to Smoker model
+- Minor changes to Guardian textures (EM32D)
 
 ## [MC1.17-R5] - 2021-09-10
 ### Added
