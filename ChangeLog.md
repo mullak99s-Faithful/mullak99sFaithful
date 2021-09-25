@@ -22,6 +22,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Scaffolding textures (EM32D)
 - Replaced Vibration particle (EM32D)
 - Replaced Jigsaw block textures (EM32D)
+- Replaced Respawn Anchor textures (EM32D)
+- Changes to Warped and Crimson Nylium sides
 - Minor changes to accented font (Compliance)
 - Minor changes to Smoker model
 - Minor changes to Guardian textures (EM32D)
