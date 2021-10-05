@@ -17,16 +17,23 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Lightning Rod texture (Compliance)
 - Replaced Spore Blossom texture (Compliance)
 - Replaced Weathered Copper texture (Compliance)
-- Replaced Snow Fox texture (Compliance)
+- Replaced Fox textures (EM32D)
 - Replaced Raw Copper, Gold & Iron block textures (EM32D)
 - Replaced Scaffolding textures (EM32D)
 - Replaced Vibration particle (EM32D)
 - Replaced Jigsaw block textures (EM32D)
 - Replaced Respawn Anchor textures (EM32D)
+- Replaced Rooted Dirt texture (EM32D)
+- Replaced Smithing Table textures (EM32D)
+- Replaced Beehive textures (EM32D)
+- Replaced Panda textures (EM32D)
+- Replaced Deepslate Tiles textures (EM32D)
+- Replaced Loom textures (EM32D)
 - Changes to Warped and Crimson Nylium sides
 - Minor changes to accented font (Compliance)
 - Minor changes to Smoker model
 - Minor changes to Guardian textures (EM32D)
+- Other minor changes
 
 ## [MC1.17-R5] - 2021-09-10
 ### Added
