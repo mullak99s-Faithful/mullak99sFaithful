@@ -4,7 +4,6 @@
 
 ### To Change
 - Llama Decor textures (Faithful)
-- Deepslate Tiles (Normal and Cracked) textures (Compliance)
 - Chiseled Deepslate texture (Compliance)
 - Villager and Zombie Villager Professions and Types (Faithful)
 
@@ -16,4 +15,3 @@
 - Various Entity textures (Compliance)
 - Various Block textures (Compliance)
 - Placeholder Pillager textures (Custom with Faithful base)
-- Snow Fox entity textures (Compliance)
