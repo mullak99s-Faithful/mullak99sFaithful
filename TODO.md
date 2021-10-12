@@ -5,7 +5,6 @@
 ### To Change
 - Llama Decor textures (Faithful)
 - Chiseled Deepslate texture (Compliance)
-- Villager and Zombie Villager Professions and Types (Faithful)
 
 ## [Minor]
 ### To Add
@@ -15,3 +14,4 @@
 - Various Entity textures (Compliance)
 - Various Block textures (Compliance)
 - Placeholder Pillager textures (Custom with Faithful base)
+- Placeholder Zombie Villager Professions and Types (EM32D [Using Normal Villager ones as placeholders])

@@ -2,6 +2,9 @@
 All notable changes to mullak99's Faithful will be documented in this file.
 
 ## [Unreleased]
+### Added
+- Added Illager font for 1.18
+
 ### Changed
 - Replaced Bamboo (block) textures (EM32D)
 - Replaced Bell textures (EM32D)
@@ -29,10 +32,20 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Panda textures (EM32D)
 - Replaced Deepslate Tiles textures (EM32D)
 - Replaced Loom textures (EM32D)
+- Replaced Villager Profession, Level, & Type textures (EM32D)
+- Replaced Zombie Villager Profession, Level, & Type textures (EM32D) [Placeholder, using Villager ones]
+- Replaced Amethyst Block texture (EM32D)
+- Replaced Budding Amethyst texture (EM32D)
+- Replaced Amethyst Bud textures (EM32D)
+- Replaced non-Vattic sapling textures with Vattic versions
+- Replaced Acacia Door texture (Vattic)
+- Replaced Jungle, Acacia, Spruce trapdoor textures
 - Changes to Warped and Crimson Nylium sides
+- Updated Inventory GUI to support 1.18
 - Minor changes to accented font (Compliance)
 - Minor changes to Smoker model
 - Minor changes to Guardian textures (EM32D)
+- Minor 3D model changes for Jungle, Acacia, Spruce trapdoors
 - Other minor changes
 
 ## [MC1.17-R5] - 2021-09-10
