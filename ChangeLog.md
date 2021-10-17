@@ -19,7 +19,6 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Powder Snow texture
 - Replaced Lightning Rod texture (Compliance)
 - Replaced Spore Blossom texture (Compliance)
-- Replaced Weathered Copper texture (Compliance)
 - Replaced Fox textures (EM32D)
 - Replaced Raw Copper, Gold & Iron block textures (EM32D)
 - Replaced Scaffolding textures (EM32D)
@@ -40,7 +39,13 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced non-Vattic sapling textures with Vattic versions
 - Replaced Acacia Door texture (Vattic)
 - Replaced Jungle, Acacia, Spruce trapdoor textures
+- Replaced Copper (and Cut Copper) block textures (EM32D)
+- Replaced Lodestone textures (EM32D)
+- Replaced Big Dripleaf textures (EM32D)
+- Replaced Chiseled Deepslate texture (EM32D)
+- Replaced Shulker block textures (Forgot in R5)
 - Changes to Warped and Crimson Nylium sides
+- Changes to Warped and Crimson sign entity textures
 - Updated Inventory GUI to support 1.18
 - Minor changes to accented font (Compliance)
 - Minor changes to Smoker model

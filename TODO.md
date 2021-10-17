@@ -4,7 +4,6 @@
 
 ### To Change
 - Llama Decor textures (Faithful)
-- Chiseled Deepslate texture (Compliance)
 
 ## [Minor]
 ### To Add
