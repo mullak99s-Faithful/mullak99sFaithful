@@ -4,6 +4,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 ## [Unreleased]
 ### Added
 - Added Illager font for 1.18
+- Added Otherside Music disc for 1.18
 
 ### Changed
 - Replaced Bamboo (block) textures (EM32D)
@@ -43,11 +44,13 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Lodestone textures (EM32D)
 - Replaced Big Dripleaf textures (EM32D)
 - Replaced Chiseled Deepslate texture (EM32D)
-- Replaced Shulker block textures (Forgot in R5)
+- Replaced all Shulker textured (EM32D)
+- Replaced all Pointed Dripstone block textures (EM32D)
+- Replaced Small Dripleaf textures (EM32D)
 - Changes to Warped and Crimson Nylium sides
 - Changes to Warped and Crimson sign entity textures
 - Updated Inventory GUI to support 1.18
-- Minor changes to accented font (Compliance)
+- Minor changes to fonts (Compliance)
 - Minor changes to Smoker model
 - Minor changes to Guardian textures (EM32D)
 - Minor 3D model changes for Jungle, Acacia, Spruce trapdoors

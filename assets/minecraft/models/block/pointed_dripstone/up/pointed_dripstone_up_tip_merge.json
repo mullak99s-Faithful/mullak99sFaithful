@@ -13,10 +13,10 @@
 			"to": [10, 16, 10],
 			"rotation": {"angle": 0, "axis": "z", "origin": [16, 16, 0]},
 			"faces": {
-				"north": {"uv": [5.5, 4, 9.5, 12], "texture": "#pointed_dripstone"},
-				"east": {"uv": [5.5, 4, 9.5, 12], "texture": "#pointed_dripstone"},
-				"south": {"uv": [5.5, 4, 9.5, 12], "texture": "#pointed_dripstone"},
-				"west": {"uv": [5.5, 4, 9.5, 12], "texture": "#pointed_dripstone"}
+				"north": {"uv": [5, 4, 9, 12], "texture": "#pointed_dripstone"},
+				"east": {"uv": [5, 4, 9, 12], "texture": "#pointed_dripstone"},
+				"south": {"uv": [5, 4, 9, 12], "texture": "#pointed_dripstone"},
+				"west": {"uv": [5, 4, 9, 12], "texture": "#pointed_dripstone"}
 			}
 		},
 		{
@@ -37,6 +37,7 @@
 		{
 			"name": "pointed_dripstone",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [0, 1]
 		}
 	]
