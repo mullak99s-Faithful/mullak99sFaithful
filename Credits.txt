@@ -1,10 +1,10 @@
 -----------------------------------------------------------------------------------------------------------
 
-== Noteworthy Mentions and Credits ==
+=== Noteworthy Mentions and Credits ===
 
-'Vattic' for creating the original Faithful 32x (Pre-1.9 textures)
-'EM32D' for creating the Emulated Vattic packs (Post-1.9 textures)
-'Compliance Team' for creating the Compliance pack (Post-1.9 textures)
+'Vattic' for creating the original Faithful 32x
+'EM32D' for creating the Emulated Vattic packs
+'Compliance Team' for creating the Compliance pack
 'AntVenom' for creating the FaithfulVenom pack (Major Inspiration)
 The community in the "Compliance 32x" Discord, as well as the "Emulated Vattic Textures" Discord
 for maintaining Vattic's original Faithful.
@@ -16,7 +16,7 @@ Emulated Vattic Team.
 
 -----------------------------------------------------------------------------------------------------------
 
-== Links ==
+=== Links ===
 
 EM32D: https://www.planetminecraft.com/texture-pack/em32d/
 Compliance: https://compliancepack.net/
@@ -24,7 +24,7 @@ FaithfulVenom: https://antvenom.com/files
 
 -----------------------------------------------------------------------------------------------------------
 
-== Notes ==
+=== Notes ===
 
 Licence's from Vattic, EM32D, and Compliance can be found within the Legal.txt file along with my licence.
 
@@ -66,9 +66,9 @@ If any of these are incorrect, please let me know (contact details below).
 	attached_melon_stem.png (block/attached_melon_stem.png): Vattic
 	attached_pumpkin_stem.png (block/attached_pumpkin_stem.png): Vattic
 	azalea_leaves.png (block/azalea_leaves.png): Compliance
-	azalea_plant.png (block/azalea_plant.png): Compliance
-	azalea_side.png (block/azalea_side.png): Compliance
-	azalea_top.png (block/azalea_top.png): Compliance
+	azalea_plant.png (block/azalea_plant.png): EM32D
+	azalea_side.png (block/azalea_side.png): EM32D
+	azalea_top.png (block/azalea_top.png): EM32D
 	azure_bluet.png (block/azure_bluet.png): Compliance
 	bamboo_large_leaves.png (block/bamboo_large_leaves.png): EM32D
 	bamboo_singleleaf.png (block/bamboo_singleleaf.png): EM32D
@@ -190,10 +190,10 @@ If any of these are incorrect, please let me know (contact details below).
 	cauldron_inner.png (block/cauldron_inner.png): Vattic
 	cauldron_side.png (block/cauldron_side.png): Vattic
 	cauldron_top.png (block/cauldron_top.png): Vattic
-	cave_vines.png (block/cave_vines.png): Compliance
-	cave_vines_lit.png (block/cave_vines_lit.png): Compliance
-	cave_vines_plant.png (block/cave_vines_plant.png): Compliance
-	cave_vines_plant_lit.png (block/cave_vines_plant_lit.png): Compliance
+	cave_vines.png (block/cave_vines.png): EM32D
+	cave_vines_lit.png (block/cave_vines_lit.png): EM32D
+	cave_vines_plant.png (block/cave_vines_plant.png): EM32D
+	cave_vines_plant_lit.png (block/cave_vines_plant_lit.png): EM32D
 	chain.png (block/chain.png): EM32D
 	chain_command_block_back.png (block/chain_command_block_back.png): EM32D
 	chain_command_block_conditional.png (block/chain_command_block_conditional.png): EM32D
@@ -368,7 +368,7 @@ If any of these are incorrect, please let me know (contact details below).
 	fletching_table_top.png (block/fletching_table_top.png): EM32D
 	flowering_azalea_leaves.png (block/flowering_azalea_leaves.png): Compliance
 	flowering_azalea_side.png (block/flowering_azalea_side.png): Compliance
-	flowering_azalea_top.png (block/flowering_azalea_top.png): Compliance
+	flowering_azalea_top.png (block/flowering_azalea_top.png): EM32D
 	flower_pot.png (block/flower_pot.png): Vattic
 	frosted_ice_0.png (block/frosted_ice_0.png): mullak99
 	frosted_ice_1.png (block/frosted_ice_1.png): mullak99
@@ -615,12 +615,12 @@ If any of these are incorrect, please let me know (contact details below).
 	potatoes_stage1.png (block/potatoes_stage1.png): Vattic
 	potatoes_stage2.png (block/potatoes_stage2.png): Vattic
 	potatoes_stage3.png (block/potatoes_stage3.png): Vattic
-	potted_azalea_bush_plant.png (block/potted_azalea_bush_plant.png): Compliance
-	potted_azalea_bush_side.png (block/potted_azalea_bush_side.png): Compliance
-	potted_azalea_bush_top.png (block/potted_azalea_bush_top.png): Compliance
-	potted_flowering_azalea_bush_plant.png (block/potted_flowering_azalea_bush_plant.png): Compliance
-	potted_flowering_azalea_bush_side.png (block/potted_flowering_azalea_bush_side.png): Compliance
-	potted_flowering_azalea_bush_top.png (block/potted_flowering_azalea_bush_top.png): Compliance
+	potted_azalea_bush_plant.png (block/potted_azalea_bush_plant.png): EM32D
+	potted_azalea_bush_side.png (block/potted_azalea_bush_side.png): EM32D
+	potted_azalea_bush_top.png (block/potted_azalea_bush_top.png): EM32D
+	potted_flowering_azalea_bush_plant.png (block/potted_flowering_azalea_bush_plant.png): EM32D
+	potted_flowering_azalea_bush_side.png (block/potted_flowering_azalea_bush_side.png): EM32D
+	potted_flowering_azalea_bush_top.png (block/potted_flowering_azalea_bush_top.png): EM32D
 	powder_snow.png (block/powder_snow.png): mullak99
 	powered_rail.png (block/powered_rail.png): EM32D
 	powered_rail_on.png (block/powered_rail_on.png): EM32D
@@ -752,8 +752,8 @@ If any of these are incorrect, please let me know (contact details below).
 	soul_torch.png (block/soul_torch.png): EM32D
 	spawner.png (block/spawner.png): Vattic
 	sponge.png (block/sponge.png): Vattic
-	spore_blossom.png (block/spore_blossom.png): Compliance
-	spore_blossom_base.png (block/spore_blossom_base.png): Compliance
+	spore_blossom.png (block/spore_blossom.png): EM32D
+	spore_blossom_base.png (block/spore_blossom_base.png): EM32D
 	spruce_door_bottom.png (block/spruce_door_bottom.png): Vattic
 	spruce_door_top.png (block/spruce_door_top.png): Vattic
 	spruce_leaves.png (block/spruce_leaves.png): Vattic
@@ -1856,7 +1856,7 @@ If any of these are incorrect, please let me know (contact details below).
 	turtle_layer_1.png (models/armor/turtle_layer_1.png): EM32D
 
 	== Minecraft [Painting] (/assets/minecraft/textures/painting) ==
-	[All Paintings]: Vattic
+	[All Paintings]: Vattic and EM32D
 
 	== Minecraft [Optifine] (/assets/minecraft/optifine/ctm) ==
 	0.png (big_mushroom/red_skin/0.png): Vattic

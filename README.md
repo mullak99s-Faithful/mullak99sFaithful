@@ -1,9 +1,10 @@
 # mullak99's Faithful 32x
 
-**Current Branch Version:** _MC1.17-R6_DEV211021-1_  
+**Current Branch Version:** _MC1.17-R6_DEV211023-1_  
 
 ## Official Links
 
+Site (WIP): https://faithful.mullak99.co.uk/  
 CurseForge Project: https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x  
 GitHub Repo: https://github.com/mullak99s-Faithful/mullak99sFaithful  
 Direct Downloads: https://builds.mullak99.co.uk/mullak99s-Faithful/  
