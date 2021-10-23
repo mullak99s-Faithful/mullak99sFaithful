@@ -47,6 +47,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced all Shulker textured (EM32D)
 - Replaced all Pointed Dripstone block textures (EM32D)
 - Replaced Small Dripleaf textures (EM32D)
+- Replaced most particles (EM32D)
 - Changes to Warped and Crimson Nylium sides
 - Changes to Warped and Crimson sign entity textures
 - Updated Inventory GUI to support 1.18
