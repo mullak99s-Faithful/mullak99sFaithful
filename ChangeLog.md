@@ -58,6 +58,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Campfire textures (EM32D, some tweaked by mullak99)
 - Replaced Azalea Leaves textures (EM32D)
 - Replaced Bee entity textures (EM32D)
+- Replaced Bed textures (made using EM32D & Vattic textures)
+- Replaced Boat textures (using Vattic planks)
 - Changes to Warped and Crimson Nylium sides
 - Changes to Warped and Crimson sign entity textures
 - Changes to Spyglass model (EM32D)
