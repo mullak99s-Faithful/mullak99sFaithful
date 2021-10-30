@@ -50,8 +50,17 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced most particles (EM32D)
 - Replaced Cave Vine textures (EM32D)
 - Replaced Azalea Plant textures (EM32D)
+- Replaced Parrot textures (EM32D)
+- Replaced Tropical Fish textures (EM32D)
+- Replaced Axolotl textures (EM32D)
+- Replaced Soul Sand texture (EM32D)
+- Replaced Soul Soil texture (EM32D)
+- Replaced Campfire textures (EM32D, some tweaked by mullak99)
+- Replaced Azalea Leaves textures (EM32D)
+- Replaced Bee entity textures (EM32D)
 - Changes to Warped and Crimson Nylium sides
 - Changes to Warped and Crimson sign entity textures
+- Changes to Spyglass model (EM32D)
 - Updated Inventory GUI to support 1.18
 - Minor changes to fonts (Compliance)
 - Minor changes to Smoker model
