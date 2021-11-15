@@ -3,70 +3,74 @@ All notable changes to mullak99's Faithful will be documented in this file.
 
 ## [Unreleased]
 ### Added
-- Added Illager font for 1.18
-- Added Otherside Music disc for 1.18
+- Added Goat entity texture (Placeholder)
 
 ### Changed
-- Replaced Bamboo (block) textures (EM32D)
-- Replaced Bell textures (EM32D)
-- Replaced Weeping & Twisting Vines textures (EM32D)
-- Replaced Hanging Roots texture (EM32D)
-- Replaced Vex textures (EM32D)
-- Replaced Cartography Table textures (based on EM32D)
-- Replaced Composter textures (EM32D, except for compost)
-- Replaced Smoker textures (based on EM32D)
-- Replaced Shroomlight texture (EM32D)
-- Replaced Target texture (EM32D)
+- Replaced Bamboo (block) textures
+- Replaced Bell textures
+- Replaced Weeping & Twisting Vines textures
+- Replaced Hanging Roots texture
+- Replaced Vex textures
+- Replaced Cartography Table textures
+- Replaced Composter textures
+- Replaced Smoker textures
+- Replaced Shroomlight texture
+- Replaced Target texture
 - Replaced Powder Snow texture
-- Replaced Lightning Rod texture (Compliance)
-- Replaced Spore Blossom texture (Compliance)
-- Replaced Fox textures (EM32D)
-- Replaced Raw Copper, Gold & Iron block textures (EM32D)
-- Replaced Scaffolding textures (EM32D)
-- Replaced Vibration particle (EM32D)
-- Replaced Jigsaw block textures (EM32D)
-- Replaced Respawn Anchor textures (EM32D)
-- Replaced Rooted Dirt texture (EM32D)
-- Replaced Smithing Table textures (EM32D)
-- Replaced Beehive textures (EM32D)
-- Replaced Panda textures (EM32D)
-- Replaced Deepslate Tiles textures (EM32D)
-- Replaced Loom textures (EM32D)
-- Replaced Villager Profession, Level, & Type textures (EM32D)
-- Replaced Zombie Villager Profession, Level, & Type textures (EM32D) [Placeholder, using Villager ones]
-- Replaced Amethyst Block texture (EM32D)
-- Replaced Budding Amethyst texture (EM32D)
-- Replaced Amethyst Bud textures (EM32D)
+- Replaced Lightning Rod texture
+- Replaced Spore Blossom texture
+- Replaced Fox textures
+- Replaced Raw Copper, Gold & Iron block textures
+- Replaced Scaffolding textures
+- Replaced Vibration particle
+- Replaced Jigsaw block textures
+- Replaced Respawn Anchor textures
+- Replaced Rooted Dirt texture
+- Replaced Smithing Table textures
+- Replaced Beehive textures
+- Replaced Panda textures
+- Replaced Deepslate Tiles textures
+- Replaced Loom textures
+- Replaced Villager Profession, Level, & Type textures
+- Replaced Zombie Villager Profession, Level, & Type textures (Placeholder, using Villager ones)
+- Replaced Amethyst Block texture
+- Replaced Budding Amethyst texture
+- Replaced Amethyst Bud textures
 - Replaced non-Vattic sapling textures with Vattic versions
-- Replaced Acacia Door texture (Vattic)
+- Replaced Acacia Door texture
 - Replaced Jungle, Acacia, Spruce trapdoor textures
-- Replaced Copper (and Cut Copper) block textures (EM32D)
-- Replaced Lodestone textures (EM32D)
-- Replaced Big Dripleaf textures (EM32D)
-- Replaced Chiseled Deepslate texture (EM32D)
-- Replaced all Shulker textured (EM32D)
-- Replaced all Pointed Dripstone block textures (EM32D)
-- Replaced Small Dripleaf textures (EM32D)
-- Replaced most particles (EM32D)
-- Replaced Cave Vine textures (EM32D)
-- Replaced Azalea Plant textures (EM32D)
-- Replaced Parrot textures (EM32D)
-- Replaced Tropical Fish textures (EM32D)
-- Replaced Axolotl textures (EM32D)
-- Replaced Soul Sand texture (EM32D)
-- Replaced Soul Soil texture (EM32D)
-- Replaced Campfire textures (EM32D, some tweaked by mullak99)
-- Replaced Azalea Leaves textures (EM32D)
-- Replaced Bee entity textures (EM32D)
-- Replaced Bed textures (made using EM32D & Vattic textures)
-- Replaced Boat textures (using Vattic planks)
+- Replaced Copper (and Cut Copper) block textures
+- Replaced Lodestone textures
+- Replaced Big Dripleaf textures
+- Replaced Chiseled Deepslate texture
+- Replaced all Shulker textured
+- Replaced all Pointed Dripstone block textures
+- Replaced Small Dripleaf textures
+- Replaced most particles
+- Replaced Cave Vine textures
+- Replaced Azalea Plant textures
+- Replaced Parrot textures
+- Replaced Tropical Fish textures
+- Replaced Axolotl textures
+- Replaced Soul Sand texture
+- Replaced Soul Soil texture
+- Replaced Campfire textures
+- Replaced Azalea Leaves textures
+- Replaced Bee entity textures
+- Replaced Bed textures
+- Replaced Boat textures
+- Replaced Llama Decor textures
+- Replaced Sculk Sensor textures
+- Replaced Wandering Trader texture
+- Replaced Piglin textures
+- Replaced Hoglin and Zoglin textures
+- Replaced Strider textures
 - Changes to Warped and Crimson Nylium sides
 - Changes to Warped and Crimson sign entity textures
-- Changes to Spyglass model (EM32D)
-- Updated Inventory GUI to support 1.18
-- Minor changes to fonts (Compliance)
+- Changes to Spyglass model
+- Minor changes to fonts
 - Minor changes to Smoker model
-- Minor changes to Guardian textures (EM32D)
+- Minor changes to Guardian textures
 - Minor 3D model changes for Jungle, Acacia, Spruce trapdoors
 - Other minor changes
 
@@ -80,42 +84,42 @@ All notable changes to mullak99's Faithful will be documented in this file.
 
 ### Changed
 - Completely reworked UI textures
-- Replaced Wool textures (EM32D)
-- Replaced Warped and Crimson planks textures (EM32D)
+- Replaced Wool textures
+- Replaced Warped and Crimson planks textures
 - Replaced Corner Rail model
-- Replaced Bedrock texture (from Evorp)
-- Replaced Crimson and Warped Planks textures (from Evorp)
-- Replaced Diamond texture (from Evorp)
-- Replaced End Stone Bricks texture (EM32D)
-- Replaced some Villager and Zombie Villager type textures (EM32D)
+- Replaced Bedrock texture
+- Replaced Crimson and Warped Planks textures
+- Replaced Diamond texture
+- Replaced End Stone Bricks texture
+- Replaced some Villager and Zombie Villager type textures
 - Replaced all Bucket related textures with a slightly edited Vattic bucket
 - Replaced all Bowl related textures with EM's bowl
-- Replaced Sugar Cane block texture (EM32D)
+- Replaced Sugar Cane block texture
 - Replaced Deepslate Top texture (and all Deepslate ore top textures)
-- Replaced Glazed Terracotta textures (EM32D)
-- Replaced Coral textures (EM32D)
+- Replaced Glazed Terracotta textures
+- Replaced Coral textures
 - Replaced Calcite and Tuff textures
 - Replaced Blackstone Brick textures
 - Replaced Deepslate Brick textures
-- Replaced Nether Brick textures (EM32D)
-- Replaced Nether and Warped Wart block textures (Based on Nether Wart block from HARAG0N)
+- Replaced Nether Brick textures
+- Replaced Nether and Warped Wart block textures
 - Replaced Sponge textures with Vattic's
-- Replaced all Shulker textures (Loosely based on Compliance's texture)
-- Replaced Shulker spark texture (Compliance)
-- Replaced Music Discs (EM32D)
-- Replaced Vindicator, Illusioner, and Evoker textures (EM32D)
-- Replaced Pig texture (EM32D)
-- Replaced Turtle Egg block textures (EM32D)
-- Replaced Command Block textures (EM32D)
-- Replaced Llama textures (EM32D)
-- Replaced Conduit textures (EM32D)
-- Replaced Pufferfish entity texture (EM32D)
-- Replaced Dolphin texture (EM32D)
-- Replaced Cobbled and Polished Deepslate texture (EM32D)
-- Replaced Smooth Basalt texture (EM32D)
-- Replaced Dripstone Block texture (EM32D)
-- Replaced Bee's Nest textures (EM32D)
-- Replaced Polished Basalt textures (EM32D)
+- Replaced all Shulker textures
+- Replaced Shulker spark texture
+- Replaced Music Discs
+- Replaced Vindicator, Illusioner, and Evoker textures
+- Replaced Pig texture
+- Replaced Turtle Egg block textures
+- Replaced Command Block textures
+- Replaced Llama textures
+- Replaced Conduit textures
+- Replaced Pufferfish entity texture
+- Replaced Dolphin texture
+- Replaced Cobbled and Polished Deepslate texture
+- Replaced Smooth Basalt texture
+- Replaced Dripstone Block texture
+- Replaced Bee's Nest textures
+- Replaced Polished Basalt textures
 - Changed Sugar Cane model to match new texture
 - Changed Deepslate Ore textures (removed 'glow')
 - Changed End Crystal (entity) texture to match new bedrock
@@ -123,7 +127,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Smoker textures (Prog-Art styled)
 - Changed Pillager textures (Placeholders)
 - Changed Crying Obsidian and Respawn Anchor textures
-- Changed Glow Item Frame block texture (based on EM's)
+- Changed Glow Item Frame block texture
 - Minor changes to Crimson and Warped trapdoor CTM textures
 - Minor changes to other rail models
 - Minor changes to Crimson Trapdoor model
@@ -152,13 +156,13 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Horse entity and armour textures
 - Replaced Beetroot Soup and Rabbit Stew textures
 - Replaced Piglin Brute texture
-- Replaced Realms textures with those from EM32D
-- Replaced Iron Golem crack textures with those from EM32D
+- Replaced Realms textures
+- Replaced Iron Golem crack textures
 - Replaced Copper Block texture
-- Replaced Realms "traffic lights"/server status textures with those from EM32D
-- Replaced Turtle Armour layer with that from EM32D
-- Replaced Chorus Flower/Plant block textures with those from EM32D
-- Replaced Coal Block texture with that from EM32D
+- Replaced Realms "traffic lights"/server status textures
+- Replaced Turtle Armour layer
+- Replaced Chorus Flower/Plant block textures
+- Replaced Coal Block texture
 - Replaced Exposed and Oxidized Copper block textures
 - Replaced Slot Frame (Realms) texture
 - Replaced Bone Block textures
@@ -179,14 +183,14 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced some particle textures
 - Replaced Stripped Log/Stem (side) block textures
 - Replaced both Campfire item textures (fallbacks for 3D item models)
-- Replaced various entity textures (now from EM32D)
+- Replaced various entity textures
 - Replaced Spore Blossom textures
 - Replaced Calcite texture
 - Replaced Dried Kelp block textures
 - Replaced Tuff texture
 - Replaced Zombie and Zombie Villager textures
 - Replaced Salmon entity texture
-- Changed minecart entity texture (used upscaled leather part from EM32D)
+- Changed minecart entity texture
 - Changed Grass and Foliage colormaps
 - Changed Water textures to be like they were Pre-1.13
 - Changed the Main Menu Panorama (to match the water texture change)
@@ -206,7 +210,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Minor changes to Stonecutter textures
 - Minor changes to Red Sandstone
 - Minor changes to Phantom Eyes
-- Minor UI changes (replaced some elements with those from EM32D)
+- Minor UI changes
 - Minor changes to some particles
 - Minor changes to the Crimson Door CTM textures
 - Minor changes to various door models
