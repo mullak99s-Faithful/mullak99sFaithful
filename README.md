@@ -1,5 +1,6 @@
 # mullak99's Faithful 32x
 
+**Latest 1.18.x Version:** [_MC1.18-R1_SNAP211115-1_](https://builds.mullak99.co.uk/mullak99s-Faithful/Snapshot-Branch/mullak99s-Faithful-32x-MC1.18-R1_SNAP211115-1.zip) 
 **Latest 1.17.x Version:** [_MC1.17-R6_BETA2_](https://builds.mullak99.co.uk/mullak99s-Faithful/Beta-Branch/mullak99s-Faithful-32x-MC1.17-R6_BETA2.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.17)  
 **Latest 1.16.x Version:** [_MC1.16-R14_BETA1_](https://builds.mullak99.co.uk/mullak99s-Faithful/Beta-Branch/mullak99s-Faithful-32x-MC1.16-R14_BETA1.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.16)   
 **Latest 1.8.x Version:** [_MC1.8-R2_BETA1_](https://builds.mullak99.co.uk/mullak99s-Faithful/Beta-Branch/mullak99s-Faithful-32x-MC1.8-R2_BETA1.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.8)  
