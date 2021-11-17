@@ -12,7 +12,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 
 ## [MC1.17-R6] - TBC
 ### Added
-- Added Goat entity texture (Placeholder)
+- Added Goat entity texture
 
 ### Changed
 - Replaced Bamboo (block) textures
