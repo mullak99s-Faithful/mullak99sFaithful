@@ -2,6 +2,14 @@
 All notable changes to mullak99's Faithful will be documented in this file.
 
 ## [Unreleased]
+- Added Otherside music disc
+- Added Illager font
+
+### Changed
+- Changed Inventory GUI
+- Changed Panorama
+
+## [MC1.17-R6] - TBC
 ### Added
 - Added Goat entity texture
 
