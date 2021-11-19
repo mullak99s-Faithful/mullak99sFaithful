@@ -9,6 +9,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 ### Changed
 - Changed Inventory GUI
 - Changed Panorama
+- Changed Minecart texture
 
 ## [MC1.17-R6] - TBC
 ### Added
