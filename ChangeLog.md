@@ -65,9 +65,16 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Piglin textures
 - Replaced Hoglin and Zoglin textures
 - Replaced Strider textures
+- Replaced all Log Top textures
+- Replaced Diamond and Gold blocks textures
+- Replaced various mob_effects textures
+- Replaced Beetroot and Beetroot seeds textures
+- Replaced Zombie, Skeleton, and Stray textures
+- Replaced End Stone Bricks texture
 - Changes to Warped and Crimson Nylium sides
 - Changes to Warped and Crimson sign entity textures
 - Changes to Spyglass model
+- Changes to all Copper Ore (normal and deepslate) textures
 - Minor changes to fonts
 - Minor changes to Smoker model
 - Minor changes to Guardian textures
