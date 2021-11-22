@@ -71,6 +71,12 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Beetroot and Beetroot seeds textures
 - Replaced Zombie, Skeleton, and Stray textures
 - Replaced End Stone Bricks texture
+- Replaced Chicken, Cow (inc. Mooshroom's), and Pig textures
+- Replaced Bowl, Mushroom stew, Rabbit stew, Beetroot soup textures
+- Replaced Raw and Cooked Chicken textures
+- Replaced Nether Star texture
+- Replaced Orange and Yellow dye textures
+- Replaced Spider eye texture
 - Changes to Warped and Crimson Nylium sides
 - Changes to Warped and Crimson sign entity textures
 - Changes to Spyglass model
@@ -80,6 +86,9 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Minor changes to Guardian textures
 - Minor 3D model changes for Jungle, Acacia, Spruce trapdoors
 - Other minor changes
+
+### Fixed
+- Fixed Z-fighting on Potion Overlay
 
 ## [MC1.17-R5] - 2021-09-10
 ### Added
