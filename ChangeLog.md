@@ -47,7 +47,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Budding Amethyst texture
 - Replaced Amethyst Bud textures
 - Replaced non-Vattic sapling textures with Vattic versions
-- Replaced Acacia Door texture
+- Replaced Acacia and Dark Oak Door textures
 - Replaced Jungle, Acacia, Spruce trapdoor textures
 - Replaced Copper (and Cut Copper) block textures
 - Replaced Lodestone textures

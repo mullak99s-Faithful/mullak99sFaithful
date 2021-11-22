@@ -45,8 +45,8 @@ If any of these are incorrect, please let me know (contact details below).
 === Texture Credits ===
 
 	== Minecraft [Block] (/assets/minecraft/textures/block) ==
-	acacia_door_bottom.png (block/acacia_door_bottom.png): Vattic
-	acacia_door_top.png (block/acacia_door_top.png): Vattic
+	acacia_door_bottom.png (block/acacia_door_bottom.png): EM32T
+	acacia_door_top.png (block/acacia_door_top.png): EM32T
 	acacia_leaves.png (block/acacia_leaves.png): Vattic
 	acacia_log.png (block/acacia_log.png): Vattic
 	acacia_log_top.png (block/acacia_log_top.png): Vattic
@@ -273,8 +273,8 @@ If any of these are incorrect, please let me know (contact details below).
 	cyan_wool.png (block/cyan_wool.png): EM32D
 	damaged_anvil_top.png (block/damaged_anvil_top.png): Vattic
 	dandelion.png (block/dandelion.png): Vattic
-	dark_oak_door_bottom.png (block/dark_oak_door_bottom.png): EM32D
-	dark_oak_door_top.png (block/dark_oak_door_top.png): EM32D
+	dark_oak_door_bottom.png (block/dark_oak_door_bottom.png): EM32T
+	dark_oak_door_top.png (block/dark_oak_door_top.png): EM32T
 	dark_oak_leaves.png (block/dark_oak_leaves.png): Vattic
 	dark_oak_log.png (block/dark_oak_log.png): Vattic
 	dark_oak_log_top.png (block/dark_oak_log_top.png): Vattic
