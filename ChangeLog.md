@@ -10,6 +10,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Inventory GUI
 - Changed Panorama
 - Changed Minecart texture
+- Changed Parrot textures
 
 ## [MC1.17-R6] - TBC
 ### Added
@@ -87,10 +88,14 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Replaced Nether Star texture
 - Replaced Orange and Yellow dye textures
 - Replaced Spider eye texture
+- Replaced Ravager texture
 - Changes to Warped and Crimson Nylium sides
 - Changes to Warped and Crimson sign entity textures
 - Changes to Spyglass model
 - Changes to all Copper Ore (normal and deepslate) textures
+- Changes to Honey Bottle and Dragon Breath textures
+- Changes to Carved Pumpkin and Jack 'o Lantern textures
+- Changes to Dead Bush texture
 - Minor changes to fonts
 - Minor changes to Smoker model
 - Minor changes to Guardian textures
