@@ -12,7 +12,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Minecart texture
 - Changed Parrot textures
 
-## [MC1.17-R6] - TBC
+## [MC1.17-R6] - 2021-11-26
 ### Added
 - Added Goat entity texture
 
@@ -104,6 +104,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 
 ### Fixed
 - Fixed Z-fighting on Potion Overlay
+- Fixed issues on placeholder Zombie Villager textures
+- Reverted lava texture change due to animation issues
 
 ## [MC1.17-R5] - 2021-09-10
 ### Added
