@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [MC1.17-R6] - 2021-11-26
+## [Unreleased]
 ### Added
 - Added Otherside music disc
 - Added Illager font
@@ -12,7 +12,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Minecart texture
 - Changed Parrot textures
 
-## [MC1.17-R6] - TBC
+## [MC1.17-R6] - 2021-11-26
 ### Added
 - Added Goat entity texture
 
