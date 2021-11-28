@@ -12,6 +12,11 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Minecart texture
 - Changed Parrot textures
 
+## [MC1.17-R7] - TBC
+### Changed
+- Changed Amethyst (Normal & Budding) block textures
+- Changed Amethyst Cluster and Large Bud textures
+
 ## [MC1.17-R6] - 2021-11-26
 ### Added
 - Added Goat entity texture
