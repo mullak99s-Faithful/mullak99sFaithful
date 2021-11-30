@@ -4,7 +4,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 ## [Unreleased]
 ### Changed
 - Changed Amethyst (Normal & Budding) block textures
-- Changed Amethyst Cluster and Large Bud textures
+- Changed Amethyst Cluster and Bud textures
+- Changed Shield textures
 
 ## [MC1.17-R6] - 2021-11-26
 ### Added
