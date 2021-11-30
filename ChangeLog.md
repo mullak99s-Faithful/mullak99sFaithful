@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [Unreleased]
+## [MC1.18-R1] - 2021-11-30
 ### Added
 - Added Otherside music disc
 - Added Illager font
@@ -15,7 +15,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 ## [MC1.17-R7] - TBC
 ### Changed
 - Changed Amethyst (Normal & Budding) block textures
-- Changed Amethyst Cluster and Large Bud textures
+- Changed Amethyst Cluster and Bud textures
+- Changed Shield textures
 
 ## [MC1.17-R6] - 2021-11-26
 ### Added
