@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [Unreleased]
+## [MC1.18-R1] - 2021-11-30
 ### Added
 - Added Otherside music disc
 - Added Illager font
