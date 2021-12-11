@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [Unreleased]
+### Changed
+- Replaced placeholder Zombie Villager types (Except for Snow and Jungle)
+- Updated Armorer and Weaponsmith Zombie Villager textures
+
 ## [MC1.18-R1] - 2021-11-30
 ### Added
 - Added Otherside music disc
