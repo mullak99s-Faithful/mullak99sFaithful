@@ -3,4 +3,4 @@
 - More 3D Models (Crops, Pumpkin, etc.)
 
 ### To Change
-- Placeholder Zombie Villager Professions and Types (EM32D [Using Normal Villager ones as placeholders])
+- Snow & Jungle Zombie Villager Types (EM32D)
