@@ -1,0 +1,9 @@
+{
+	"credit": "Created by mullak99",
+	"parent": "item/template_glass_pane",
+	"textures": {
+		"particle": "block/light_gray_stained_glass",
+		"front": "block/light_gray_stained_glass",
+		"top": "block/light_gray_stained_glass_pane_top"
+	}
+}

@@ -1,4 +1,6 @@
-- Create CTM textures for stripped logs
-- Convert and add old CTM textures
-- More 3D Models (Crops, Pumpkin, Iron Bars, etc.)
-- Add missing Horse Armour textures
+## [Minor]
+### To Add
+- More 3D Models (Crops, Pumpkin, etc.)
+
+### To Change
+- Snow & Jungle Zombie Villager Types (EM32D)
