@@ -4,7 +4,11 @@
             { "model": "block/red_mushroom" },
             { "model": "block/red_mushroom/0" },
             { "model": "block/red_mushroom/1" },
-            { "model": "block/red_mushroom/2" }
+            { "model": "block/red_mushroom/2" },
+			{ "model": "block/red_mushroom/3" },
+			{ "model": "block/red_mushroom/4" },
+			{ "model": "block/red_mushroom/5" },
+			{ "model": "block/red_mushroom/6" }
         ]
     }
 }

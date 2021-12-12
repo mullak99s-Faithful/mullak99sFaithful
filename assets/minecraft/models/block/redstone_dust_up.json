@@ -1,0 +1,23 @@
+{
+	"credit": "Created by mullak99",
+	"ambientocclusion": false,
+	"textures": {
+		"line": "block/redstone_dust_line0",
+		"particle": "block/redstone_dust_dot"
+	},
+	"elements": [
+		{
+			"name": "line",
+			"from": [6, 0.25, 0],
+			"to": [10, 16.25, 0.25],
+			"faces": {
+				"north": {"uv": [10, 0, 6, 16], "texture": "#line", "cullface": "north", "tintindex": 0},
+				"east": {"uv": [9.5, 0, 9.75, 16], "texture": "#line", "tintindex": 0},
+				"south": {"uv": [6, 0, 10, 16], "texture": "#line", "tintindex": 0},
+				"west": {"uv": [6, 0, 6.25, 16], "texture": "#line", "tintindex": 0},
+				"up": {"uv": [6, 0, 10, 0.25], "texture": "#line", "cullface": "up", "tintindex": 0},
+				"down": {"uv": [6, 15.5, 10, 15.75], "texture": "#line", "tintindex": 0}
+			}
+		}
+	]
+}
