@@ -2,9 +2,8 @@
 All notable changes to mullak99's Faithful will be documented in this file.
 
 ## [Unreleased]
-### Changed
-- Replaced placeholder Zombie Villager types (Except for Snow and Jungle)
-- Updated Armorer and Weaponsmith Zombie Villager textures
+### Added/Changed
+- Included changes from MC1.17-R7
 
 ## [MC1.18-R1] - 2021-11-30
 ### Added
@@ -19,9 +18,18 @@ All notable changes to mullak99's Faithful will be documented in this file.
 
 ## [MC1.17-R7] - TBC
 ### Changed
+- Replaced placeholder Zombie Villager types
+- Replaced all book textures
+- Replaced all Observer textures
+- Updated Armorer and Weaponsmith Zombie Villager textures
 - Changed Amethyst (Normal & Budding) block textures
 - Changed Amethyst Cluster and Bud textures
 - Changed Shield textures
+- Changes to Slowness & Invisibility mob_effects
+- Minor changes to Blaze Powder
+- Minor changes to Painting back texture
+- Minor changes to Furnace textures
+- Minor changes to Minecart-related item models
 
 ## [MC1.17-R6] - 2021-11-26
 ### Added
