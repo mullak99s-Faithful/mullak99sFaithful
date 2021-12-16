@@ -3,7 +3,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 
 ## [Unreleased]
 ### Changed
-- Included changes / brought up-to-date with MC1.18-R2_DEV211211-1
+- Included changes / brought up-to-date with MC1.18-R2
 
 ## [MC1.13-R1] - 2019-05-17
 ### Added
