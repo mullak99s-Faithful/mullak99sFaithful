@@ -26,6 +26,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Amethyst Cluster and Bud textures
 - Changed Shield textures
 - Changes to Slowness & Invisibility mob_effects
+- Changes to all armour item textures
+- Replaced various item textures with Vattic versions
 - Minor changes to Blaze Powder
 - Minor changes to Painting back texture
 - Minor changes to Furnace textures
