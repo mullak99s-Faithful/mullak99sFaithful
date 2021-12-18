@@ -1,9 +1,9 @@
 {
     "variants": {
-        "normal": [
-            { "model": "daisy" },
-            { "model": "daisy/0" },
-            { "model": "daisy/1" }
+        "": [
+            { "model": "oxeye_daisy" },
+            { "model": "oxeye_daisy/0" },
+            { "model": "oxeye_daisy/1" }
         ]
     }
 }

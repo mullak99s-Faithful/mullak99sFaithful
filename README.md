@@ -1,17 +1,13 @@
-# mullak99sFaithful
+# mullak99's Faithful 32x
 
-**Branch: 1.12**
+**Current Branch Version:** _MC1.12-R2_  
 
-The recommended branch will contain the recommended version of the resourcepack, this will oftenly be for the latest full-release version of Minecraft.
+## Official Links
 
-The 1.12 branch will contain the most up-to-date version of the resourcepack for Minecraft 1.12.x. Changes will rarely be made to this branch, unless some major issue is found.
+CurseForge Project: https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x  
+GitHub Repo: https://github.com/mullak99s-Faithful/mullak99sFaithful  
+Direct Downloads: https://builds.mullak99.co.uk/mullak99s-Faithful/  
+MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998/  
 
-**Current Version: v1.12**
-
-MinecraftForum Page: http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1244998/
-
-## TODO
-
--| v1.12 |-
-
-- N/A
+## Related Projects
+AlphaSounds: https://github.com/mullak99s-Faithful/AlphaSounds

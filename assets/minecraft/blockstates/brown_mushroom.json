@@ -1,10 +1,14 @@
 {
     "variants": {
-        "normal": [
+        "": [
             { "model": "brown_mushroom" },
             { "model": "brown_mushroom/0" },
             { "model": "brown_mushroom/1" },
-            { "model": "brown_mushroom/2" }
+            { "model": "brown_mushroom/2" },
+			{ "model": "brown_mushroom/3" },
+			{ "model": "brown_mushroom/4" },
+			{ "model": "brown_mushroom/5" },
+			{ "model": "brown_mushroom/6" }
         ]
     }
 }

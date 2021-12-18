@@ -4,7 +4,7 @@
         "particle": "blocks/crafting_table_front",
         "down": "blocks/planks_oak",
         "up": "blocks/crafting_table_top",
-        "north": "blocks/crafting_table_front",
+        "north": "block/crafting_table_front",
         "east": "ctm/crafting_table_side/3",
         "south": "ctm/crafting_table_side/3",
         "west": "blocks/crafting_table_front"

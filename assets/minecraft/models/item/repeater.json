@@ -1,5 +1,6 @@
 {
-    "parent": "block/repeater_4tick",
+    "credit": "Created by mullak99",
+	"parent": "block/repeater_1tick",
 	"display": {
         "gui": {
             "rotation": [ 30, 45, 0 ],
