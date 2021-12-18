@@ -1,0 +1,9 @@
+{
+    "variants": {
+		"": [
+            { "model": "potted_blue_orchid" },
+            { "model": "potted_blue_orchid/0" },
+            { "model": "potted_blue_orchid/1" }
+        ]
+    }
+}

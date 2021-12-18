@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+            { "model": "azure_bluet" },
+            { "model": "azure_bluet/0" }
+        ]
+    }
+}

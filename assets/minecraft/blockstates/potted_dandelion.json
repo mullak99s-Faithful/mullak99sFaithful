@@ -1,0 +1,10 @@
+{
+    "variants": {
+		"": [
+            { "model": "potted_dandelion" },
+            { "model": "potted_dandelion/0" },
+            { "model": "potted_dandelion/1" },
+			{ "model": "potted_dandelion/2" }
+        ]
+    }
+}

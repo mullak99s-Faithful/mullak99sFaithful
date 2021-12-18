@@ -1,0 +1,9 @@
+{
+    "variants": {
+		"": [
+            { "model": "potted_allium" },
+            { "model": "potted_allium/0" },
+            { "model": "potted_allium/1" }
+        ]
+    }
+}

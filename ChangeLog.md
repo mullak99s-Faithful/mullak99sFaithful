@@ -1,10 +1,9 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [MC1.8-R2] (Unreleased)
-### Added/Changed
-- Moved Backport Release into the main repo
-- Updated to be level with MC1.17-R5_BETA3
+## [MC1.8-R2] - 2021-12-18
+### Changed
+- Included changes / brought up-to-date with MC1.18-R2
 
 ## [MC1.8-R1] - 2015-08-02
 ### Added

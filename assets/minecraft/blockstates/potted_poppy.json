@@ -1,0 +1,8 @@
+{
+    "variants": {
+		"": [
+            { "model": "potted_poppy" },
+            { "model": "potted_poppy/0" }
+        ]
+    }
+}
