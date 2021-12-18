@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [MC1.17-R7] - TBC
+## [MC1.17-R7] - 2021-12-18
 ### Changed
 - Replaced placeholder Zombie Villager types
 - Replaced all book textures
