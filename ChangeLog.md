@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [Unreleased]
+## [MC1.18-R2] - 2021-12-18
 ### Added/Changed
 - Included changes from MC1.17-R7
 
@@ -16,7 +16,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Minecart texture
 - Changed Parrot textures
 
-## [MC1.17-R7] - TBC
+## [MC1.17-R7] - 2021-12-18
 ### Changed
 - Replaced placeholder Zombie Villager types
 - Replaced all book textures
