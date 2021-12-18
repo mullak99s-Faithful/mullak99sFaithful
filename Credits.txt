@@ -344,8 +344,8 @@ If any of these are incorrect, please let me know (contact details below).
 	diamond_ore.png (block/diamond_ore.png): Vattic
 	diorite.png (block/diorite.png): EM32T
 	dirt.png (block/dirt.png): Vattic
-	dirt_path_side.png (block/dirt_path_side.png): Vattic
-	dirt_path_top.png (block/dirt_path_top.png): Vattic
+	dirt_path_side.png (block/dirt_path_side.png): mullak99
+	dirt_path_top.png (block/dirt_path_top.png): EM32D
 	dispenser_front.png (block/dispenser_front.png): Vattic
 	dispenser_front_vertical.png (block/dispenser_front_vertical.png): Vattic
 	dragon_egg.png (block/dragon_egg.png): Vattic
