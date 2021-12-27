@@ -775,21 +775,21 @@ If any of these are incorrect, please let me know (contact details below).
 	stonecutter_top.png (block/stonecutter_top.png): mullak99 (using Vattic and EM32D textures)
 	stone_bricks.png (block/stone_bricks.png): Vattic
 	stripped_acacia_log.png (block/stripped_acacia_log.png): EM32D
-	stripped_acacia_log_top.png (block/stripped_acacia_log_top.png): EM32T
+	stripped_acacia_log_top.png (block/stripped_acacia_log_top.png): EM32D
 	stripped_birch_log.png (block/stripped_birch_log.png): EM32D
-	stripped_birch_log_top.png (block/stripped_birch_log_top.png): EM32T
+	stripped_birch_log_top.png (block/stripped_birch_log_top.png): EM32D
 	stripped_crimson_stem.png (block/stripped_crimson_stem.png): EM32D
-	stripped_crimson_stem_top.png (block/stripped_crimson_stem_top.png): EM32T
+	stripped_crimson_stem_top.png (block/stripped_crimson_stem_top.png): EM32D
 	stripped_dark_oak_log.png (block/stripped_dark_oak_log.png): EM32D
-	stripped_dark_oak_log_top.png (block/stripped_dark_oak_log_top.png): EM32T
+	stripped_dark_oak_log_top.png (block/stripped_dark_oak_log_top.png): EM32D
 	stripped_jungle_log.png (block/stripped_jungle_log.png): EM32D
-	stripped_jungle_log_top.png (block/stripped_jungle_log_top.png): EM32T
+	stripped_jungle_log_top.png (block/stripped_jungle_log_top.png): EM32D
 	stripped_oak_log.png (block/stripped_oak_log.png): EM32D
-	stripped_oak_log_top.png (block/stripped_oak_log_top.png): EM32T
+	stripped_oak_log_top.png (block/stripped_oak_log_top.png): EM32D
 	stripped_spruce_log.png (block/stripped_spruce_log.png): EM32D
-	stripped_spruce_log_top.png (block/stripped_spruce_log_top.png): EM32T
+	stripped_spruce_log_top.png (block/stripped_spruce_log_top.png): EM32D
 	stripped_warped_stem.png (block/stripped_warped_stem.png): EM32D
-	stripped_warped_stem_top.png (block/stripped_warped_stem_top.png): EM32T
+	stripped_warped_stem_top.png (block/stripped_warped_stem_top.png): EM32D
 	structure_block.png (block/structure_block.png): EM32D
 	structure_block_corner.png (block/structure_block_corner.png): EM32D
 	structure_block_data.png (block/structure_block_data.png): EM32D
