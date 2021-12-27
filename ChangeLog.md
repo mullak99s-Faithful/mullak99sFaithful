@@ -1,37 +1,9 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [MC1.10-R4] - 2021-12-27
+## [MC1.9-R2] - 2021-12-27
 ### Changed
-- Included changes / brought up-to-date with MC1.11-R2
-
-## [MC1.10-R3] - 2016-09-19
-### Fixed
-- Fixed bugged CTM textures.
-- Fixed Inventory GUI.
-
-## [MC1.10-R2] - 2016-08-27
-### Added
-- Added custom models.
-
-### Fixed
-- Actually added new blockstates.
-
-## [MC1.10-R1] - 2016-08-26
-### Added
-- Added 1.10 Block textures.
-- Added 1.10 Item textures.
-- Added 1.10 Entity textures.
-- Added Realms GUI textures.
-- Added more CTM.
-- Added new blockstates.
-- Added missing Alex texture.
-
-### Changed
-- Tweaked Brewing GUI.
-- Tweaked Bow textures.
-- Tweaked Normal/Spectral/Tipped Arrow Entity textures.
-- Tweaked Hunger Bar textures.
+- Included changes / brought up-to-date with MC1.10-R4
 
 ## [MC1.9-R1] - 2016-04-29
 ### Added
