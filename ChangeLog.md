@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [MC1.18-R3] - 2021-12-27
+### Added/Changed
+- Included changes from MC1.17-R8
+
 ## [MC1.18-R2] - 2021-12-18
 ### Added/Changed
 - Included changes from MC1.17-R7
@@ -15,6 +19,13 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Panorama
 - Changed Minecart texture
 - Changed Parrot textures
+
+## [MC1.17-R8] - 2021-12-27
+### Changed
+- Changed Crimson Trapdoor texture
+- Changed Sea Lantern texture
+- Replaced various textures with Vattic's
+- Replaced various textures with EM32T's
 
 ## [MC1.17-R7] - 2021-12-18
 ### Changed
