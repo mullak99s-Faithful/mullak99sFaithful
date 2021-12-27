@@ -1,13 +1,16 @@
 # mullak99's Faithful 32x
 
-**Latest 1.18.x Version:** [_MC1.18-R2_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.18-R2.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.18)  
-**Latest 1.17.x Version:** [_MC1.17-R7_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.17-R7.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.17)  
-**Latest 1.16.x Version:** [_MC1.16-R14_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.16-R14.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.16)   
-**Latest 1.15.x Version:** [_MC1.15-R5_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.15-R5.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.15)   
-**Latest 1.14.x Version:** [_MC1.14-R2_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.14-R2.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.14)   
-**Latest 1.13.x Version:** [_MC1.13-R2_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.13-R2.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.13)   
-**Latest 1.12.x Version:** [_MC1.13-R2_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.12-R2.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.12)   
-**Latest 1.8.x Version:** [_MC1.8-R2_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.8-R2.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.8)  
+**Latest 1.18.x Version:** [_MC1.18-R3_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.18-R3.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.18)  
+**Latest 1.17.x Version:** [_MC1.17-R8_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.17-R8.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.17)  
+**Latest 1.16.x Version:** [_MC1.16-R15_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.16-R15.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.16)   
+**Latest 1.15.x Version:** [_MC1.15-R6_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.15-R6.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.15)   
+**Latest 1.14.x Version:** [_MC1.14-R3_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.14-R3.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.14)   
+**Latest 1.13.x Version:** [_MC1.13-R3_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.13-R3.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.13)   
+**Latest 1.12.x Version:** [_MC1.12-R3_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.12-R3.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.12)   
+**Latest 1.11.x Version:** [_MC1.11-R2_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.11-R2.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.11)   
+**Latest 1.10.x Version:** [_MC1.10-R4_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.10-R4.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.10)   
+**Latest 1.9.x Version:** [_MC1.9-R2_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.9-R2.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.9)   
+**Latest 1.8.x Version:** [_MC1.8-R3_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.8-R3.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.8)  
 
 ## Official Links
 

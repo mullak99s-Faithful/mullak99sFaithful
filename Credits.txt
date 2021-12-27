@@ -81,10 +81,10 @@ If any of these are incorrect, please let me know (contact details below).
 	bamboo_small_leaves.png (block/bamboo_small_leaves.png): EM32D
 	bamboo_stage0.png (block/bamboo_stage0.png): EM32D
 	bamboo_stalk.png (block/bamboo_stalk.png): EM32D
-	barrel_bottom.png (block/barrel_bottom.png): EM32D
-	barrel_side.png (block/barrel_side.png): EM32D
-	barrel_top.png (block/barrel_top.png): EM32D
-	barrel_top_open.png (block/barrel_top_open.png): EM32D
+	barrel_bottom.png (block/barrel_bottom.png): EM32T
+	barrel_side.png (block/barrel_side.png): EM32T
+	barrel_top.png (block/barrel_top.png): EM32T
+	barrel_top_open.png (block/barrel_top_open.png): EM32T
 	basalt_side.png (block/basalt_side.png): EM32D
 	basalt_top.png (block/basalt_top.png): EM32D
 	beacon.png (block/beacon.png): Vattic
@@ -260,7 +260,7 @@ If any of these are incorrect, please let me know (contact details below).
 	crimson_roots_pot.png (block/crimson_roots_pot.png): EM32D
 	crimson_stem.png (block/crimson_stem.png): EM32D
 	crimson_stem_e.png (block/crimson_stem_e.png): mullak99 (using EM32D's texture)
-	crimson_stem_top.png (block/crimson_stem_top.png): EM32D
+	crimson_stem_top.png (block/crimson_stem_top.png): EM32T
 	crimson_trapdoor.png (block/crimson_trapdoor.png): EM32D
 	crying_obsidian.png (block/crying_obsidian.png): Vattic (with EM32D's overlay)
 	crying_obsidian_e.png (block/crying_obsidian_e.png): mullak99 (using EM32D's texture)
@@ -337,8 +337,8 @@ If any of these are incorrect, please let me know (contact details below).
 	diamond_ore.png (block/diamond_ore.png): Vattic
 	diorite.png (block/diorite.png): EM32T
 	dirt.png (block/dirt.png): Vattic
-	dirt_path_side.png (block/dirt_path_side.png): Vattic
-	dirt_path_top.png (block/dirt_path_top.png): Vattic
+	dirt_path_side.png (block/dirt_path_side.png): mullak99
+	dirt_path_top.png (block/dirt_path_top.png): EM32D
 	dispenser_front.png (block/dispenser_front.png): Vattic
 	dispenser_front_vertical.png (block/dispenser_front_vertical.png): Vattic
 	dragon_egg.png (block/dragon_egg.png): Vattic
@@ -388,7 +388,7 @@ If any of these are incorrect, please let me know (contact details below).
 	glass.png (block/glass.png): mullak99
 	glass_pane_top.png (block/glass_pane_top.png): mullak99
 	glowstone.png (block/glowstone.png): Vattic
-	glow_item_frame.png (block/glow_item_frame.png): mullak99 (Based off Vattic's and EM32D's)
+	glow_item_frame.png (block/glow_item_frame.png): EM32T
 	glow_lichen.png (block/glow_lichen.png): EM32D
 	gold_block.png (block/gold_block.png): EM32T
 	gold_ore.png (block/gold_ore.png): Vattic
@@ -460,7 +460,7 @@ If any of these are incorrect, please let me know (contact details below).
 	jungle_trapdoor.png (block/jungle_trapdoor.png): mullak99
 	kelp.png (block/kelp.png): EM32D
 	kelp_plant.png (block/kelp_plant.png): EM32D
-	ladder.png (block/ladder.png): EM32D
+	ladder.png (block/ladder.png): EM32T
 	lantern.png (block/lantern.png): EM32D
 	lapis_block.png (block/lapis_block.png): Vattic
 	lapis_ore.png (block/lapis_ore.png): Vattic
@@ -725,7 +725,7 @@ If any of these are incorrect, please let me know (contact details below).
 	sculk_sensor_tendril_inactive.png (block/sculk_sensor_tendril_inactive.png): EM32D
 	sculk_sensor_top.png (block/sculk_sensor_top.png): EM32D
 	seagrass.png (block/seagrass.png): EM32D
-	sea_lantern.png (block/sea_lantern.png): EM32D
+	sea_lantern.png (block/sea_lantern.png): EM32T
 	sea_pickle.png (block/sea_pickle.png): EM32D
 	shroomlight.png (block/shroomlight.png): EM32D
 	shulker_box.png (block/shulker_box.png): EM32D
@@ -775,21 +775,21 @@ If any of these are incorrect, please let me know (contact details below).
 	stonecutter_top.png (block/stonecutter_top.png): mullak99 (using Vattic and EM32D textures)
 	stone_bricks.png (block/stone_bricks.png): Vattic
 	stripped_acacia_log.png (block/stripped_acacia_log.png): EM32D
-	stripped_acacia_log_top.png (block/stripped_acacia_log_top.png): EM32D
+	stripped_acacia_log_top.png (block/stripped_acacia_log_top.png): EM32T
 	stripped_birch_log.png (block/stripped_birch_log.png): EM32D
-	stripped_birch_log_top.png (block/stripped_birch_log_top.png): EM32D
+	stripped_birch_log_top.png (block/stripped_birch_log_top.png): EM32T
 	stripped_crimson_stem.png (block/stripped_crimson_stem.png): EM32D
-	stripped_crimson_stem_top.png (block/stripped_crimson_stem_top.png): EM32D
+	stripped_crimson_stem_top.png (block/stripped_crimson_stem_top.png): EM32T
 	stripped_dark_oak_log.png (block/stripped_dark_oak_log.png): EM32D
-	stripped_dark_oak_log_top.png (block/stripped_dark_oak_log_top.png): EM32D
+	stripped_dark_oak_log_top.png (block/stripped_dark_oak_log_top.png): EM32T
 	stripped_jungle_log.png (block/stripped_jungle_log.png): EM32D
-	stripped_jungle_log_top.png (block/stripped_jungle_log_top.png): EM32D
+	stripped_jungle_log_top.png (block/stripped_jungle_log_top.png): EM32T
 	stripped_oak_log.png (block/stripped_oak_log.png): EM32D
-	stripped_oak_log_top.png (block/stripped_oak_log_top.png): EM32D
+	stripped_oak_log_top.png (block/stripped_oak_log_top.png): EM32T
 	stripped_spruce_log.png (block/stripped_spruce_log.png): EM32D
-	stripped_spruce_log_top.png (block/stripped_spruce_log_top.png): EM32D
+	stripped_spruce_log_top.png (block/stripped_spruce_log_top.png): EM32T
 	stripped_warped_stem.png (block/stripped_warped_stem.png): EM32D
-	stripped_warped_stem_top.png (block/stripped_warped_stem_top.png): EM32D
+	stripped_warped_stem_top.png (block/stripped_warped_stem_top.png): EM32T
 	structure_block.png (block/structure_block.png): EM32D
 	structure_block_corner.png (block/structure_block_corner.png): EM32D
 	structure_block_data.png (block/structure_block_data.png): EM32D
@@ -838,7 +838,7 @@ If any of these are incorrect, please let me know (contact details below).
 	warped_roots_pot.png (block/warped_roots_pot.png): EM32D
 	warped_stem.png (block/warped_stem.png): EM32D
 	warped_stem_e.png (block/warped_stem_e.png): mullak99 (using EM32D's textures)
-	warped_stem_top.png (block/warped_stem_top.png): EM32D
+	warped_stem_top.png (block/warped_stem_top.png): EM32T
 	warped_trapdoor.png (block/warped_trapdoor.png): EM32D
 	warped_wart_block.png (block/warped_wart_block.png): Based on HARAG0N's (Edited by mullak99)
 	water_flow.png (block/water_flow.png): Vattic (tweaked by mullak99)
@@ -883,7 +883,7 @@ If any of these are incorrect, please let me know (contact details below).
 	== Minecraft [Item] (/assets/minecraft/textures/item) ==
 	acacia_boat.png (item/acacia_boat.png): EM32D
 	acacia_door.png (item/acacia_door.png): EM32D
-	acacia_sign.png (item/acacia_sign.png): EM32D
+	acacia_sign.png (item/acacia_sign.png): EM32T
 	amethyst_shard.png (item/amethyst_shard.png): EM32D
 	apple.png (item/apple.png): Vattic
 	armor_stand.png (item/armor_stand.png): Vattic
@@ -899,7 +899,7 @@ If any of these are incorrect, please let me know (contact details below).
 	bell.png (item/bell.png): EM32D
 	birch_boat.png (item/birch_boat.png): EM32D
 	birch_door.png (item/birch_door.png): EM32D
-	birch_sign.png (item/birch_sign.png): EM32D
+	birch_sign.png (item/birch_sign.png): EM32T
 	black_candle.png (item/black_candle.png): EM32D
 	black_dye.png (item/black_dye.png): EM32D
 	blaze_powder.png (item/blaze_powder.png): Vattic
@@ -931,9 +931,9 @@ If any of these are incorrect, please let me know (contact details below).
 	cauldron.png (item/cauldron.png): Vattic
 	chain.png (item/chain.png): EM32D
 	chainmail_boots.png (item/chainmail_boots.png): Vattic
-	chainmail_chestplate.png (item/chainmail_chestplate.png): Vattic
+	chainmail_chestplate.png (item/chainmail_chestplate.png): EM32T
 	chainmail_helmet.png (item/chainmail_helmet.png): Vattic
-	chainmail_leggings.png (item/chainmail_leggings.png): Vattic
+	chainmail_leggings.png (item/chainmail_leggings.png): EM32T
 	charcoal.png (item/charcoal.png): Vattic
 	chest_minecart.png (item/chest_minecart.png): Vattic
 	chicken.png (item/chicken.png): EM32T
@@ -1052,9 +1052,9 @@ If any of these are incorrect, please let me know (contact details below).
 	copper_ingot.png (item/copper_ingot.png): EM32D
 	creeper_banner_pattern.png (item/creeper_banner_pattern.png): EM32D (modified by mullak99)
 	crimson_door.png (item/crimson_door.png): EM32D
-	crimson_sign.png (item/crimson_sign.png): EM32D
+	crimson_sign.png (item/crimson_sign.png): EM32T
 	crossbow_arrow.png (item/crossbow_arrow.png): EM32D
-	crossbow_firework.png (item/crossbow_firework.png): EM32D
+	crossbow_firework.png (item/crossbow_firework.png): EM32T
 	crossbow_pulling_0.png (item/crossbow_pulling_0.png): EM32D
 	crossbow_pulling_1.png (item/crossbow_pulling_1.png): EM32D
 	crossbow_pulling_2.png (item/crossbow_pulling_2.png): EM32D
@@ -1063,15 +1063,15 @@ If any of these are incorrect, please let me know (contact details below).
 	cyan_dye.png (item/cyan_dye.png): EM32D
 	dark_oak_boat.png (item/dark_oak_boat.png): EM32D
 	dark_oak_door.png (item/dark_oak_door.png): EM32D
-	dark_oak_sign.png (item/dark_oak_sign.png): EM32D
+	dark_oak_sign.png (item/dark_oak_sign.png): EM32T
 	diamond.png (item/diamond.png): Vattic
 	diamond_axe.png (item/diamond_axe.png): Vattic
 	diamond_boots.png (item/diamond_boots.png): Vattic
-	diamond_chestplate.png (item/diamond_chestplate.png): Vattic
+	diamond_chestplate.png (item/diamond_chestplate.png): EM32T
 	diamond_helmet.png (item/diamond_helmet.png): Vattic
 	diamond_hoe.png (item/diamond_hoe.png): Vattic
 	diamond_horse_armor.png (item/diamond_horse_armor.png): Vattic
-	diamond_leggings.png (item/diamond_leggings.png): Vattic
+	diamond_leggings.png (item/diamond_leggings.png): EM32T
 	diamond_pickaxe.png (item/diamond_pickaxe.png): Vattic
 	diamond_shovel.png (item/diamond_shovel.png): Vattic
 	diamond_sword.png (item/diamond_sword.png): Vattic
@@ -1094,7 +1094,7 @@ If any of these are incorrect, please let me know (contact details below).
 	fermented_spider_eye.png (item/fermented_spider_eye.png): Vattic
 	filled_map.png (item/filled_map.png): Vattic
 	filled_map_markings.png (item/filled_map_markings.png): Vattic
-	firework_rocket.png (item/firework_rocket.png): EM32D
+	firework_rocket.png (item/firework_rocket.png): Vattic
 	firework_star.png (item/firework_star.png): Vattic
 	firework_star_overlay.png (item/firework_star_overlay.png): Vattic
 	fire_charge.png (item/fire_charge.png): Vattic
@@ -1112,16 +1112,16 @@ If any of these are incorrect, please let me know (contact details below).
 	glowstone_dust.png (item/glowstone_dust.png): Vattic
 	glow_berries.png (item/glow_berries.png): Compliance
 	glow_ink_sac.png (item/glow_ink_sac.png): mullak99
-	glow_item_frame.png (item/glow_item_frame.png): mullak99
+	glow_item_frame.png (item/glow_item_frame.png): EM32T
 	golden_apple.png (item/golden_apple.png): Vattic
 	golden_axe.png (item/golden_axe.png): Vattic
 	golden_boots.png (item/golden_boots.png): Vattic
 	golden_carrot.png (item/golden_carrot.png): Vattic
-	golden_chestplate.png (item/golden_chestplate.png): Vattic
+	golden_chestplate.png (item/golden_chestplate.png): EM32T
 	golden_helmet.png (item/golden_helmet.png): Vattic
 	golden_hoe.png (item/golden_hoe.png): Vattic
 	golden_horse_armor.png (item/golden_horse_armor.png): Vattic
-	golden_leggings.png (item/golden_leggings.png): Vattic
+	golden_leggings.png (item/golden_leggings.png): EM32T
 	golden_pickaxe.png (item/golden_pickaxe.png): Vattic
 	golden_shovel.png (item/golden_shovel.png): Vattic
 	golden_sword.png (item/golden_sword.png): Vattic
@@ -1140,13 +1140,13 @@ If any of these are incorrect, please let me know (contact details below).
 	ink_sac.png (item/ink_sac.png): Vattic
 	iron_axe.png (item/iron_axe.png): Vattic
 	iron_boots.png (item/iron_boots.png): Vattic
-	iron_chestplate.png (item/iron_chestplate.png): Vattic
+	iron_chestplate.png (item/iron_chestplate.png): EM32T
 	iron_door.png (item/iron_door.png): Vattic
 	iron_helmet.png (item/iron_helmet.png): Vattic
 	iron_hoe.png (item/iron_hoe.png): Vattic
 	iron_horse_armor.png (item/iron_horse_armor.png): Vattic
 	iron_ingot.png (item/iron_ingot.png): EM32D
-	iron_leggings.png (item/iron_leggings.png): Vattic
+	iron_leggings.png (item/iron_leggings.png): EM32T
 	iron_nugget.png (item/iron_nugget.png): mullak99
 	iron_pickaxe.png (item/iron_pickaxe.png): Vattic
 	iron_shovel.png (item/iron_shovel.png): Vattic
@@ -1154,7 +1154,7 @@ If any of these are incorrect, please let me know (contact details below).
 	item_frame.png (item/item_frame.png): Vattic
 	jungle_boat.png (item/jungle_boat.png): EM32D
 	jungle_door.png (item/jungle_door.png): EM32D
-	jungle_sign.png (item/jungle_sign.png): EM32D
+	jungle_sign.png (item/jungle_sign.png): EM32T
 	kelp.png (item/kelp.png): EM32D
 	knowledge_book.png (item/knowledge_book.png): EM32D
 	lantern.png (item/lantern.png): EM32D
@@ -1164,7 +1164,7 @@ If any of these are incorrect, please let me know (contact details below).
 	leather.png (item/leather.png): Vattic
 	leather_boots.png (item/leather_boots.png): Vattic
 	leather_boots_overlay.png (item/leather_boots_overlay.png): Vattic
-	leather_chestplate.png (item/leather_chestplate.png): Vattic
+	leather_chestplate.png (item/leather_chestplate.png): EM32T
 	leather_chestplate_overlay.png (item/leather_chestplate_overlay.png): Vattic
 	leather_helmet.png (item/leather_helmet.png): Vattic
 	leather_helmet_overlay.png (item/leather_helmet_overlay.png): Vattic
@@ -1226,7 +1226,7 @@ If any of these are incorrect, please let me know (contact details below).
 	nether_wart.png (item/nether_wart.png): Vattic
 	oak_boat.png (item/oak_boat.png): EM32D
 	oak_door.png (item/oak_door.png): EM32D
-	oak_sign.png (item/oak_sign.png): EM32D
+	oak_sign.png (item/oak_sign.png): Vattic
 	orange_candle.png (item/orange_candle.png): EM32D
 	orange_dye.png (item/orange_dye.png): EM32T
 	painting.png (item/painting.png): Vattic
@@ -1284,7 +1284,7 @@ If any of these are incorrect, please let me know (contact details below).
 	splash_potion.png (item/splash_potion.png): Vattic (modified by mullak99)
 	spruce_boat.png (item/spruce_boat.png): EM32D
 	spruce_door.png (item/spruce_door.png): EM32D
-	spruce_sign.png (item/spruce_sign.png): EM32D
+	spruce_sign.png (item/spruce_sign.png): EM32T
 	spyglass.png (item/spyglass.png): EM32D
 	spyglass_model.png (item/spyglass_model.png): EM32D
 	stick.png (item/stick.png): Vattic
@@ -1294,7 +1294,7 @@ If any of these are incorrect, please let me know (contact details below).
 	stone_shovel.png (item/stone_shovel.png): Vattic
 	stone_sword.png (item/stone_sword.png): Vattic
 	string.png (item/string.png): Vattic
-	structure_void.png (item/structure_void.png): EM32D
+	structure_void.png (item/structure_void.png): EM32T
 	sugar.png (item/sugar.png): Vattic
 	sugar_cane.png (item/sugar_cane.png): Vattic
 	suspicious_stew.png (item/suspicious_stew.png): EM32D
@@ -1310,7 +1310,7 @@ If any of these are incorrect, please let me know (contact details below).
 	turtle_helmet.png (item/turtle_helmet.png): EM32D
 	warped_door.png (item/warped_door.png): EM32D
 	warped_fungus_on_a_stick.png (item/warped_fungus_on_a_stick.png): EM32T
-	warped_sign.png (item/warped_sign.png): EM32D
+	warped_sign.png (item/warped_sign.png): EM32T
 	water_bucket.png (item/water_bucket.png): Vattic
 	wheat.png (item/wheat.png): Vattic
 	wheat_seeds.png (item/wheat_seeds.png): Vattic
@@ -1351,7 +1351,7 @@ If any of these are incorrect, please let me know (contact details below).
 	shield_base.png (entity/shield_base.png): EM32D
 	shield_base_nopattern.png (entity/shield_base_nopattern.png): EM32D
 	silverfish.png (entity/silverfish.png): Vattic
-	snow_golem.png (entity/snow_golem.png): Vattic
+	snow_golem.png (entity/snow_golem.png): EM32T
 	spider_eyes.png (entity/spider_eyes.png): EM32D
 	steve.png (entity/steve.png): Vattic
 	trident.png (entity/trident.png): EM32D
@@ -1460,10 +1460,10 @@ If any of these are incorrect, please let me know (contact details below).
 	horse_white.png (entity/horse/horse_white.png): EM32D
 	horse_zombie.png (entity/horse/horse_zombie.png): EM32D
 	mule.png (entity/horse/mule.png): EM32D
-	horse_armor_diamond.png (entity/horse/armor/horse_armor_diamond.png): EM32D
-	horse_armor_gold.png (entity/horse/armor/horse_armor_gold.png): EM32D
-	horse_armor_iron.png (entity/horse/armor/horse_armor_iron.png): EM32D
-	horse_armor_leather.png (entity/horse/armor/horse_armor_leather.png): EM32D
+	horse_armor_diamond.png (entity/horse/armor/horse_armor_diamond.png): EM32T
+	horse_armor_gold.png (entity/horse/armor/horse_armor_gold.png): EM32T
+	horse_armor_iron.png (entity/horse/armor/horse_armor_iron.png): EM32T
+	horse_armor_leather.png (entity/horse/armor/horse_armor_leather.png): EM32T
 	evoker.png (entity/illager/evoker.png): EM32D
 	evoker_fangs.png (entity/illager/evoker_fangs.png): EM32D
 	illusioner.png (entity/illager/illusioner.png): EM32D
@@ -1531,15 +1531,15 @@ If any of these are incorrect, please let me know (contact details below).
 	[All Shield pattern textures]: Compliance
 	[All Shulker textures]: EM32D
 	spark.png (entity/shulker/spark.png): EM32D
-	acacia.png (entity/signs/acacia.png): EM32D
-	birch.png (entity/signs/birch.png): EM32D
-	crimson.png (entity/signs/crimson.png): mullak99 (based on EM32D)
+	acacia.png (entity/signs/acacia.png): EM32T
+	birch.png (entity/signs/birch.png): EM32T
+	crimson.png (entity/signs/crimson.png): EM32T
 	crimson_e.png (entity/signs/crimson_e.png): mullak99
-	dark_oak.png (entity/signs/dark_oak.png): EM32D
-	jungle.png (entity/signs/jungle.png): EM32D
+	dark_oak.png (entity/signs/dark_oak.png): EM32T
+	jungle.png (entity/signs/jungle.png): EM32T
 	oak.png (entity/signs/oak.png): Vattic
-	spruce.png (entity/signs/spruce.png): EM32D
-	warped.png (entity/signs/warped.png): mullak99 (based on EM32D)
+	spruce.png (entity/signs/spruce.png): EM32T
+	warped.png (entity/signs/warped.png): EM32T
 	warped_e.png (entity/signs/warped_e.png): mullak99
 	skeleton.png (entity/skeleton/skeleton.png): EM32D
 	stray.png (entity/skeleton/stray.png): EM32D
@@ -1550,13 +1550,13 @@ If any of these are incorrect, please let me know (contact details below).
 	slime.png (entity/slime/slime.png): EM32D
 	cave_spider.png (entity/spider/cave_spider.png): EM32D
 	spider.png (entity/spider/spider.png): EM32D
-	glow_squid.png (entity/squid/glow_squid.png): EM32D
-	squid.png (entity/squid/squid.png): EM32D
+	glow_squid.png (entity/squid/glow_squid.png): EM32T
+	squid.png (entity/squid/squid.png): EM32T
 	strider.png (entity/strider/strider.png): EM32D
 	strider_cold.png (entity/strider/strider_cold.png): EM32D
 	strider_saddle.png (entity/strider/strider_saddle.png): EM32D
 	big_sea_turtle.png (entity/turtle/big_sea_turtle.png): EM32D
-	villager.png (entity/villager/villager.png): EM32D
+	villager.png (entity/villager/villager.png): EM32T
 	armorer.png (entity/villager/profession/armorer.png): EM32D
 	butcher.png (entity/villager/profession/butcher.png): EM32D
 	cartographer.png (entity/villager/profession/cartographer.png): EM32D
@@ -1579,7 +1579,7 @@ If any of these are incorrect, please let me know (contact details below).
 	desert.png (entity/villager/type/desert.png): EM32D
 	jungle.png (entity/villager/type/jungle.png): EM32D
 	plains.png (entity/villager/type/plains.png): EM32D
-	savanna.png (entity/villager/type/savanna.png): EM32D
+	savanna.png (entity/villager/type/savanna.png): EM32T
 	snow.png (entity/villager/type/snow.png): EM32D
 	swamp.png (entity/villager/type/swamp.png): EM32D
 	taiga.png (entity/villager/type/taiga.png): EM32D
@@ -1824,7 +1824,7 @@ If any of these are incorrect, please let me know (contact details below).
 	hunger.png (mob_effect/hunger.png): EM32T
 	instant_damage.png (mob_effect/instant_damage.png): EM32T
 	instant_health.png (mob_effect/instant_health.png): EM32T
-	invisibility.png (mob_effect/invisibility.png): Vattic
+	invisibility.png (mob_effect/invisibility.png): EM32T
 	jump_boost.png (mob_effect/jump_boost.png): Vattic
 	levitation.png (mob_effect/levitation.png): EM32T
 	luck.png (mob_effect/luck.png): EM32T
@@ -1834,7 +1834,7 @@ If any of these are incorrect, please let me know (contact details below).
 	poison.png (mob_effect/poison.png): Vattic
 	regeneration.png (mob_effect/regeneration.png): Vattic
 	resistance.png (mob_effect/resistance.png): Vattic
-	saturation.png (mob_effect/saturation.png): Vattic
+	saturation.png (mob_effect/saturation.png): EM32T
 	slowness.png (mob_effect/slowness.png): EM32T
 	slow_falling.png (mob_effect/slow_falling.png): Vattic
 	speed.png (mob_effect/speed.png): Vattic

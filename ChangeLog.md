@@ -1,7 +1,11 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [Unreleased]
+## [MC1.18-R3] - 2021-12-27
+### Added/Changed
+- Included changes from MC1.17-R8
+
+## [MC1.18-R2] - 2021-12-18
 ### Added/Changed
 - Included changes from MC1.17-R7
 
@@ -16,7 +20,14 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Minecart texture
 - Changed Parrot textures
 
-## [MC1.17-R7] - TBC
+## [MC1.17-R8] - 2021-12-27
+### Changed
+- Changed Crimson Trapdoor texture
+- Changed Sea Lantern texture
+- Replaced various textures with Vattic's
+- Replaced various textures with EM32T's
+
+## [MC1.17-R7] - 2021-12-18
 ### Changed
 - Replaced placeholder Zombie Villager types
 - Replaced all book textures
@@ -26,6 +37,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Amethyst Cluster and Bud textures
 - Changed Shield textures
 - Changes to Slowness & Invisibility mob_effects
+- Changes to all armour item textures
+- Replaced various item textures with Vattic versions
 - Minor changes to Blaze Powder
 - Minor changes to Painting back texture
 - Minor changes to Furnace textures
