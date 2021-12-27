@@ -1,6 +1,21 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [MC1.12-R3] - 2021-12-27
+### Added/Changed
+- Included changes / brought up-to-date with MC1.18-R3
+- Added panorama
+
+### Fixed
+- Fixed a texturing error with Stone Bricks
+- Fixed a texturing error with Droppers
+- Fixed Horse textures
+- Fixed Banner and Shield Patterns
+- Fixed Pufferfish item texture
+- Fixed Wooden Door and Trapdoor model
+- Fixed Iron Door texture
+- Fixed Iron and Chain armour models (Transparency issue)
+
 ## [MC1.12-R2] - 2021-12-18
 ### Changed
 - Included changes / brought up-to-date with MC1.18-R2
