@@ -1,38 +1,9 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [MC1.12-R3] - 2021-12-27
-### Added/Changed
-- Included changes / brought up-to-date with MC1.18-R3
-- Added panorama
-
-### Fixed
-- Fixed a texturing error with Stone Bricks
-- Fixed a texturing error with Droppers
-- Fixed Horse textures
-- Fixed Banner and Shield Patterns
-- Fixed Pufferfish item texture
-- Fixed Wooden Door and Trapdoor model
-- Fixed Iron Door texture
-- Fixed Iron and Chain armour models (Transparency issue)
-
-## [MC1.12-R2] - 2021-12-18
+## [MC1.11-R2] - 2021-12-27
 ### Changed
-- Included changes / brought up-to-date with MC1.18-R2
-
-## [MC1.12-R1] - 2018-04-11
-### Added
-- Added 1.12 Block textures.
-- Added 1.12 Item textures.
-- Added 1.12 Entity textures.
-- Added 1.12 GUI textures.
-- Added more 3D block models (Sugar Cane and Cacti).
-- Added more 3D item models (Cake and Brewing Stand).
-
-### Changed
-- Replaced Realms buttons and popup.
-- Minor changes to widgets.png.
-- Further sprite compression (Reducing the size of the resourcepack even more).
+- Included changes / brought up-to-date with MC1.12-R3
 
 ## [MC1.11-R1] - 2017-05-08
 ### Added
