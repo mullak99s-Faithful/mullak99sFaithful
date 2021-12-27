@@ -1,25 +1,9 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [MC1.11-R2] - 2021-12-27
+## [MC1.10-R4] - 2021-12-27
 ### Changed
-- Included changes / brought up-to-date with MC1.12-R3
-
-## [MC1.11-R1] - 2017-05-08
-### Added
-- Added 1.11 Block textures.
-- Added 1.11 Item textures.
-- Added 1.11 Entity textures.
-- Added 1.11 GUI textures.
-- Added Forge version check GUI icons.
-- Added 3D Ladder block model.
-- Added multiple 3D item models (Bed, Lever, Repeater, Comparator, Redstone Torch, Torch and Ladder).
-
-### Changed
-- Compressed many sprites, including the pack.png (Reduced the overall size of the resourcepack).
-
-### Fixed
-- Fixed broken repeater rendering when using Optifine.
+- Included changes / brought up-to-date with MC1.11-R2
 
 ## [MC1.10-R3] - 2016-09-19
 ### Fixed
