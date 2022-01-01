@@ -1,6 +1,6 @@
 ======= mullak99's Faithful 32x =======
 
-Terms Updated: 23/10/2021
+Terms Updated: 01/01/2022
 
 Latest Terms: https://raw.githubusercontent.com/mullak99s-Faithful/mullak99sFaithful/master/Legal.txt
 
@@ -44,16 +44,19 @@ Finally:
 
 ----------------------------------------------------------------------------------------------------------------
 
-~~ EM32D's Usage Guidelines ~~
+~~ Classic Faithful 32x Usage Guidelines ~~
 
 Requirements:
 
 1: Give clear credit.
-2: Link back to the PMC listing.
+2: Link back to the PMC, CurseForge, or GitHub listings here:
+	https://www.planetminecraft.com/texture-pack/classic-faithful-32x
+	https://github.com/classicfaithful/classic-faithful-32x
+	https://www.curseforge.com/minecraft/texture-packs/classic-faithful-32x32
+
 3: Ask on our discord above if you have a decent sized fanbase.
 4: Be honest about what you are using.
-5: If you are only using a few textures, such as wool, logs, UI, etc, make sure to list the textures that we made.
-6: No monetization, including link shorteners.
+5: No monetization, including link shorteners.
 
 Things that are fine as long as the guidelines above are being followed:
 
@@ -73,7 +76,7 @@ Finally:
 
 ----------------------------------------------------------------------------------------------------------------
 
-~~ Compliance Team's Usage Guidelines ~~
+~~ Compliance's Usage Guidelines ~~
 
 Compliance Resource Pack License
 BY USING COMPLIANCE YOU AGREE TO THESE TERMS AND CONDITIONS. IF YOU DISTRIBUTE COMPLIANCE IN ANY FORM, THIS LICENSE MUST BE INCLUDED INSIDE OF THE ZIP FILE.
@@ -133,7 +136,7 @@ Bonus ways to credit: *These are not required!*
 
 Final Notes:
 - Follow Vattic's Guidelines.
-- Follow EM32D's Guidelines.
+- Follow Classic Faithful 32x's Guidelines.
 - Follow Compliance Team's Guidelines.
 - If I request that I don't want you using resources from my pack then that is final. This will only happen in extreme cases.
 - These guidelines may be changed at anytime, by using this pack you agree to the latest terms.
