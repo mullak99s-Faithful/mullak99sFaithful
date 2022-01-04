@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [MC1.18-R4] - TBC
+### Changed
+- Replaced various textures with Vattic's
+- Replaced various textures with CF (PA)'s
+
 ## [MC1.18-R3] - 2021-12-27
 ### Added/Changed
 - Included changes from MC1.17-R8
@@ -25,7 +30,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Crimson Trapdoor texture
 - Changed Sea Lantern texture
 - Replaced various textures with Vattic's
-- Replaced various textures with EM32T's
+- Replaced various textures with CF (PA)'s
 
 ## [MC1.17-R7] - 2021-12-18
 ### Changed
@@ -296,7 +301,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Added Main Menu Panorama
 
 ### Changed
-- Changed most (1.9+) textures from Faithful's to EM32D or Compliance's
+- Changed most (1.9+) textures from Faithful's to CF or Compliance's
 - Reworked some models to fit new textures
 - Reorganised Optifine CTM folder
 
