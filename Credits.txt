@@ -94,10 +94,10 @@ If any of these are incorrect, please let me know (contact details below).
 	beehive_front.png (block/beehive_front.png): CF
 	beehive_front_honey.png (block/beehive_front_honey.png): CF
 	beehive_side.png (block/beehive_side.png): CF
-	beetroots_stage0.png (block/beetroots_stage0.png): Vattic
-	beetroots_stage1.png (block/beetroots_stage1.png): Vattic
-	beetroots_stage2.png (block/beetroots_stage2.png): Vattic
-	beetroots_stage3.png (block/beetroots_stage3.png): Vattic
+	beetroots_stage0.png (block/beetroots_stage0.png): CF (PA)
+	beetroots_stage1.png (block/beetroots_stage1.png): CF (PA)
+	beetroots_stage2.png (block/beetroots_stage2.png): CF (PA)
+	beetroots_stage3.png (block/beetroots_stage3.png): CF (PA)
 	bee_nest_bottom.png (block/bee_nest_bottom.png): CF
 	bee_nest_front.png (block/bee_nest_front.png): CF
 	bee_nest_front_honey.png (block/bee_nest_front_honey.png): CF
@@ -579,8 +579,8 @@ If any of these are incorrect, please let me know (contact details below).
 	oxidized_copper.png (block/oxidized_copper.png): CF
 	oxidized_cut_copper.png (block/oxidized_cut_copper.png): CF
 	packed_ice.png (block/packed_ice.png): Vattic
-	peony_bottom.png (block/peony_bottom.png): Vattic
-	peony_top.png (block/peony_top.png): Vattic
+	peony_bottom.png (block/peony_bottom.png): CF (PA)
+	peony_top.png (block/peony_top.png): CF (PA)
 	pink_candle.png (block/pink_candle.png): CF
 	pink_candle_lit.png (block/pink_candle_lit.png): CF
 	pink_concrete.png (block/pink_concrete.png): CF
@@ -694,21 +694,21 @@ If any of these are incorrect, please let me know (contact details below).
 	repeating_command_block_conditional.png (block/repeating_command_block_conditional.png): CF (PA)
 	repeating_command_block_front.png (block/repeating_command_block_front.png): CF (PA)
 	repeating_command_block_side.png (block/repeating_command_block_side.png): CF (PA)
-	respawn_anchor_bottom.png (block/respawn_anchor_bottom.png): Vattic + CF
-	respawn_anchor_bottom_e.png (block/respawn_anchor_bottom_e.png)
-	respawn_anchor_side0.png (block/respawn_anchor_side0.png): Vattic + CF
+	respawn_anchor_bottom.png (block/respawn_anchor_bottom.png): Vattic + CF (Edited by mullak99)
+	respawn_anchor_bottom_e.png (block/respawn_anchor_bottom_e.png): mullak99 (Based on CF)
+	respawn_anchor_side0.png (block/respawn_anchor_side0.png): Vattic + CF (Edited by mullak99)
 	respawn_anchor_side0_e.png (block/respawn_anchor_side0_e.png): mullak99 (Based on CF)
-	respawn_anchor_side1.png (block/respawn_anchor_side1.png): Vattic + CF
+	respawn_anchor_side1.png (block/respawn_anchor_side1.png): Vattic + CF (Edited by mullak99)
 	respawn_anchor_side1_e.png (block/respawn_anchor_side1_e.png): mullak99 (Based on CF)
-	respawn_anchor_side2.png (block/respawn_anchor_side2.png): Vattic + CF
+	respawn_anchor_side2.png (block/respawn_anchor_side2.png): Vattic + CF (Edited by mullak99)
 	respawn_anchor_side2_e.png (block/respawn_anchor_side2_e.png): mullak99 (Based on CF)
-	respawn_anchor_side3.png (block/respawn_anchor_side3.png): Vattic + CF
+	respawn_anchor_side3.png (block/respawn_anchor_side3.png): Vattic + CF (Edited by mullak99)
 	respawn_anchor_side3_e.png (block/respawn_anchor_side3_e.png): mullak99 (Based on CF)
-	respawn_anchor_side4.png (block/respawn_anchor_side4.png): Vattic + CF
+	respawn_anchor_side4.png (block/respawn_anchor_side4.png): Vattic + CF (Edited by mullak99)
 	respawn_anchor_side4_e.png (block/respawn_anchor_side4_e.png): mullak99 (Based on CF)
-	respawn_anchor_top.png (block/respawn_anchor_top.png): mullak99 (Based on CF)
+	respawn_anchor_top.png (block/respawn_anchor_top.png): Vattic + CF (Edited by mullak99)
 	respawn_anchor_top_e.png (block/respawn_anchor_top_e.png): mullak99 (Based on CF)
-	respawn_anchor_top_off.png (block/respawn_anchor_top_off.png): Vattic + CF
+	respawn_anchor_top_off.png (block/respawn_anchor_top_off.png): CF (Edited by mullak99)
 	respawn_anchor_top_off_e.png (block/respawn_anchor_top_off_e.png): mullak99 (Based on CF)
 	rooted_dirt.png (block/rooted_dirt.png): CF
 	rose_bush_bottom.png (block/rose_bush_bottom.png): Vattic
@@ -1238,7 +1238,7 @@ If any of these are incorrect, please let me know (contact details below).
 	pink_dye.png (item/pink_dye.png): CF
 	pointed_dripstone.png (item/pointed_dripstone.png): CF
 	poisonous_potato.png (item/poisonous_potato.png): Vattic
-	popped_chorus_fruit.png (item/popped_chorus_fruit.png): CF
+	popped_chorus_fruit.png (item/popped_chorus_fruit.png): CF (PA)
 	porkchop.png (item/porkchop.png): Vattic
 	potato.png (item/potato.png): Vattic
 	potion.png (item/potion.png): Vattic
@@ -1272,7 +1272,7 @@ If any of these are incorrect, please let me know (contact details below).
 	seagrass.png (item/seagrass.png): CF
 	sea_pickle.png (item/sea_pickle.png): CF
 	shears.png (item/shears.png): Vattic
-	shulker_shell.png (item/shulker_shell.png): CF
+	shulker_shell.png (item/shulker_shell.png): CF (PA)
 	skull_banner_pattern.png (item/skull_banner_pattern.png): CF (modified by mullak99)
 	slime_ball.png (item/slime_ball.png): Vattic
 	snowball.png (item/snowball.png): Vattic
@@ -1349,8 +1349,8 @@ If any of these are incorrect, please let me know (contact details below).
 	minecart.png (entity/minecart.png): Vattic
 	phantom.png (entity/phantom.png): Vattic
 	phantom_eyes.png (entity/phantom_eyes.png): mullak99
-	shield_base.png (entity/shield_base.png): CF
-	shield_base_nopattern.png (entity/shield_base_nopattern.png): CF
+	shield_base.png (entity/shield_base.png): CF (PA)
+	shield_base_nopattern.png (entity/shield_base_nopattern.png): CF (PA)
 	silverfish.png (entity/silverfish.png): Vattic
 	snow_golem.png (entity/snow_golem.png): CF (PA)
 	spider_eyes.png (entity/spider_eyes.png): CF
@@ -1367,7 +1367,7 @@ If any of these are incorrect, please let me know (contact details below).
 	axolotl_lucy.png (entity/axolotl/axolotl_lucy.png): CF
 	axolotl_wild.png (entity/axolotl/axolotl_wild.png): CF
 	[All Banner pattern textures]: Compliance
-	polarbear.png (entity/bear/polarbear.png): CF
+	polarbear.png (entity/bear/polarbear.png): CF (PA)
 	[All Bed textures]: mullak99 (using CF & Vattic beds)
 	bee.png (entity/bee/bee.png): CF
 	bee_angry.png (entity/bee/bee_angry.png): CF
@@ -1544,7 +1544,7 @@ If any of these are incorrect, please let me know (contact details below).
 	warped_e.png (entity/signs/warped_e.png): mullak99
 	skeleton.png (entity/skeleton/skeleton.png): CF
 	stray.png (entity/skeleton/stray.png): CF
-	stray_overlay.png (entity/skeleton/stray_overlay.png): CF
+	stray_overlay.png (entity/skeleton/stray_overlay.png): CF (PA)
 	wither_skeleton.png (entity/skeleton/wither_skeleton.png): CF
 	magmacube.png (entity/slime/magmacube.png): CF
 	magmacube_e.png (entity/slime/magmacube_e.png): mullak99
