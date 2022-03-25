@@ -27,7 +27,7 @@ FaithfulVenom: https://antvenom.com/files
 
 === Notes ===
 
-Licence's from Vattic, Classic Faithful 32x, and Compliance can be found within the Legal.txt file along with my licence.
+Licences related to textures from Vattic, Classic Faithful, and Compliance can be found within the Legal.txt file, along with my own licence.
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -54,7 +54,7 @@ If any of these are incorrect, please let me know (contact details below).
 	== Minecraft [Block] (/assets/minecraft/textures/block) ==
 	acacia_door_bottom.png (block/acacia_door_bottom.png): CF (PA)
 	acacia_door_top.png (block/acacia_door_top.png): CF (PA)
-	acacia_leaves.png (block/acacia_leaves.png): Vattic
+	acacia_leaves.png (block/acacia_leaves.png): CF (PA)
 	acacia_log.png (block/acacia_log.png): Vattic
 	acacia_log_top.png (block/acacia_log_top.png): Vattic
 	acacia_planks.png (block/acacia_planks.png): Vattic
@@ -68,8 +68,8 @@ If any of these are incorrect, please let me know (contact details below).
 	ancient_debris_side.png (block/ancient_debris_side.png): CF
 	ancient_debris_top.png (block/ancient_debris_top.png): CF
 	andesite.png (block/andesite.png): Vattic
-	anvil.png (block/anvil.png): Vattic
-	anvil_top.png (block/anvil_top.png): Vattic
+	anvil.png (block/anvil.png): CF (PA)
+	anvil_top.png (block/anvil_top.png): CF (PA)
 	attached_melon_stem.png (block/attached_melon_stem.png): Vattic
 	attached_pumpkin_stem.png (block/attached_pumpkin_stem.png): Vattic
 	azalea_leaves.png (block/azalea_leaves.png): CF
@@ -112,7 +112,7 @@ If any of these are incorrect, please let me know (contact details below).
 	big_dripleaf_top.png (block/big_dripleaf_top.png): CF
 	birch_door_bottom.png (block/birch_door_bottom.png): Vattic
 	birch_door_top.png (block/birch_door_top.png): Vattic
-	birch_leaves.png (block/birch_leaves.png): Vattic
+	birch_leaves.png (block/birch_leaves.png): CF (PA)
 	birch_log.png (block/birch_log.png): Vattic
 	birch_log_top.png (block/birch_log_top.png): Vattic
 	birch_planks.png (block/birch_planks.png): Vattic
@@ -146,8 +146,8 @@ If any of these are incorrect, please let me know (contact details below).
 	blue_stained_glass_pane_top.png (block/blue_stained_glass_pane_top.png): CF
 	blue_terracotta.png (block/blue_terracotta.png): CF
 	blue_wool.png (block/blue_wool.png): CF
-	bone_block_side.png (block/bone_block_side.png): CF
-	bone_block_top.png (block/bone_block_top.png): CF
+	bone_block_side.png (block/bone_block_side.png): CF (PA)
+	bone_block_top.png (block/bone_block_top.png): CF (PA)
 	bookshelf.png (block/bookshelf.png): Vattic
 	brain_coral.png (block/brain_coral.png): CF
 	brain_coral_block.png (block/brain_coral_block.png): CF
@@ -174,7 +174,7 @@ If any of these are incorrect, please let me know (contact details below).
 	cactus_bottom.png (block/cactus_bottom.png): Vattic
 	cactus_side.png (block/cactus_side.png): Vattic
 	cactus_top.png (block/cactus_top.png): Vattic
-	cake_bottom.png (block/cake_bottom.png): Vattic
+	cake_bottom.png (block/cake_bottom.png): CF (PA)
 	cake_inner.png (block/cake_inner.png): Vattic
 	cake_side.png (block/cake_side.png): Vattic
 	cake_top.png (block/cake_top.png): Vattic
@@ -206,7 +206,7 @@ If any of these are incorrect, please let me know (contact details below).
 	chain_command_block_conditional.png (block/chain_command_block_conditional.png): CF (PA)
 	chain_command_block_front.png (block/chain_command_block_front.png): CF (PA)
 	chain_command_block_side.png (block/chain_command_block_side.png): CF (PA)
-	chipped_anvil_top.png (block/chipped_anvil_top.png): Vattic
+	chipped_anvil_top.png (block/chipped_anvil_top.png): CF (PA)
 	chiseled_deepslate.png (block/chiseled_deepslate.png): CF
 	chiseled_nether_bricks.png (block/chiseled_nether_bricks.png): CF
 	chiseled_polished_blackstone.png (block/chiseled_polished_blackstone.png): CF
@@ -215,9 +215,9 @@ If any of these are incorrect, please let me know (contact details below).
 	chiseled_red_sandstone.png (block/chiseled_red_sandstone.png): CF
 	chiseled_sandstone.png (block/chiseled_sandstone.png): CF
 	chiseled_stone_bricks.png (block/chiseled_stone_bricks.png): Vattic
-	chorus_flower.png (block/chorus_flower.png): CF
-	chorus_flower_dead.png (block/chorus_flower_dead.png): CF
-	chorus_plant.png (block/chorus_plant.png): CF
+	chorus_flower.png (block/chorus_flower.png): CF (PA)
+	chorus_flower_dead.png (block/chorus_flower_dead.png): CF (PA)
+	chorus_plant.png (block/chorus_plant.png): CF (PA)
 	clay.png (block/clay.png): Vattic
 	coal_block.png (block/coal_block.png): Vattic
 	coal_ore.png (block/coal_ore.png): Vattic
@@ -260,7 +260,7 @@ If any of these are incorrect, please let me know (contact details below).
 	crimson_roots.png (block/crimson_roots.png): CF
 	crimson_roots_pot.png (block/crimson_roots_pot.png): CF
 	crimson_stem.png (block/crimson_stem.png): CF
-	crimson_stem_e.png (block/crimson_stem_e.png): mullak99 (using CF's texture)
+	crimson_stem_e.png (block/crimson_stem_e.png): mullak99 (using CF (PA)'s texture)
 	crimson_stem_top.png (block/crimson_stem_top.png): CF (PA)
 	crimson_trapdoor.png (block/crimson_trapdoor.png): CF
 	crying_obsidian.png (block/crying_obsidian.png): Vattic (with CF's overlay)
@@ -278,11 +278,11 @@ If any of these are incorrect, please let me know (contact details below).
 	cyan_stained_glass_pane_top.png (block/cyan_stained_glass_pane_top.png): CF
 	cyan_terracotta.png (block/cyan_terracotta.png): CF
 	cyan_wool.png (block/cyan_wool.png): CF
-	damaged_anvil_top.png (block/damaged_anvil_top.png): Vattic
+	damaged_anvil_top.png (block/damaged_anvil_top.png): CF (PA)
 	dandelion.png (block/dandelion.png): Vattic
 	dark_oak_door_bottom.png (block/dark_oak_door_bottom.png): CF (PA)
 	dark_oak_door_top.png (block/dark_oak_door_top.png): CF (PA)
-	dark_oak_leaves.png (block/dark_oak_leaves.png): Vattic
+	dark_oak_leaves.png (block/dark_oak_leaves.png): CF (PA)
 	dark_oak_log.png (block/dark_oak_log.png): Vattic
 	dark_oak_log_top.png (block/dark_oak_log_top.png): Vattic
 	dark_oak_planks.png (block/dark_oak_planks.png): Vattic
@@ -382,7 +382,7 @@ If any of these are incorrect, please let me know (contact details below).
 	frosted_ice_2.png (block/frosted_ice_2.png): mullak99
 	frosted_ice_3.png (block/frosted_ice_3.png): mullak99
 	furnace_front.png (block/furnace_front.png): Vattic
-	furnace_front_on.png (block/furnace_front_on.png): Vattic
+	furnace_front_on.png (block/furnace_front_on.png): CF (PA)
 	furnace_side.png (block/furnace_side.png): Vattic
 	furnace_top.png (block/furnace_top.png): Vattic
 	gilded_blackstone.png (block/gilded_blackstone.png): CF
@@ -453,7 +453,7 @@ If any of these are incorrect, please let me know (contact details below).
 	jukebox_top.png (block/jukebox_top.png): Vattic
 	jungle_door_bottom.png (block/jungle_door_bottom.png): Vattic
 	jungle_door_top.png (block/jungle_door_top.png): Vattic
-	jungle_leaves.png (block/jungle_leaves.png): Vattic
+	jungle_leaves.png (block/jungle_leaves.png): CF (PA)
 	jungle_log.png (block/jungle_log.png): Vattic
 	jungle_log_top.png (block/jungle_log_top.png): Vattic
 	jungle_planks.png (block/jungle_planks.png): Vattic
@@ -526,7 +526,7 @@ If any of these are incorrect, please let me know (contact details below).
 	magenta_stained_glass_pane_top.png (block/magenta_stained_glass_pane_top.png): CF
 	magenta_terracotta.png (block/magenta_terracotta.png): CF
 	magenta_wool.png (block/magenta_wool.png): CF
-	magma.png (block/magma.png): CF
+	magma.png (block/magma.png): CF (PA)
 	medium_amethyst_bud.png (block/medium_amethyst_bud.png): CF
 	melon_side.png (block/melon_side.png): CF (PA)
 	melon_stem.png (block/melon_stem.png): Vattic
@@ -543,7 +543,7 @@ If any of these are incorrect, please let me know (contact details below).
 	nether_bricks.png (block/nether_bricks.png): Vattic
 	nether_gold_ore.png (block/nether_gold_ore.png): mullak99
 	nether_portal.png (block/nether_portal.png): Vattic
-	nether_quartz_ore.png (block/nether_quartz_ore.png): Vattic
+	nether_quartz_ore.png (block/nether_quartz_ore.png): CF (PA)
 	nether_sprouts.png (block/nether_sprouts.png): CF
 	nether_wart_block.png (block/nether_wart_block.png): Based on HARAG0N's (Edited by mullak99)
 	nether_wart_stage0.png (block/nether_wart_stage0.png): Vattic
@@ -552,7 +552,7 @@ If any of these are incorrect, please let me know (contact details below).
 	note_block.png (block/note_block.png): Vattic
 	oak_door_bottom.png (block/oak_door_bottom.png): Vattic
 	oak_door_top.png (block/oak_door_top.png): Vattic
-	oak_leaves.png (block/oak_leaves.png): Vattic
+	oak_leaves.png (block/oak_leaves.png): CF (PA)
 	oak_log.png (block/oak_log.png): Vattic
 	oak_log_top.png (block/oak_log_top.png): Vattic
 	oak_planks.png (block/oak_planks.png): Vattic
@@ -560,7 +560,7 @@ If any of these are incorrect, please let me know (contact details below).
 	oak_trapdoor.png (block/oak_trapdoor.png): Vattic
 	observer_back.png (block/observer_back.png): mullak99
 	observer_back_on.png (block/observer_back_on.png): mullak99
-	observer_front.png (block/observer_front.png): mullak99
+	observer_front.png (block/observer_front.png): mullak99 (w/ some elements from CF (PA))
 	observer_side.png (block/observer_side.png): mullak99
 	observer_top.png (block/observer_top.png): mullak99
 	obsidian.png (block/obsidian.png): Vattic
@@ -595,8 +595,8 @@ If any of these are incorrect, please let me know (contact details below).
 	piston_bottom.png (block/piston_bottom.png): Vattic
 	piston_inner.png (block/piston_inner.png): Vattic
 	piston_side.png (block/piston_side.png): Vattic
-	piston_top.png (block/piston_top.png): Vattic
-	piston_top_sticky.png (block/piston_top_sticky.png): mullak99
+	piston_top.png (block/piston_top.png): CF (PA)
+	piston_top_sticky.png (block/piston_top_sticky.png): Vattic
 	podzol_side.png (block/podzol_side.png): Vattic
 	podzol_top.png (block/podzol_top.png): Vattic
 	pointed_dripstone_down_base.png (block/pointed_dripstone_down_base.png): CF
@@ -653,7 +653,7 @@ If any of these are incorrect, please let me know (contact details below).
 	quartz_block_side.png (block/quartz_block_side.png): Vattic
 	quartz_block_top.png (block/quartz_block_top.png): Vattic
 	quartz_bricks.png (block/quartz_bricks.png): CF (PA)
-	quartz_pillar.png (block/quartz_pillar.png): Vattic
+	quartz_pillar.png (block/quartz_pillar.png): CF (PA)
 	quartz_pillar_top.png (block/quartz_pillar_top.png): Vattic
 	rail.png (block/rail.png): CF
 	rail_corner.png (block/rail_corner.png): CF
@@ -763,7 +763,7 @@ If any of these are incorrect, please let me know (contact details below).
 	spore_blossom_base.png (block/spore_blossom_base.png): CF
 	spruce_door_bottom.png (block/spruce_door_bottom.png): Vattic
 	spruce_door_top.png (block/spruce_door_top.png): Vattic
-	spruce_leaves.png (block/spruce_leaves.png): Vattic
+	spruce_leaves.png (block/spruce_leaves.png): CF (PA)
 	spruce_log.png (block/spruce_log.png): Vattic
 	spruce_log_top.png (block/spruce_log_top.png): Vattic
 	spruce_planks.png (block/spruce_planks.png): Vattic
@@ -1089,7 +1089,7 @@ If any of these are incorrect, please let me know (contact details below).
 	enchanted_book.png (item/enchanted_book.png): CF
 	ender_eye.png (item/ender_eye.png): Vattic
 	ender_pearl.png (item/ender_pearl.png): Vattic
-	end_crystal.png (item/end_crystal.png): CF
+	end_crystal.png (item/end_crystal.png): CF (PA)
 	experience_bottle.png (item/experience_bottle.png): mullak99
 	feather.png (item/feather.png): Vattic
 	fermented_spider_eye.png (item/fermented_spider_eye.png): Vattic
@@ -1206,7 +1206,7 @@ If any of these are incorrect, please let me know (contact details below).
 	minecart.png (item/minecart.png): Vattic
 	mojang_banner_pattern.png (item/mojang_banner_pattern.png): CF (modified by mullak99)
 	mushroom_stew.png (item/mushroom_stew.png): CF (PA)
-	[All music discs]: CF
+	[All music discs]: CF (PA)
 	mutton.png (item/mutton.png): Vattic
 	name_tag.png (item/name_tag.png): Vattic
 	nautilus_shell.png (item/nautilus_shell.png): CF
@@ -1254,8 +1254,8 @@ If any of these are incorrect, please let me know (contact details below).
 	purple_dye.png (item/purple_dye.png): CF
 	quartz.png (item/quartz.png): Vattic
 	rabbit.png (item/rabbit.png): Vattic
-	rabbit_foot.png (item/rabbit_foot.png): CF
-	rabbit_hide.png (item/rabbit_hide.png): CF
+	rabbit_foot.png (item/rabbit_foot.png): CF (PA)
+	rabbit_hide.png (item/rabbit_hide.png): CF (PA)
 	rabbit_stew.png (item/rabbit_stew.png): CF (PA)
 	raw_copper.png (item/raw_copper.png): CF
 	raw_gold.png (item/raw_gold.png): CF
@@ -1368,14 +1368,14 @@ If any of these are incorrect, please let me know (contact details below).
 	axolotl_wild.png (entity/axolotl/axolotl_wild.png): CF
 	[All Banner pattern textures]: Compliance
 	polarbear.png (entity/bear/polarbear.png): CF (PA)
-	[All Bed textures]: mullak99 (using CF & Vattic beds)
+	[All Bed textures]: CF (PA)
 	bee.png (entity/bee/bee.png): CF
 	bee_angry.png (entity/bee/bee_angry.png): CF
 	bee_angry_nectar.png (entity/bee/bee_angry_nectar.png): CF
 	bee_nectar.png (entity/bee/bee_nectar.png): CF
 	bee_stinger.png (entity/bee/bee_stinger.png): CF
 	bell_body.png (entity/bell/bell_body.png): CF
-	[All Boat textures]: mullak99 (using Vattic planks)
+	[All Boat textures]: mullak99 (Planks from Vattic, Moss from CF (PA))
 	all_black.png (entity/cat/all_black.png): CF
 	black.png (entity/cat/black.png): CF
 	british_shorthair.png (entity/cat/british_shorthair.png): CF
@@ -1414,7 +1414,7 @@ If any of these are incorrect, please let me know (contact details below).
 	dragon.png (entity/enderdragon/dragon.png): Vattic
 	dragon_exploding.png (entity/enderdragon/dragon_exploding.png): Vattic
 	dragon_eyes.png (entity/enderdragon/dragon_eyes.png): Vattic
-	dragon_fireball.png (entity/enderdragon/dragon_fireball.png): mullak99 (Tweaked Vattic Fire Charge)
+	dragon_fireball.png (entity/enderdragon/dragon_fireball.png): CF (PA)
 	enderman.png (entity/enderman/enderman.png): Vattic
 	enderman_eyes.png (entity/enderman/enderman_eyes.png): Vattic
 	end_crystal.png (entity/end_crystal/end_crystal.png): CF
@@ -1467,7 +1467,7 @@ If any of these are incorrect, please let me know (contact details below).
 	horse_armor_leather.png (entity/horse/armor/horse_armor_leather.png): CF (PA)
 	evoker.png (entity/illager/evoker.png): CF (PA)
 	evoker_fangs.png (entity/illager/evoker_fangs.png): CF
-	illusioner.png (entity/illager/illusioner.png): CF
+	illusioner.png (entity/illager/illusioner.png): CF (PA)
 	pillager.png (entity/illager/pillager.png): CF (PA)
 	ravager.png (entity/illager/ravager.png): CF
 	vex.png (entity/illager/vex.png): CF
@@ -1478,10 +1478,10 @@ If any of these are incorrect, please let me know (contact details below).
 	iron_golem_crackiness_low.png (entity/iron_golem/iron_golem_crackiness_low.png): CF
 	iron_golem_crackiness_medium.png (entity/iron_golem/iron_golem_crackiness_medium.png): CF
 	iron_golem_e.png (entity/iron_golem/iron_golem_e.png): mullak99
-	brown.png (entity/llama/brown.png): CF
-	creamy.png (entity/llama/creamy.png): CF
-	gray.png (entity/llama/gray.png): CF
-	white.png (entity/llama/white.png): CF
+	brown.png (entity/llama/brown.png): CF (PA)
+	creamy.png (entity/llama/creamy.png): CF (PA)
+	gray.png (entity/llama/gray.png): CF (PA)
+	white.png (entity/llama/white.png): CF (PA)
 	black.png (entity/llama/decor/black.png): CF
 	blue.png (entity/llama/decor/blue.png): CF
 	brown.png (entity/llama/decor/brown.png): CF
@@ -1512,7 +1512,7 @@ If any of these are incorrect, please let me know (contact details below).
 	parrot_red_blue.png (entity/parrot/parrot_red_blue.png): CF
 	parrot_yellow_blue.png (entity/parrot/parrot_yellow_blue.png): CF
 	pig.png (entity/pig/pig.png): CF (PA)
-	pig_saddle.png (entity/pig/pig_saddle.png): CF
+	pig_saddle.png (entity/pig/pig_saddle.png): CF (PA)
 	piglin.png (entity/piglin/piglin.png): CF
 	piglin_brute.png (entity/piglin/piglin_brute.png): CF
 	zombified_piglin.png (entity/piglin/zombified_piglin.png): CF
@@ -1527,8 +1527,8 @@ If any of these are incorrect, please let me know (contact details below).
 	toast.png (entity/rabbit/toast.png): CF
 	white.png (entity/rabbit/white.png): CF
 	white_splotched.png (entity/rabbit/white_splotched.png): CF
-	sheep.png (entity/sheep/sheep.png): CF
-	sheep_fur.png (entity/sheep/sheep_fur.png): CF
+	sheep.png (entity/sheep/sheep.png): CF (PA)
+	sheep_fur.png (entity/sheep/sheep_fur.png): CF (PA)
 	[All Shield pattern textures]: Compliance
 	[All Shulker textures]: CF
 	spark.png (entity/shulker/spark.png): CF
@@ -1555,7 +1555,7 @@ If any of these are incorrect, please let me know (contact details below).
 	squid.png (entity/squid/squid.png): CF (PA)
 	strider.png (entity/strider/strider.png): CF
 	strider_cold.png (entity/strider/strider_cold.png): CF
-	strider_saddle.png (entity/strider/strider_saddle.png): CF
+	strider_saddle.png (entity/strider/strider_saddle.png): CF (PA)
 	big_sea_turtle.png (entity/turtle/big_sea_turtle.png): CF
 	villager.png (entity/villager/villager.png): CF (PA)
 	armorer.png (entity/villager/profession/armorer.png): CF
@@ -1593,9 +1593,9 @@ If any of these are incorrect, please let me know (contact details below).
 	wolf_tame.png (entity/wolf/wolf_tame.png): CF
 	drowned.png (entity/zombie/drowned.png): CF
 	drowned_outer_layer.png (entity/zombie/drowned_outer_layer.png): CF
-	husk.png (entity/zombie/husk.png): CF
-	zombie.png (entity/zombie/zombie.png): CF
-	zombie_villager.png (entity/zombie_villager/zombie_villager.png): CF
+	husk.png (entity/zombie/husk.png): CF (PA)
+	zombie.png (entity/zombie/zombie.png): CF (PA)
+	zombie_villager.png (entity/zombie_villager/zombie_villager.png): CF (PA)
 	armorer.png (entity/zombie_villager/profession/armorer.png): CF
 	butcher.png (entity/zombie_villager/profession/butcher.png): CF
 	cartographer.png (entity/zombie_villager/profession/cartographer.png): CF
@@ -1699,12 +1699,12 @@ If any of these are incorrect, please let me know (contact details below).
 	0.png (ctm/bee_nest/0.png): mullak99 (Based off CF)
 	0.png (ctm/blue_orchid/0.png): Vattic
 	1.png (ctm/blue_orchid/1.png): Vattic
-	acacia.png (ctm/boats/acacia.png): mullak99 (using Vattic planks)
-	birch.png (ctm/boats/birch.png): mullak99 (using Vattic planks)
-	dark_oak.png (ctm/boats/dark_oak.png): mullak99 (using Vattic planks)
-	jungle.png (ctm/boats/jungle.png): mullak99 (using Vattic planks)
-	oak.png (ctm/boats/oak.png): mullak99 (using Vattic planks)
-	spruce.png (ctm/boats/spruce.png): mullak99 (using Vattic planks)
+	acacia.png (ctm/boats/acacia.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	birch.png (ctm/boats/birch.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	dark_oak.png (ctm/boats/dark_oak.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	jungle.png (ctm/boats/jungle.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	oak.png (ctm/boats/oak.png): mullak99 (Planks from Vattic, Moss from CF (PA))
+	spruce.png (ctm/boats/spruce.png): mullak99 (Planks from Vattic, Moss from CF (PA))
 	0.png (ctm/brown_mushroom/0.png): Vattic
 	1.png (ctm/brown_mushroom/1.png): Vattic
 	2.png (ctm/brown_mushroom/2.png): Vattic
@@ -1739,7 +1739,9 @@ If any of these are incorrect, please let me know (contact details below).
 	0.png (ctm/lily_pad/0.png): Vattic
 	1.png (ctm/lily_pad/1.png): mullak99
 	minecart.png (ctm/minecarts/minecart.png): Vattic
+	observer_side_off.png (ctm/observer/observer_side_off.png): mullak99
 	observer_side_on.png (ctm/observer/observer_side_on.png): mullak99
+	observer_top_off.png (ctm/observer/observer_top_off.png): mullak99
 	observer_top_on.png (ctm/observer/observer_top_on.png): mullak99
 	coal.png (ctm/ore/deepslate_ore_ends/coal.png): mullak99
 	copper.png (ctm/ore/deepslate_ore_ends/copper.png): mullak99
@@ -1821,7 +1823,7 @@ If any of these are incorrect, please let me know (contact details below).
 	glowing.png (mob_effect/glowing.png): Vattic
 	haste.png (mob_effect/haste.png): Vattic
 	health_boost.png (mob_effect/health_boost.png): CF (PA)
-	hero_of_the_village.png (mob_effect/hero_of_the_village.png): mullak99
+	hero_of_the_village.png (mob_effect/hero_of_the_village.png): CF (PA)
 	hunger.png (mob_effect/hunger.png): CF (PA)
 	instant_damage.png (mob_effect/instant_damage.png): CF (PA)
 	instant_health.png (mob_effect/instant_health.png): CF (PA)

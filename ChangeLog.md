@@ -5,6 +5,8 @@ All notable changes to mullak99's Faithful will be documented in this file.
 ### Changed
 - Replaced various textures with Vattic's
 - Replaced various textures with CF (PA)'s
+- Tweaked existing Netherite tool textures
+- Tweaked colormap
 
 ## [MC1.18-R3] - 2021-12-27
 ### Added/Changed
