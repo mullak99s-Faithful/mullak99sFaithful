@@ -11,13 +11,13 @@ Latest terms can always be found in the GitHub repo linked below.
 - https://github.com/mullak99s-Faithful/mullak99sFaithful  
 
 ### Requirements for redistributing the pack
-These requrements cover what should be done when linking to / distributing unmodified copies of this pack.  
+These requirements cover what should be done when linking to / distributing unmodified copies of this pack.  
 
 1) Rehosting downloads of this pack is not permitted. Instead, link to official download links/pages.  
 2) Do not monetise official links. (e.g. No Adfly links that redirect to official downloads).  
 
 ### Requirements for using any assets
-These requrements cover what should be done when using any assets (textures or models) from this pack. Whether in their original or modified forms.  
+These requirements cover what should be done when using any assets (textures or models) from this pack. Whether in their original or modified forms.  
 
 1) Give clear credit in an appropriate place. (e.g. video description, forum/post listing, text file within a resourcepack).  
 2) Be honest about what you are using. It should be clear which assets are from this resourcepack. (e.g. provide a list of textures which are from this pack in an appropriate place).  
