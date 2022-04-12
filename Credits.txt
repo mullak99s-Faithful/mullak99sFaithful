@@ -3,15 +3,15 @@
 === Noteworthy Mentions and Credits ===
 
 Vattic for creating the original Faithful 32x
+Faithful Team for creating the Faithful pack
 Evorp, FHLX, and others for creating the Classic Faithful packs
-Compliance Team for creating the Compliance pack
 AntVenom for creating the FaithfulVenom pack (Major Inspiration)
-The community in the "Compliance 32x" Discord, as well as the "Classic Faithful" Discord
+The community in the "Faithful" Discord, as well as the "Classic Faithful" Discord
 for maintaining Vattic's original Faithful.
 
 Honestly, I cannot reasonably list the amount of noteworthy mentions and other credits. 
 
-A majority of this pack would not exist if not for Vattic, the Compliance Team, and the 
+A majority of this pack would not exist if not for Vattic, the Faithful Team, and the 
 Classic Faithful Team.
 
 -----------------------------------------------------------------------------------------------------------
@@ -19,15 +19,15 @@ Classic Faithful Team.
 === Links ===
 
 Vattic: https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8
+Faithful: https://faithfulpack.net/
 Classic Faithful: https://github.com/ClassicFaithful
-Compliance: https://compliancepack.net/
 FaithfulVenom: https://antvenom.com/files
 
 -----------------------------------------------------------------------------------------------------------
 
 === Notes ===
 
-Licences related to textures from Vattic, Classic Faithful, and Compliance can be found within the Legal.txt file, along with my own licence.
+Licences related to textures from Vattic, Faithful, and Classic Faithful can be found within the Legal.txt file, along with my own licence.
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -37,9 +37,9 @@ These credits should reflect where each texture within the pack is from.
 
 	== Texture Breakdown ==
 	"Vattic" refers to textures from Vattic's Faithful.
+	"Faithful" refers to textures from Faithful 32x.
 	"CF" refers to textures from Classic Faithful 32x.
 	"CF (PA)" refers to textures from Classic Faithful 32x Programmer Art.
-	"Compliance" refers to textures from Compliance 32x.
 
 If any of these are incorrect, please let me know (contact details below).
 
@@ -308,8 +308,8 @@ If any of these are incorrect, please let me know (contact details below).
 	dead_tube_coral.png (block/dead_tube_coral.png): CF
 	dead_tube_coral_block.png (block/dead_tube_coral_block.png): CF
 	dead_tube_coral_fan.png (block/dead_tube_coral_fan.png): CF
-	debug.png (block/debug.png): Compliance
-	debug2.png (block/debug2.png): Compliance
+	debug.png (block/debug.png): Faithful
+	debug2.png (block/debug2.png): Faithful
 	deepslate.png (block/deepslate.png): CF
 	deepslate_bricks.png (block/deepslate_bricks.png): CF
 	deepslate_coal_ore.png (block/deepslate_coal_ore.png): mullak99
@@ -475,7 +475,7 @@ If any of these are incorrect, please let me know (contact details below).
 	lectern_sides.png (block/lectern_sides.png): CF
 	lectern_top.png (block/lectern_top.png): CF
 	lever.png (block/lever.png): Vattic
-	lightning_rod.png (block/lightning_rod.png): Compliance
+	lightning_rod.png (block/lightning_rod.png): CF
 	light_blue_candle.png (block/light_blue_candle.png): CF
 	light_blue_candle_lit.png (block/light_blue_candle_lit.png): CF
 	light_blue_concrete.png (block/light_blue_concrete.png): CF
@@ -1111,7 +1111,7 @@ If any of these are incorrect, please let me know (contact details below).
 	glistering_melon_slice.png (item/glistering_melon_slice.png): Vattic
 	globe_banner_pattern.png (item/globe_banner_pattern.png): CF (modified by mullak99)
 	glowstone_dust.png (item/glowstone_dust.png): Vattic
-	glow_berries.png (item/glow_berries.png): Compliance
+	glow_berries.png (item/glow_berries.png): CF
 	glow_ink_sac.png (item/glow_ink_sac.png): mullak99
 	glow_item_frame.png (item/glow_item_frame.png): CF (PA)
 	golden_apple.png (item/golden_apple.png): Vattic
@@ -1366,7 +1366,7 @@ If any of these are incorrect, please let me know (contact details below).
 	axolotl_gold.png (entity/axolotl/axolotl_gold.png): CF
 	axolotl_lucy.png (entity/axolotl/axolotl_lucy.png): CF
 	axolotl_wild.png (entity/axolotl/axolotl_wild.png): CF
-	[All Banner pattern textures]: Compliance
+	[All Banner pattern textures]: Faithful
 	polarbear.png (entity/bear/polarbear.png): CF (PA)
 	[All Bed textures]: CF (PA)
 	bee.png (entity/bee/bee.png): CF
@@ -1446,32 +1446,32 @@ If any of these are incorrect, please let me know (contact details below).
 	goat.png (entity/goat/goat.png): Evorp and Zeuselpro (Placeholder)
 	hoglin.png (entity/hoglin/hoglin.png): CF
 	zoglin.png (entity/hoglin/zoglin.png): CF
-	donkey.png (entity/horse/donkey.png): CF
-	horse_black.png (entity/horse/horse_black.png): CF
-	horse_brown.png (entity/horse/horse_brown.png): CF
-	horse_chestnut.png (entity/horse/horse_chestnut.png): CF
-	horse_creamy.png (entity/horse/horse_creamy.png): CF
-	horse_darkbrown.png (entity/horse/horse_darkbrown.png): CF
-	horse_gray.png (entity/horse/horse_gray.png): CF
-	horse_markings_blackdots.png (entity/horse/horse_markings_blackdots.png): CF
-	horse_markings_white.png (entity/horse/horse_markings_white.png): CF
-	horse_markings_whitedots.png (entity/horse/horse_markings_whitedots.png): CF
-	horse_markings_whitefield.png (entity/horse/horse_markings_whitefield.png): CF
-	horse_skeleton.png (entity/horse/horse_skeleton.png): CF
-	horse_white.png (entity/horse/horse_white.png): CF
-	horse_zombie.png (entity/horse/horse_zombie.png): CF
-	mule.png (entity/horse/mule.png): CF
+	donkey.png (entity/horse/donkey.png): CF (PA)
+	horse_black.png (entity/horse/horse_black.png): CF (PA)
+	horse_brown.png (entity/horse/horse_brown.png): CF (PA)
+	horse_chestnut.png (entity/horse/horse_chestnut.png): CF (PA)
+	horse_creamy.png (entity/horse/horse_creamy.png): CF (PA)
+	horse_darkbrown.png (entity/horse/horse_darkbrown.png): CF (PA)
+	horse_gray.png (entity/horse/horse_gray.png): CF (PA)
+	horse_markings_blackdots.png (entity/horse/horse_markings_blackdots.png): CF (PA)
+	horse_markings_white.png (entity/horse/horse_markings_white.png): CF (PA)
+	horse_markings_whitedots.png (entity/horse/horse_markings_whitedots.png): CF (PA)
+	horse_markings_whitefield.png (entity/horse/horse_markings_whitefield.png): CF (PA)
+	horse_skeleton.png (entity/horse/horse_skeleton.png): CF (PA)
+	horse_white.png (entity/horse/horse_white.png): CF (PA)
+	horse_zombie.png (entity/horse/horse_zombie.png): CF (PA)
+	mule.png (entity/horse/mule.png): CF (PA)
 	horse_armor_diamond.png (entity/horse/armor/horse_armor_diamond.png): CF (PA)
 	horse_armor_gold.png (entity/horse/armor/horse_armor_gold.png): CF (PA)
 	horse_armor_iron.png (entity/horse/armor/horse_armor_iron.png): CF (PA)
 	horse_armor_leather.png (entity/horse/armor/horse_armor_leather.png): CF (PA)
 	evoker.png (entity/illager/evoker.png): CF (PA)
-	evoker_fangs.png (entity/illager/evoker_fangs.png): CF
+	evoker_fangs.png (entity/illager/evoker_fangs.png): CF (PA)
 	illusioner.png (entity/illager/illusioner.png): CF (PA)
 	pillager.png (entity/illager/pillager.png): CF (PA)
 	ravager.png (entity/illager/ravager.png): CF
-	vex.png (entity/illager/vex.png): CF
-	vex_charging.png (entity/illager/vex_charging.png): CF
+	vex.png (entity/illager/vex.png): CF (PA)
+	vex_charging.png (entity/illager/vex_charging.png): CF (PA)
 	vindicator.png (entity/illager/vindicator.png): CF (PA)
 	iron_golem.png (entity/iron_golem/iron_golem.png): Vattic
 	iron_golem_crackiness_high.png (entity/iron_golem/iron_golem_crackiness_high.png): CF
@@ -1529,7 +1529,7 @@ If any of these are incorrect, please let me know (contact details below).
 	white_splotched.png (entity/rabbit/white_splotched.png): CF
 	sheep.png (entity/sheep/sheep.png): CF (PA)
 	sheep_fur.png (entity/sheep/sheep_fur.png): CF (PA)
-	[All Shield pattern textures]: Compliance
+	[All Shield pattern textures]: Faithful
 	[All Shulker textures]: CF
 	spark.png (entity/shulker/spark.png): CF
 	acacia.png (entity/signs/acacia.png): CF (PA)
@@ -1676,9 +1676,9 @@ If any of these are incorrect, please let me know (contact details below).
 	tab_inventory.png (gui/container/creative_inventory/tab_inventory.png): mullak99
 	tab_items.png (gui/container/creative_inventory/tab_items.png): mullak99
 	tab_item_search.png (gui/container/creative_inventory/tab_item_search.png): mullak99
-	edition.png (gui/title/edition.png): UNKNOWN (fairly sure it was posted in Compliance server)
-	minecraft.png (gui/title/minecraft.png): UNKNOWN (fairly sure it was posted in Compliance server)
-	mojangstudios.png (gui/title/mojangstudios.png): Compliance
+	edition.png (gui/title/edition.png): UNKNOWN (fairly sure it was posted in Faithful server)
+	minecraft.png (gui/title/minecraft.png): UNKNOWN (fairly sure it was posted in Faithful server)
+	mojangstudios.png (gui/title/mojangstudios.png): Faithful
 	panorama_0.png (gui/title/background/panorama_0.png): mullak99
 	panorama_1.png (gui/title/background/panorama_1.png): mullak99
 	panorama_2.png (gui/title/background/panorama_2.png): mullak99
@@ -1782,7 +1782,7 @@ If any of these are incorrect, please let me know (contact details below).
 	[All are Vattic's or CF]
 
 	== Minecraft [Font] (/assets/minecraft/textures/font) ==
-	[All are from Compliance]
+	[All are from Faithful]
 
 	== Minecraft [Colormap] (/assets/minecraft/textures/colormap) ==
 	foliage.png (colormap/foliage.png): mullak99
@@ -1806,8 +1806,9 @@ If any of these are incorrect, please let me know (contact details below).
 	== Minecraft [Misc] (/assets/minecraft/textures/misc) ==
 	enchanted_item_glint.png (misc/enchanted_item_glint.png): UNKNOWN
 	forcefield.png (misc/forcefield.png): CF
+	powder_snow_outline.png (misc/powder_snow_outline.png): CF
 	pumpkinblur.png (misc/pumpkinblur.png): Vattic (w/ transparency)
-	spyglass_scope.png (misc/spyglass_scope.png): Compliance
+	spyglass_scope.png (misc/spyglass_scope.png): Faithful
 	underwater.png (misc/underwater.png): Vattic
 	unknown_pack.png (misc/unknown_pack.png): mullak99
 	unknown_server.png (misc/unknown_server.png): mullak99
@@ -1955,7 +1956,7 @@ If any of these are incorrect, please let me know (contact details below).
 	realms.png (title/realms.png): CF
 
 	== Minecraft [OTHER (MC)] ==
-	icons.png (assets/minecraft/optifine/textures/icons.png): Compliance
+	icons.png (assets/minecraft/optifine/textures/icons.png): Faithful
 
 	== Minecraft [OTHER (Unknown)] ==
 	pack.png (pack.png): mullak99
