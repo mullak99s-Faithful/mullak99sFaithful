@@ -1,6 +1,6 @@
 # mullak99's Faithful 32x
 
-**Latest 1.18.x Version:** [_MC1.18-R4_BETA1_](https://builds.mullak99.co.uk/mullak99s-Faithful/Beta-Branch/mullak99s-Faithful-32x-MC1.18-R4_BETA1.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.18)  
+**Latest 1.18.x Version:** [_MC1.18-R4_BETA2_](https://builds.mullak99.co.uk/mullak99s-Faithful/Beta-Branch/mullak99s-Faithful-32x-MC1.18-R4_BETA2.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.18)  
 **Latest 1.17.x Version:** [_MC1.17-R8_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.17-R8.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.17)  
 **Latest 1.16.x Version:** [_MC1.16-R15_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.16-R15.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.16)   
 **Latest 1.15.x Version:** [_MC1.15-R6_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.15-R6.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.15)   
@@ -28,10 +28,10 @@ MCTools: https://mctools.mullak99.co.uk/
 
 [Vattic](https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8) for creating the original Faithful 32x (Pre-1.9 textures)  
 [Classic Faithful](https://github.com/ClassicFaithful) for creating the Classic Faithful packs (Post-1.9 textures)  
-[Compliance Team](https://compliancepack.net/) for creating the Compliance pack (Post-1.9 textures, typically placeholders for EM)  
+[Faithful Team](https://faithfulpack.net/) for creating the Faithful pack (Banner/Shield Patterns, Fonts, etc.)  
 [AntVenom](https://antvenom.com/files) for creating the FaithfulVenom pack (Major Inspiration)  
-The community in the "Compliance 32x" Discord, as well as the "Classic Faithful" Discord for maintaining Vattic's original Faithful.  
+The community in the "Faithful" Discord, as well as the "Classic Faithful" Discord for maintaining Vattic's original Faithful.  
 
 Honestly, I cannot reasonably list the amount of noteworthy mentions and other credits.   
 
-A majority of this pack would not exist if not for Vattic, the [Compliance Team](https://compliancepack.net/), and the [Classic Faithful Team](https://github.com/ClassicFaithful).
+A majority of this pack would not exist if not for Vattic, the [Faithful Team](https://faithfulpack.net/), and the [Classic Faithful Team](https://github.com/ClassicFaithful).
