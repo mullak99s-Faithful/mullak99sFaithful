@@ -710,7 +710,7 @@ If any of these are incorrect, please let me know (contact details below).
 	respawn_anchor_top_e.png (block/respawn_anchor_top_e.png): mullak99 (Based on CF)
 	respawn_anchor_top_off.png (block/respawn_anchor_top_off.png): CF (Edited by mullak99)
 	respawn_anchor_top_off_e.png (block/respawn_anchor_top_off_e.png): mullak99 (Based on CF)
-	rooted_dirt.png (block/rooted_dirt.png): CF
+	rooted_dirt.png (block/rooted_dirt.png): mullak99
 	rose_bush_bottom.png (block/rose_bush_bottom.png): Vattic
 	rose_bush_top.png (block/rose_bush_top.png): Vattic
 	sand.png (block/sand.png): Vattic
@@ -767,7 +767,7 @@ If any of these are incorrect, please let me know (contact details below).
 	spruce_log.png (block/spruce_log.png): Vattic
 	spruce_log_top.png (block/spruce_log_top.png): Vattic
 	spruce_planks.png (block/spruce_planks.png): Vattic
-	spruce_sapling.png (block/spruce_sapling.png): Vattic
+	spruce_sapling.png (block/spruce_sapling.png): CF (PA)
 	spruce_trapdoor.png (block/spruce_trapdoor.png): mullak99
 	stone.png (block/stone.png): Vattic
 	stonecutter_bottom.png (block/stonecutter_bottom.png): mullak99 (using Vattic and CF textures)
@@ -1073,7 +1073,7 @@ If any of these are incorrect, please let me know (contact details below).
 	diamond_hoe.png (item/diamond_hoe.png): Vattic
 	diamond_horse_armor.png (item/diamond_horse_armor.png): Vattic
 	diamond_leggings.png (item/diamond_leggings.png): CF (PA)
-	diamond_pickaxe.png (item/diamond_pickaxe.png): Vattic
+	diamond_pickaxe.png (item/diamond_pickaxe.png): CF (PA)
 	diamond_shovel.png (item/diamond_shovel.png): Vattic
 	diamond_sword.png (item/diamond_sword.png): Vattic
 	dragon_breath.png (item/dragon_breath.png): mullak99 (using Vattic and CF textures)
@@ -1123,7 +1123,7 @@ If any of these are incorrect, please let me know (contact details below).
 	golden_hoe.png (item/golden_hoe.png): Vattic
 	golden_horse_armor.png (item/golden_horse_armor.png): Vattic
 	golden_leggings.png (item/golden_leggings.png): CF (PA)
-	golden_pickaxe.png (item/golden_pickaxe.png): Vattic
+	golden_pickaxe.png (item/golden_pickaxe.png): CF (PA)
 	golden_shovel.png (item/golden_shovel.png): Vattic
 	golden_sword.png (item/golden_sword.png): Vattic
 	gold_ingot.png (item/gold_ingot.png): CF
@@ -1149,7 +1149,7 @@ If any of these are incorrect, please let me know (contact details below).
 	iron_ingot.png (item/iron_ingot.png): CF
 	iron_leggings.png (item/iron_leggings.png): CF (PA)
 	iron_nugget.png (item/iron_nugget.png): mullak99
-	iron_pickaxe.png (item/iron_pickaxe.png): Vattic
+	iron_pickaxe.png (item/iron_pickaxe.png): CF (PA)
 	iron_shovel.png (item/iron_shovel.png): Vattic
 	iron_sword.png (item/iron_sword.png): Vattic
 	item_frame.png (item/item_frame.png): Vattic
@@ -1291,7 +1291,7 @@ If any of these are incorrect, please let me know (contact details below).
 	stick.png (item/stick.png): Vattic
 	stone_axe.png (item/stone_axe.png): Vattic
 	stone_hoe.png (item/stone_hoe.png): Vattic
-	stone_pickaxe.png (item/stone_pickaxe.png): Vattic
+	stone_pickaxe.png (item/stone_pickaxe.png): Vattic and mullak99
 	stone_shovel.png (item/stone_shovel.png): Vattic
 	stone_sword.png (item/stone_sword.png): Vattic
 	string.png (item/string.png): Vattic
@@ -1319,7 +1319,7 @@ If any of these are incorrect, please let me know (contact details below).
 	white_dye.png (item/white_dye.png): CF
 	wooden_axe.png (item/wooden_axe.png): Vattic
 	wooden_hoe.png (item/wooden_hoe.png): Vattic
-	wooden_pickaxe.png (item/wooden_pickaxe.png): Vattic
+	wooden_pickaxe.png (item/wooden_pickaxe.png): CF (PA)
 	wooden_shovel.png (item/wooden_shovel.png): Vattic
 	wooden_sword.png (item/wooden_sword.png): Vattic
 	writable_book.png (item/writable_book.png): CF
@@ -1542,10 +1542,10 @@ If any of these are incorrect, please let me know (contact details below).
 	spruce.png (entity/signs/spruce.png): CF (PA)
 	warped.png (entity/signs/warped.png): CF (PA)
 	warped_e.png (entity/signs/warped_e.png): mullak99
-	skeleton.png (entity/skeleton/skeleton.png): CF
+	skeleton.png (entity/skeleton/skeleton.png): CF (PA)
 	stray.png (entity/skeleton/stray.png): CF
 	stray_overlay.png (entity/skeleton/stray_overlay.png): CF (PA)
-	wither_skeleton.png (entity/skeleton/wither_skeleton.png): CF
+	wither_skeleton.png (entity/skeleton/wither_skeleton.png): CF (PA)
 	magmacube.png (entity/slime/magmacube.png): CF
 	magmacube_e.png (entity/slime/magmacube_e.png): mullak99
 	slime.png (entity/slime/slime.png): CF
