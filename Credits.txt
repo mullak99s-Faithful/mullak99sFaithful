@@ -16,13 +16,6 @@ Classic Faithful Team.
 
 -----------------------------------------------------------------------------------------------------------
 
-=== Disclamer ===
-
-These credits are taken from the 1.17 version of the pack, therefore they'll included references to
-textures that don't exist in 1.16, or were renamed in 1.17.
-
------------------------------------------------------------------------------------------------------------
-
 === Links ===
 
 Vattic: https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8
