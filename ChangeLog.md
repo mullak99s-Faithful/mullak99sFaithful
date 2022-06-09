@@ -1,13 +1,70 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [MC1.14-R3] - 2021-12-27
+## [MC1.15-R7] - 2022-06-09
+### Changed
+- Included changes / brought up-to-date with MC1.18-R4
+
+## [MC1.15-R6] - 2021-12-27
 ### Changed
 - Included changes / brought up-to-date with MC1.18-R3
 
-## [MC1.14-R2] - 2021-12-18
+## [MC1.15-R5] - 2021-12-18
 ### Changed
 - Included changes / brought up-to-date with MC1.18-R2
+
+## [MC1.15-R4] - 2020-06-11
+### Added
+- Added missing skeleton horse textures.
+
+### Changed
+- Changed Mooshroom textures to Pre-JAPPA style.
+
+### Fixed
+- Fixed cow texture.
+
+### Removed
+- Removed unused textures.
+
+## [MC1.15-R3] - 2020-02-24
+### Added
+- Added calm4.ogg.
+
+### Changed
+- Changed Rail 3D models (Removed stretched textures).
+- Muted 'Nether', 'Creative' and 'Menu' music tracks.
+
+### Fixed
+- Fixed Shield pattern textures.
+- Fixed inconsistent shulker textures.
+
+## [MC1.15-R2] - 2020-02-17
+### Added
+- Added quieter Nether Portal and Minecart sounds.
+
+### Changed
+- Changed Netherrack blockstate so it no longer randomly rotates.
+- Optimised Jukebox 3D models.
+
+## [MC1.15-R1] - 2020-02-06
+### Added
+- Added 1.15 Block textures.
+- Added 1.15 Item textures.
+- Added 1.15 Entity textures.
+- Added Horse Armour textures.
+- Added Minecraft Realm title texture.
+
+### Changed
+- Compressed many textures.
+- Changed Painting texture.
+- Changed Iron and Gold Ingot textures.
+- Changed Dried Kelp texture.
+- Changed realms On, Off, and Expired icons.
+- Updated Jukebox 3D Model.
+- Updated Beehive and Bees Nest textures/models.
+
+### Removed
+- Removed REI GUI textures.
 
 ## [MC1.14-R1] - 2019-12-17
 ### Added
