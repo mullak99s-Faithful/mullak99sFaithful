@@ -1,9 +1,17 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [MC1.12-R4] - TBC
+## [MC1.12-R4] - 2022-06-09
 ### Added/Changed
 - Included changes / brought up-to-date with MC1.18-R4
+
+### Fixed
+- Fixed broken item model with the Jukebox
+- Fixed broken Powered Rail (On) 3D model
+- Fixed broken Shield particles
+
+# Removed
+- Removed Big Mushroom Optifine CTM
 
 ## [MC1.12-R3] - 2021-12-27
 ### Added/Changed
