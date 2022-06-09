@@ -1,12 +1,38 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [MC1.18-R4] - 2022-06-09
+### Changed
+- Replaced various textures with Vattic's
+- Replaced various textures with CF (PA)'s
+- Tweaked existing Netherite tool textures
+- Tweaked colormap
+
+## [MC1.18-R3] - 2021-12-27
+### Added/Changed
+- Included changes from MC1.17-R8
+
+## [MC1.18-R2] - 2021-12-18
+### Added/Changed
+- Included changes from MC1.17-R7
+
+## [MC1.18-R1] - 2021-11-30
+### Added
+- Added Otherside music disc
+- Added Illager font
+
+### Changed
+- Changed Inventory GUI
+- Changed Panorama
+- Changed Minecart texture
+- Changed Parrot textures
+
 ## [MC1.17-R8] - 2021-12-27
 ### Changed
 - Changed Crimson Trapdoor texture
 - Changed Sea Lantern texture
 - Replaced various textures with Vattic's
-- Replaced various textures with EM32T's
+- Replaced various textures with CF (PA)'s
 
 ## [MC1.17-R7] - 2021-12-18
 ### Changed
@@ -277,7 +303,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Added Main Menu Panorama
 
 ### Changed
-- Changed most (1.9+) textures from Faithful's to EM32D or Compliance's
+- Changed most (1.9+) textures from Faithful's to CF or Compliance's
 - Reworked some models to fit new textures
 - Reorganised Optifine CTM folder
 
