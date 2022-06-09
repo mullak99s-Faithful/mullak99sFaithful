@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [MC1.9-R3] - 2022-06-09
+### Changed
+- Included changes / brought up-to-date with MC1.10-R5
+
 ## [MC1.9-R2] - 2021-12-27
 ### Changed
 - Included changes / brought up-to-date with MC1.10-R4
