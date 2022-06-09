@@ -29,6 +29,8 @@ FaithfulVenom: https://antvenom.com/files
 
 Licences related to textures from Vattic, Faithful, and Classic Faithful can be found within the Licence.md file, along with my own licence.
 
+Credits are taken from the 1.18 pack, therefore some textures may (or may not) exist in the current version, or may have been renamed.
+
 -----------------------------------------------------------------------------------------------------------
 
 === Information ===
