@@ -27,7 +27,7 @@ FaithfulVenom: https://antvenom.com/files
 
 === Notes ===
 
-Licences related to textures from Vattic, Faithful, and Classic Faithful can be found within the Legal.txt file, along with my own licence.
+Licences related to textures from Vattic, Faithful, and Classic Faithful can be found within the Licence.md file, along with my own licence.
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -116,7 +116,7 @@ If any of these are incorrect, please let me know (contact details below).
 	birch_log.png (block/birch_log.png): Vattic
 	birch_log_top.png (block/birch_log_top.png): Vattic
 	birch_planks.png (block/birch_planks.png): Vattic
-	birch_sapling.png (block/birch_sapling.png): Vattic
+	birch_sapling.png (block/birch_sapling.png): CF (PA)
 	birch_trapdoor.png (block/birch_trapdoor.png): mullak99
 	blackstone.png (block/blackstone.png): CF
 	blackstone_top.png (block/blackstone_top.png): CF
@@ -154,13 +154,13 @@ If any of these are incorrect, please let me know (contact details below).
 	brain_coral_fan.png (block/brain_coral_fan.png): CF
 	brewing_stand.png (block/brewing_stand.png): Vattic
 	brewing_stand_base.png (block/brewing_stand_base.png): Vattic
-	bricks.png (block/bricks.png): Vattic
+	bricks.png (block/bricks.png): CF (PA)
 	brown_candle.png (block/brown_candle.png): CF
 	brown_candle_lit.png (block/brown_candle_lit.png): CF
 	brown_concrete.png (block/brown_concrete.png): CF
 	brown_concrete_powder.png (block/brown_concrete_powder.png): CF
 	brown_glazed_terracotta.png (block/brown_glazed_terracotta.png): CF
-	brown_mushroom.png (block/brown_mushroom.png): Vattic
+	brown_mushroom.png (block/brown_mushroom.png): CF (PA)
 	brown_mushroom_block.png (block/brown_mushroom_block.png): Vattic
 	brown_shulker_box.png (block/brown_shulker_box.png): CF
 	brown_stained_glass.png (block/brown_stained_glass.png): mullak99
@@ -470,10 +470,10 @@ If any of these are incorrect, please let me know (contact details below).
 	large_fern_top.png (block/large_fern_top.png): Vattic
 	lava_flow.png (block/lava_flow.png): Vattic
 	lava_still.png (block/lava_still.png): Vattic
-	lectern_base.png (block/lectern_base.png): CF
-	lectern_front.png (block/lectern_front.png): CF
-	lectern_sides.png (block/lectern_sides.png): CF
-	lectern_top.png (block/lectern_top.png): CF
+	lectern_base.png (block/lectern_base.png): CF (PA)
+	lectern_front.png (block/lectern_front.png): CF (PA)
+	lectern_sides.png (block/lectern_sides.png): CF (PA)
+	lectern_top.png (block/lectern_top.png): CF (PA)
 	lever.png (block/lever.png): Vattic
 	lightning_rod.png (block/lightning_rod.png): CF
 	light_blue_candle.png (block/light_blue_candle.png): CF
@@ -647,8 +647,8 @@ If any of these are incorrect, please let me know (contact details below).
 	purple_terracotta.png (block/purple_terracotta.png): CF
 	purple_wool.png (block/purple_wool.png): CF
 	purpur_block.png (block/purpur_block.png): CF (PA)
-	purpur_pillar.png (block/purpur_pillar.png): CF
-	purpur_pillar_top.png (block/purpur_pillar_top.png): CF
+	purpur_pillar.png (block/purpur_pillar.png): CF (PA)
+	purpur_pillar_top.png (block/purpur_pillar_top.png): CF (PA)
 	quartz_block_bottom.png (block/quartz_block_bottom.png): Vattic
 	quartz_block_side.png (block/quartz_block_side.png): Vattic
 	quartz_block_top.png (block/quartz_block_top.png): Vattic
@@ -675,7 +675,7 @@ If any of these are incorrect, please let me know (contact details below).
 	red_concrete.png (block/red_concrete.png): CF
 	red_concrete_powder.png (block/red_concrete_powder.png): CF
 	red_glazed_terracotta.png (block/red_glazed_terracotta.png): CF
-	red_mushroom.png (block/red_mushroom.png): Vattic
+	red_mushroom.png (block/red_mushroom.png): CF (PA)
 	red_mushroom_block.png (block/red_mushroom_block.png): Vattic
 	red_nether_bricks.png (block/red_nether_bricks.png): CF (PA)
 	red_sand.png (block/red_sand.png): Vattic
@@ -1102,7 +1102,7 @@ If any of these are incorrect, please let me know (contact details below).
 	fishing_rod.png (item/fishing_rod.png): Vattic
 	fishing_rod_cast.png (item/fishing_rod_cast.png): Vattic
 	flint.png (item/flint.png): Vattic
-	flint_and_steel.png (item/flint_and_steel.png): Vattic
+	flint_and_steel.png (item/flint_and_steel.png): CF (PA)
 	flower_banner_pattern.png (item/flower_banner_pattern.png): CF (modified by mullak99)
 	flower_pot.png (item/flower_pot.png): Vattic
 	furnace_minecart.png (item/furnace_minecart.png): Vattic
@@ -1346,7 +1346,7 @@ If any of these are incorrect, please let me know (contact details below).
 	guardian_beam.png (entity/guardian_beam.png): CF
 	guardian_elder.png (entity/guardian_elder.png): CF
 	lead_knot.png (entity/lead_knot.png): Vattic
-	minecart.png (entity/minecart.png): Vattic
+	minecart.png (entity/minecart.png): CF (PA)
 	phantom.png (entity/phantom.png): Vattic
 	phantom_eyes.png (entity/phantom_eyes.png): mullak99
 	shield_base.png (entity/shield_base.png): CF (PA)
@@ -1738,7 +1738,7 @@ If any of these are incorrect, please let me know (contact details below).
 	disc.png (ctm/jukebox/disc.png): mullak99
 	0.png (ctm/lily_pad/0.png): Vattic
 	1.png (ctm/lily_pad/1.png): mullak99
-	minecart.png (ctm/minecarts/minecart.png): Vattic
+	minecart.png (ctm/minecarts/minecart.png): CF (PA)
 	observer_side_off.png (ctm/observer/observer_side_off.png): mullak99
 	observer_side_on.png (ctm/observer/observer_side_on.png): mullak99
 	observer_top_off.png (ctm/observer/observer_top_off.png): mullak99

@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [MC1.18-R4] - 2022-04-22
+## [MC1.18-R4] - 2022-06-09
 ### Changed
 - Replaced various textures with Vattic's
 - Replaced various textures with CF (PA)'s
