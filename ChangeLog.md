@@ -1,6 +1,13 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [MC1.19-R1] - TBC
+### Added
+- Added 1.19 textures
+
+### Changed
+- Changed cocoa_stage2 UV (to reflect model fix in 1.19)
+
 ## [MC1.18-R4] - 2022-06-09
 ### Changed
 - Replaced various textures with Vattic's
