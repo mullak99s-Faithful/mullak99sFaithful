@@ -536,6 +536,8 @@ If any of these are incorrect, please let me know (contact details below).
 	mossy_cobblestone.png (block/mossy_cobblestone.png): Vattic
 	mossy_stone_bricks.png (block/mossy_stone_bricks.png): Vattic
 	moss_block.png (block/moss_block.png): CF
+	mud.png (block/mud.png): CF (PA)
+	mud_bricks.png (block/mud_bricks.png): CF (PA)
 	mushroom_block_inside.png (block/mushroom_block_inside.png): Vattic
 	mushroom_stem.png (block/mushroom_stem.png): Vattic
 	mycelium_side.png (block/mycelium_side.png): Vattic
@@ -884,7 +886,7 @@ If any of these are incorrect, please let me know (contact details below).
 	yellow_wool.png (block/yellow_wool.png): CF
 
 	== Minecraft [Item] (/assets/minecraft/textures/item) ==
-	acacia_boat.png (item/acacia_boat.png): CF
+	[All Boat item textures (inc. Chest Boat)]: CF (PA)
 	acacia_door.png (item/acacia_door.png): CF
 	acacia_sign.png (item/acacia_sign.png): CF (PA)
 	amethyst_shard.png (item/amethyst_shard.png): CF
@@ -900,7 +902,6 @@ If any of these are incorrect, please let me know (contact details below).
 	beetroot_seeds.png (item/beetroot_seeds.png): CF (PA)
 	beetroot_soup.png (item/beetroot_soup.png): CF (PA)
 	bell.png (item/bell.png): CF
-	birch_boat.png (item/birch_boat.png): CF
 	birch_door.png (item/birch_door.png): CF
 	birch_sign.png (item/birch_sign.png): CF (PA)
 	black_candle.png (item/black_candle.png): CF
@@ -970,7 +971,6 @@ If any of these are incorrect, please let me know (contact details below).
 	crossbow_standby.png (item/crossbow_standby.png): CF
 	cyan_candle.png (item/cyan_candle.png): CF
 	cyan_dye.png (item/cyan_dye.png): CF
-	dark_oak_boat.png (item/dark_oak_boat.png): CF
 	dark_oak_door.png (item/dark_oak_door.png): CF
 	dark_oak_sign.png (item/dark_oak_sign.png): CF (PA)
 	diamond.png (item/diamond.png): Vattic
@@ -984,6 +984,7 @@ If any of these are incorrect, please let me know (contact details below).
 	diamond_pickaxe.png (item/diamond_pickaxe.png): CF (PA)
 	diamond_shovel.png (item/diamond_shovel.png): Vattic
 	diamond_sword.png (item/diamond_sword.png): Vattic
+	disc_fragment_5.png (item/disc_fragment_5.png): CF (PA)
 	dragon_breath.png (item/dragon_breath.png): mullak99 (using Vattic and CF textures)
 	dried_kelp.png (item/dried_kelp.png): CF
 	egg.png (item/egg.png): Vattic
@@ -1062,7 +1063,6 @@ If any of these are incorrect, please let me know (contact details below).
 	iron_shovel.png (item/iron_shovel.png): Vattic
 	iron_sword.png (item/iron_sword.png): Vattic
 	item_frame.png (item/item_frame.png): Vattic
-	jungle_boat.png (item/jungle_boat.png): CF
 	jungle_door.png (item/jungle_door.png): CF
 	jungle_sign.png (item/jungle_sign.png): CF (PA)
 	kelp.png (item/kelp.png): CF
@@ -1107,7 +1107,6 @@ If any of these are incorrect, please let me know (contact details below).
 	lingering_potion.png (item/lingering_potion.png): CF
 	magenta_candle.png (item/magenta_candle.png): CF
 	magenta_dye.png (item/magenta_dye.png): CF
-	mangrove_boat.png (item/mangrove_boat.png): CF (PA)
 	mangrove_sign.png (item/mangrove_sign.png): CF (PA)
 	magma_cream.png (item/magma_cream.png): Vattic
 	map.png (item/map.png): Vattic
@@ -1136,7 +1135,6 @@ If any of these are incorrect, please let me know (contact details below).
 	nether_sprouts.png (item/nether_sprouts.png): CF
 	nether_star.png (item/nether_star.png): CF (PA)
 	nether_wart.png (item/nether_wart.png): Vattic
-	oak_boat.png (item/oak_boat.png): CF
 	oak_door.png (item/oak_door.png): CF
 	oak_sign.png (item/oak_sign.png): Vattic
 	orange_candle.png (item/orange_candle.png): CF
@@ -1195,7 +1193,6 @@ If any of these are incorrect, please let me know (contact details below).
 	spectral_arrow.png (item/spectral_arrow.png): CF
 	spider_eye.png (item/spider_eye.png): CF (PA)
 	splash_potion.png (item/splash_potion.png): Vattic (modified by mullak99)
-	spruce_boat.png (item/spruce_boat.png): CF
 	spruce_door.png (item/spruce_door.png): CF
 	spruce_sign.png (item/spruce_sign.png): CF (PA)
 	spyglass.png (item/spyglass.png): CF

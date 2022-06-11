@@ -32,7 +32,6 @@
 - assets/minecraft/textures/block/reinforced_deepslate_side.png
 - assets/minecraft/textures/block/ochre_froglight_side.png
 - assets/minecraft/textures/block/reinforced_deepslate_top.png
-- assets/minecraft/textures/block/mud.png
 - assets/minecraft/textures/block/mangrove_leaves.png
 - assets/minecraft/textures/block/mangrove_log_top.png
 - assets/minecraft/textures/block/sculk_shrieker_bottom.png
@@ -55,18 +54,9 @@
 - assets/minecraft/textures/block/reinforced_deepslate_bottom.png
 - assets/minecraft/textures/block/pearlescent_froglight_top.png
 - assets/minecraft/textures/block/mangrove_trapdoor.png
-- assets/minecraft/textures/block/mud_bricks.png
-- assets/minecraft/textures/item/mangrove_chest_boat.png
-- assets/minecraft/textures/item/spruce_chest_boat.png
-- assets/minecraft/textures/item/acacia_chest_boat.png
-- assets/minecraft/textures/item/dark_oak_chest_boat.png
 - assets/minecraft/textures/item/echo_shard.png
-- assets/minecraft/textures/item/oak_chest_boat.png
 - assets/minecraft/textures/item/mangrove_propagule.png
 - assets/minecraft/textures/item/mangrove_door.png
-- assets/minecraft/textures/item/birch_chest_boat.png
-- assets/minecraft/textures/item/jungle_chest_boat.png
-- assets/minecraft/textures/item/disc_fragment_5.png
 
 ## [Minor]
 ### To Add
