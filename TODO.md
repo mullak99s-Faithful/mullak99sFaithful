@@ -1,7 +1,6 @@
 ## [Major]
 ### To Add
 - Panorama (need seed for 1.19 panorama)
-- assets/minecraft/textures/entity/allay/allay.png
 - assets/minecraft/textures/entity/chest_boat/oak.png
 - assets/minecraft/textures/entity/chest_boat/birch.png
 - assets/minecraft/textures/entity/chest_boat/dark_oak.png
@@ -20,7 +19,6 @@
 - assets/minecraft/textures/entity/frog/cold_frog.png
 - assets/minecraft/textures/block/stripped_mangrove_log_top.png
 - assets/minecraft/textures/block/sculk_catalyst_top.png
-- assets/minecraft/textures/block/verdant_froglight_top.png
 - assets/minecraft/textures/block/sculk_shrieker_top.png
 - assets/minecraft/textures/block/sculk_shrieker_can_summon_inner_top.png
 - assets/minecraft/textures/block/muddy_mangrove_roots_side.png
@@ -30,7 +28,6 @@
 - assets/minecraft/textures/block/sculk_shrieker_inner_top.png
 - assets/minecraft/textures/block/muddy_mangrove_roots_top.png
 - assets/minecraft/textures/block/reinforced_deepslate_side.png
-- assets/minecraft/textures/block/ochre_froglight_side.png
 - assets/minecraft/textures/block/reinforced_deepslate_top.png
 - assets/minecraft/textures/block/mangrove_leaves.png
 - assets/minecraft/textures/block/mangrove_log_top.png
@@ -41,20 +38,15 @@
 - assets/minecraft/textures/block/sculk.png
 - assets/minecraft/textures/block/stripped_mangrove_log.png
 - assets/minecraft/textures/block/mangrove_propagule.png
-- assets/minecraft/textures/block/ochre_froglight_top.png
-- assets/minecraft/textures/block/verdant_froglight_side.png
 - assets/minecraft/textures/block/mangrove_door_top.png
 - assets/minecraft/textures/block/mangrove_roots_top.png
 - assets/minecraft/textures/block/sculk_vein.png
 - assets/minecraft/textures/block/sculk_shrieker_side.png
-- assets/minecraft/textures/block/pearlescent_froglight_side.png
 - assets/minecraft/textures/block/mangrove_door_bottom.png
 - assets/minecraft/textures/block/sculk_catalyst_top_bloom.png
 - assets/minecraft/textures/block/packed_mud.png
 - assets/minecraft/textures/block/reinforced_deepslate_bottom.png
-- assets/minecraft/textures/block/pearlescent_froglight_top.png
 - assets/minecraft/textures/block/mangrove_trapdoor.png
-- assets/minecraft/textures/item/echo_shard.png
 - assets/minecraft/textures/item/mangrove_propagule.png
 - assets/minecraft/textures/item/mangrove_door.png
 
