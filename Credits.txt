@@ -528,7 +528,7 @@ If any of these are incorrect, please let me know (contact details below).
 	magenta_terracotta.png (block/magenta_terracotta.png): CF
 	magenta_wool.png (block/magenta_wool.png): CF
 	magma.png (block/magma.png): CF (PA)
-	mangrove_planks (block/mangrove_planks): CF (PA)
+	mangrove_planks.png (block/mangrove_planks): CF (PA)
 	medium_amethyst_bud.png (block/medium_amethyst_bud.png): CF
 	melon_side.png (block/melon_side.png): CF (PA)
 	melon_stem.png (block/melon_stem.png): Vattic
