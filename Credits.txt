@@ -987,6 +987,7 @@ If any of these are incorrect, please let me know (contact details below).
 	disc_fragment_5.png (item/disc_fragment_5.png): CF (PA)
 	dragon_breath.png (item/dragon_breath.png): mullak99 (using Vattic and CF textures)
 	dried_kelp.png (item/dried_kelp.png): CF
+	echo_shard.png (item/echo_shard.png): CF
 	egg.png (item/egg.png): Vattic
 	elytra.png (item/elytra.png): CF (PA)
 	emerald.png (item/emerald.png): Vattic
@@ -1137,6 +1138,7 @@ If any of these are incorrect, please let me know (contact details below).
 	nether_wart.png (item/nether_wart.png): Vattic
 	oak_door.png (item/oak_door.png): CF
 	oak_sign.png (item/oak_sign.png): Vattic
+	[All Froglight textures]: CF
 	orange_candle.png (item/orange_candle.png): CF
 	orange_dye.png (item/orange_dye.png): CF (PA)
 	painting.png (item/painting.png): Vattic
@@ -1271,6 +1273,7 @@ If any of these are incorrect, please let me know (contact details below).
 	witch.png (entity/witch.png): CF
 	witch_e.png (entity/witch_e.png): mullak99
 	wood.png (entity/armorstand/wood.png): Vattic
+	allay.png (entity/allay/allay.png): CF
 	axolotl_blue.png (entity/axolotl/axolotl_blue.png): CF
 	axolotl_cyan.png (entity/axolotl/axolotl_cyan.png): CF
 	axolotl_gold.png (entity/axolotl/axolotl_gold.png): CF
