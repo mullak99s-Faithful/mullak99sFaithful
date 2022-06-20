@@ -528,6 +528,7 @@ If any of these are incorrect, please let me know (contact details below).
 	magenta_terracotta.png (block/magenta_terracotta.png): CF
 	magenta_wool.png (block/magenta_wool.png): CF
 	magma.png (block/magma.png): CF (PA)
+	mangrove_leaves.png (block/mangrove_leaves.png): CF (PA)
 	mangrove_log.png (block/mangrove_log.png): CF (PA)
 	mangrove_log_top.png (block/mangrove_log_top.png): CF (PA)
 	mangrove_planks.png (block/mangrove_planks.png): CF (PA)
@@ -696,6 +697,9 @@ If any of these are incorrect, please let me know (contact details below).
 	red_terracotta.png (block/red_terracotta.png): CF
 	red_tulip.png (block/red_tulip.png): CF
 	red_wool.png (block/red_wool.png): CF
+	reinforced_deepslate_bottom.png (block/reinforced_deepslate_bottom.png): CF (PA)
+	reinforced_deepslate_side.png (block/reinforced_deepslate_side.png): CF (PA)
+	reinforced_deepslate_top.png (block/reinforced_deepslate_top.png): CF (PA)
 	repeater.png (block/repeater.png): CF (PA) (tweaked by mullak99)
 	repeater_on.png (block/repeater_on.png): CF (PA) (tweaked by mullak99)
 	repeating_command_block_back.png (block/repeating_command_block_back.png): CF (PA)
