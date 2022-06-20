@@ -26,9 +26,6 @@
 - assets/minecraft/textures/block/sculk_catalyst_bottom.png
 - assets/minecraft/textures/block/sculk_shrieker_inner_top.png
 - assets/minecraft/textures/block/muddy_mangrove_roots_top.png
-- assets/minecraft/textures/block/reinforced_deepslate_side.png
-- assets/minecraft/textures/block/reinforced_deepslate_top.png
-- assets/minecraft/textures/block/mangrove_leaves.png
 - assets/minecraft/textures/block/sculk_shrieker_bottom.png
 - assets/minecraft/textures/block/mangrove_propagule_hanging.png
 - assets/minecraft/textures/block/sculk_catalyst_side.png
@@ -40,7 +37,6 @@
 - assets/minecraft/textures/block/sculk_shrieker_side.png
 - assets/minecraft/textures/block/mangrove_door_bottom.png
 - assets/minecraft/textures/block/sculk_catalyst_top_bloom.png
-- assets/minecraft/textures/block/reinforced_deepslate_bottom.png
 - assets/minecraft/textures/block/mangrove_trapdoor.png
 - assets/minecraft/textures/item/mangrove_door.png
 
