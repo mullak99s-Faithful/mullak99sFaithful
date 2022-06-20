@@ -8,7 +8,6 @@
 - assets/minecraft/textures/entity/chest_boat/mangrove.png
 - assets/minecraft/textures/entity/chest_boat/jungle.png
 - assets/minecraft/textures/entity/chest_boat/spruce.png
-- assets/minecraft/textures/entity/signs/mangrove.png
 - assets/minecraft/textures/entity/warden/warden.png
 - assets/minecraft/textures/entity/warden/warden_heart.png
 - assets/minecraft/textures/entity/warden/warden_bioluminescent_layer.png
@@ -30,24 +29,19 @@
 - assets/minecraft/textures/block/reinforced_deepslate_side.png
 - assets/minecraft/textures/block/reinforced_deepslate_top.png
 - assets/minecraft/textures/block/mangrove_leaves.png
-- assets/minecraft/textures/block/mangrove_log_top.png
 - assets/minecraft/textures/block/sculk_shrieker_bottom.png
 - assets/minecraft/textures/block/mangrove_propagule_hanging.png
 - assets/minecraft/textures/block/sculk_catalyst_side.png
-- assets/minecraft/textures/block/mangrove_log.png
 - assets/minecraft/textures/block/sculk.png
 - assets/minecraft/textures/block/stripped_mangrove_log.png
-- assets/minecraft/textures/block/mangrove_propagule.png
 - assets/minecraft/textures/block/mangrove_door_top.png
 - assets/minecraft/textures/block/mangrove_roots_top.png
 - assets/minecraft/textures/block/sculk_vein.png
 - assets/minecraft/textures/block/sculk_shrieker_side.png
 - assets/minecraft/textures/block/mangrove_door_bottom.png
 - assets/minecraft/textures/block/sculk_catalyst_top_bloom.png
-- assets/minecraft/textures/block/packed_mud.png
 - assets/minecraft/textures/block/reinforced_deepslate_bottom.png
 - assets/minecraft/textures/block/mangrove_trapdoor.png
-- assets/minecraft/textures/item/mangrove_propagule.png
 - assets/minecraft/textures/item/mangrove_door.png
 
 ## [Minor]
