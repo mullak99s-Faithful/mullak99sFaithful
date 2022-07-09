@@ -533,6 +533,8 @@ If any of these are incorrect, please let me know (contact details below).
 	mangrove_log_top.png (block/mangrove_log_top.png): CF (PA)
 	mangrove_planks.png (block/mangrove_planks.png): CF (PA)
 	mangrove_propagule.png (block/mangrove_propagule.png): CF (PA)
+	mangrove_propagule_hanging.png (block/mangrove_propagule_hanging.png): CF (PA)
+	mangrove_roots_side.png (block/mangrove_roots_side.png): CF (PA)
 	medium_amethyst_bud.png (block/medium_amethyst_bud.png): CF
 	melon_side.png (block/melon_side.png): CF (PA)
 	melon_stem.png (block/melon_stem.png): Vattic
@@ -733,7 +735,11 @@ If any of these are incorrect, please let me know (contact details below).
 	scaffolding_side.png (block/scaffolding_side.png): CF
 	scaffolding_top.png (block/scaffolding_top.png): CF
 	sculk.png (block/sculk.png): CF
+	sculk_catalyst_bottom.png (block/sculk_catalyst_bottom.png): CF
+	sculk_catalyst_side.png (block/sculk_catalyst_side.png): CF
+	sculk_catalyst_side_bloom.png (block/sculk_catalyst_side_bloom.png): CF
 	sculk_catalyst_top.png (block/sculk_catalyst_top.png): CF
+	sculk_catalyst_top_bloom.png (block/sculk_catalyst_top_bloom.png): CF
 	sculk_sensor_bottom.png (block/sculk_sensor_bottom.png): CF
 	sculk_sensor_side.png (block/sculk_sensor_side.png): CF
 	sculk_sensor_tendril_active.png (block/sculk_sensor_tendril_active.png): CF
@@ -744,7 +750,7 @@ If any of these are incorrect, please let me know (contact details below).
 	seagrass.png (block/seagrass.png): CF
 	sea_lantern.png (block/sea_lantern.png): CF (PA)
 	sea_pickle.png (block/sea_pickle.png): CF
-	shroomlight.png (block/shroomlight.png): CF
+	shroomlight.png (block/shroomlight.png): CF (PA)
 	shulker_box.png (block/shulker_box.png): CF
 	slime_block.png (block/slime_block.png): Vattic
 	small_amethyst_bud.png (block/small_amethyst_bud.png): CF
@@ -1122,6 +1128,7 @@ If any of these are incorrect, please let me know (contact details below).
 	lingering_potion.png (item/lingering_potion.png): CF
 	magenta_candle.png (item/magenta_candle.png): CF
 	magenta_dye.png (item/magenta_dye.png): CF
+	mangrove_door.png (item/mangrove_door.png): CF (PA)
 	mangrove_propagule.png (item/mangrove_propagule.png): CF (PA)
 	mangrove_sign.png (item/mangrove_sign.png): CF (PA)
 	magma_cream.png (item/magma_cream.png): Vattic
