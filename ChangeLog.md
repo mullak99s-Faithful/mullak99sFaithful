@@ -8,6 +8,11 @@ All notable changes to mullak99's Faithful will be documented in this file.
 ### Changed
 - Changed cocoa_stage2 UV (to reflect model fix in 1.19)
 - Changed bamboo_stage0
+- Changed End Stone Bricks texture
+- Changed Farmland textures
+- Changed Tripwire texture
+- Changed Stray texture
+- Changed Birch Trapdoor texture and model
 
 ## [MC1.18-R4] - 2022-06-09
 ### Changed
