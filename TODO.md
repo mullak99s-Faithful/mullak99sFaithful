@@ -5,12 +5,9 @@
 - assets/minecraft/textures/entity/warden/warden_bioluminescent_layer.png
 - assets/minecraft/textures/entity/warden/warden_pulsating_spots_1.png
 - assets/minecraft/textures/entity/warden/warden_pulsating_spots_2.png
-- assets/minecraft/textures/block/mangrove_door_top.png
-- assets/minecraft/textures/block/mangrove_door_bottom.png
-- assets/minecraft/textures/block/mangrove_trapdoor.png
 
-Matching: 2083 / 2114 (98.53%)
-Missing: 31 / 2114 (1.47%)
+Matching: 2110 / 2115 (99.76%)
+Missing: 5 / 2115 (0.24%)
 
 ## [Minor]
 ### To Add

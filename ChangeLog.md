@@ -12,7 +12,11 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Farmland textures
 - Changed Tripwire texture
 - Changed Stray texture
-- Changed Birch Trapdoor texture and model
+- Changed Shroomlight texture
+
+### Fixed
+- Small model fixes on Oak and Iron trapdoors
+- Model fixes on Boat items
 
 ## [MC1.18-R4] - 2022-06-09
 ### Changed
