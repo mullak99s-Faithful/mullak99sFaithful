@@ -117,7 +117,7 @@ If any of these are incorrect, please let me know (contact details below).
 	birch_log_top.png (block/birch_log_top.png): Vattic
 	birch_planks.png (block/birch_planks.png): Vattic
 	birch_sapling.png (block/birch_sapling.png): CF (PA)
-	birch_trapdoor.png (block/birch_trapdoor.png): CF (PA)
+	birch_trapdoor.png (block/birch_trapdoor.png): mullak99
 	blackstone.png (block/blackstone.png): CF
 	blackstone_top.png (block/blackstone_top.png): CF
 	black_candle.png (block/black_candle.png): CF
@@ -528,6 +528,8 @@ If any of these are incorrect, please let me know (contact details below).
 	magenta_terracotta.png (block/magenta_terracotta.png): CF
 	magenta_wool.png (block/magenta_wool.png): CF
 	magma.png (block/magma.png): CF (PA)
+	mangrove_door_bottom.png (block/mangrove_door_bottom.png): CF (PA)
+	mangrove_door_top.png (block/mangrove_door_top.png): CF (PA)
 	mangrove_leaves.png (block/mangrove_leaves.png): CF (PA)
 	mangrove_log.png (block/mangrove_log.png): CF (PA)
 	mangrove_log_top.png (block/mangrove_log_top.png): CF (PA)
