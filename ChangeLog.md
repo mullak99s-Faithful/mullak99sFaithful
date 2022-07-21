@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [MC1.19-R1] - TBC
+## [MC1.19-R1] - 2022-07-21
 ### Added
 - Added 1.19 textures
 
@@ -13,6 +13,10 @@ All notable changes to mullak99's Faithful will be documented in this file.
 - Changed Tripwire texture
 - Changed Stray texture
 - Changed Shroomlight texture
+- Changes to Cauldron UV
+- Changes to Barrel top textures
+- Changes to Tall Grass and Grass textures
+- Changes to Leather Armour textures
 
 ### Fixed
 - Small model fixes on Oak and Iron trapdoors
