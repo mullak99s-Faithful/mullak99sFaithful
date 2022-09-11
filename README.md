@@ -1,6 +1,6 @@
 # mullak99's Faithful 32x
 
-**Current Branch Version:** _MC1.19-R1_  
+**Current Branch Version:** _MC1.19-R2_DEV220911-1__  
 
 ## Official Links
 
