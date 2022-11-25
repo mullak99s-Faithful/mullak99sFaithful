@@ -8,6 +8,9 @@ All notable changes to mullak99's Faithful will be documented in this file.
 
 ### Changed
 - Changed various textures (newer CF ones)
+- Moved models folder (ctm) to work with >=1.19.3
+- Updated Creative Tabs to new format
+- Moved Steve and Alex textures to new directory
 
 ## [MC1.19-R1] - 2022-07-21
 ### Added
