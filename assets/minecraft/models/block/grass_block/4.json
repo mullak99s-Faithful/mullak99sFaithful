@@ -2,7 +2,7 @@
     "textures": {
         "particle": "block/dirt",
         "bottom": "block/dirt",
-        "top": "ctm/grass_top/4",
+        "top": "m99-ctm:block/grass_block_top_4",
         "side": "block/grass_block_side",
         "overlay": "block/grass_block_side_overlay"
     },

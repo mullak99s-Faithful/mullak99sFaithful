@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "ctm/poppy/0"
+        "cross": "m99-ctm:block/poppy_0"
     }
 }

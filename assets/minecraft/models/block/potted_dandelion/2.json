@@ -1,6 +1,6 @@
 {
     "parent": "block/flower_pot_cross",
     "textures": {
-        "plant": "ctm/dandelion/2"
+        "plant": "m99-ctm:block/dandelion_2"
     }
 }

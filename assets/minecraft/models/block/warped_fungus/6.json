@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "ctm/warped_fungus/6"
+        "cross": "m99-ctm:block/warped_fungus_6"
     }
 }

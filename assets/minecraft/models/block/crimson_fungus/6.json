@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "ctm/crimson_fungus/6"
+        "cross": "m99-ctm:block/crimson_fungus_6"
     }
 }

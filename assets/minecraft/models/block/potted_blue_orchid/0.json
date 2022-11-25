@@ -1,6 +1,6 @@
 {
     "parent": "block/flower_pot_cross",
     "textures": {
-        "plant": "ctm/blue_orchid/0"
+        "plant": "m99-ctm:block/blue_orchid_0"
     }
 }

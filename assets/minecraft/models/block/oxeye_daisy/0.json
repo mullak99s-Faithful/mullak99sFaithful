@@ -1,6 +1,6 @@
 {
     "parent": "block/cross",
     "textures": {
-        "cross": "ctm/oxeye_daisy/0"
+        "cross": "m99-ctm:block/oxeye_daisy_0"
     }
 }

@@ -1,0 +1,15 @@
+{
+    "variants": {
+		"": [
+            { "model": "block/potted_crimson_fungus" },
+            { "model": "block/potted_crimson_fungus/0" },
+            { "model": "block/potted_crimson_fungus/1" },
+			{ "model": "block/potted_crimson_fungus/2" },
+			{ "model": "block/potted_crimson_fungus/3" },
+			{ "model": "block/potted_crimson_fungus/4" },
+			{ "model": "block/potted_crimson_fungus/5" },
+			{ "model": "block/potted_crimson_fungus/6" },
+			{ "model": "block/potted_crimson_fungus/7" }
+        ]
+    }
+}
