@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [MC1.19-R2] - TBC
+## [MC1.19.3-R1] - 2022-12-11
 ### Added
 - Added NoChatReports UI
 - Added missing checkmark.png
