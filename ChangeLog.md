@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [MC1.19.3-R2] - TBC
+### Changed
+- Included new textures from CF (PA)
+
 ## [MC1.19.3-R1] - 2022-12-11
 ### Added
 - Added NoChatReports UI
