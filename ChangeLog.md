@@ -1,9 +1,10 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [MC1.19.3-R2] - TBC
+## [MC1.19.3-R2] - 2022-03-19
 ### Changed
 - Included new textures from CF (PA)
+- Compressed various textures
 
 ## [MC1.19.3-R1] - 2022-12-11
 ### Added
