@@ -1286,7 +1286,7 @@ If any of these are incorrect, please let me know (contact details below).
 	guardian.png (entity/guardian.png): CF
 	guardian_beam.png (entity/guardian_beam.png): CF
 	guardian_elder.png (entity/guardian_elder.png): CF
-	lead_knot.png (entity/lead_knot.png): Vattic
+	lead_knot.png (entity/lead_knot.png): CF (PA)
 	minecart.png (entity/minecart.png): CF (PA)
 	phantom.png (entity/phantom.png): Vattic
 	phantom_eyes.png (entity/phantom_eyes.png): mullak99
@@ -1581,8 +1581,11 @@ If any of these are incorrect, please let me know (contact details below).
 	book.png (gui/book.png): CF
 	chat_tags.png (gui/chat_tags.png): CF
 	checkbox.png (gui/checkbox.png): mullak99
+	checkmark.png (gui/checkmark.png): CF
 	demo_background.png (gui/demo_background.png): mullak99
 	icons.png (gui/icons.png): mullak99
+	info_icon.png (gui/info_icon.png): CF
+	light_dirt_background.png (gui/light_dirt_background.png): Vattic & mullak99
 	options_background.png (gui/options_background.png): Vattic
 	recipe_book.png (gui/recipe_book.png): mullak99
 	recipe_button.png (gui/recipe_button.png): mullak99
@@ -1592,7 +1595,9 @@ If any of these are incorrect, please let me know (contact details below).
 	social_interactions.png (gui/social_interactions.png): mullak99
 	spectator_widgets.png (gui/spectator_widgets.png): mullak99
 	stream_indicator.png (gui/stream_indicator.png): CF
+	tab_button.png (gui/tab_button.png): mullak99
 	toasts.png (gui/toasts.png): mullak99
+	unseen_notification.png (gui/unseen_notification.png): CF
 	widgets.png (gui/widgets.png): mullak99
 	world_selection.png (gui/world_selection.png): mullak99
 	tabs.png (gui/advancements/tabs.png): mullak99
@@ -1621,6 +1626,7 @@ If any of these are incorrect, please let me know (contact details below).
 	inventory.png (gui/container/inventory.png): mullak99
 	loom.png (gui/container/loom.png): mullak99
 	shulker_box.png (gui/container/shulker_box.png): mullak99
+	legacy_smithing.png (gui/container/legacy_smithing.png): mullak99
 	smithing.png (gui/container/smithing.png): mullak99
 	smoker.png (gui/container/smoker.png): mullak99
 	stats_icons.png (gui/container/stats_icons.png): mullak99
@@ -1630,8 +1636,8 @@ If any of these are incorrect, please let me know (contact details below).
 	tab_inventory.png (gui/container/creative_inventory/tab_inventory.png): mullak99
 	tab_items.png (gui/container/creative_inventory/tab_items.png): mullak99
 	tab_item_search.png (gui/container/creative_inventory/tab_item_search.png): mullak99
-	edition.png (gui/title/edition.png): UNKNOWN (fairly sure it was posted in Faithful server)
-	minecraft.png (gui/title/minecraft.png): UNKNOWN (fairly sure it was posted in Faithful server)
+	edition.png (gui/title/edition.png): UNKNOWN (fairly sure it was posted in the Faithful server)
+	minecraft.png (gui/title/minecraft.png): UNKNOWN (fairly sure it was posted in the Faithful server)
 	mojangstudios.png (gui/title/mojangstudios.png): Faithful
 	panorama_0.png (gui/title/background/panorama_0.png): mullak99
 	panorama_1.png (gui/title/background/panorama_1.png): mullak99
@@ -1644,15 +1650,15 @@ If any of these are incorrect, please let me know (contact details below).
 	allium_0.png (block/allium_0.png): Vattic
 	allium_1.png (block/allium_1.png): Vattic
 	azure_bluet_0.png (block/azure_bluet_0.png): Vattic
-	beehive_side_0.png (block/beehive_side_0.png): mullak99 (Based off CF)
-	beehive_side_1.png (block/beehive_side_1.png): mullak99 (Based off CF)
-	beehive_side_2.png (block/beehive_side_2.png): mullak99 (Based off CF)
-	beehive_side_3.png (block/beehive_side_3.png): mullak99 (Based off CF)
-	beehive_side_4.png (block/beehive_side_4.png): mullak99 (Based off CF)
-	beehive_side_5.png (block/beehive_side_5.png): mullak99 (Based off CF)
-	bee_nest_front_honey_partial.png (block/bee_nest_front_honey_partial.png): mullak99 (Based off CF)
-	blue_orchid_.png (block/blue_orchid_0.png): Vattic
-	blue_orchid_.png (block/blue_orchid_1.png): Vattic
+	beehive_side_0.png (block/beehive_side_0.png): mullak99 (Based off CF (PA))
+	beehive_side_1.png (block/beehive_side_1.png): mullak99 (Based off CF (PA))
+	beehive_side_2.png (block/beehive_side_2.png): mullak99 (Based off CF (PA))
+	beehive_side_3.png (block/beehive_side_3.png): mullak99 (Based off CF (PA))
+	beehive_side_4.png (block/beehive_side_4.png): mullak99 (Based off CF (PA))
+	beehive_side_5.png (block/beehive_side_5.png): mullak99 (Based off CF (PA))
+	bee_nest_front_honey_partial.png (block/bee_nest_front_honey_partial.png): mullak99 (Based off CF (PA))
+	blue_orchid_0.png (block/blue_orchid_0.png): Vattic
+	blue_orchid_1.png (block/blue_orchid_1.png): Vattic
 	acacia.png (item/boat/acacia.png): mullak99 (Planks from Vattic, Moss from CF (PA))
 	birch.png (item/boat/birch.png): mullak99 (Planks from Vattic, Moss from CF (PA))
 	dark_oak.png (item/boat/dark_oak.png): mullak99 (Planks from Vattic, Moss from CF (PA))
@@ -1698,7 +1704,7 @@ If any of these are incorrect, please let me know (contact details below).
 	hopper_inside_arrow.png (block/hopper_inside_arrow.png): mullak99
 	hopper_outside_arrow.png (block/hopper_outside_arrow.png): mullak99
 	jukebox_disc.png (block/jukebox_disc.png): mullak99
-	lily_pad_0.png (block/lily_pad_0.png): mullak99
+	lily_pad_alt.png (block/lily_pad_alt.png): mullak99
 	minecart.png (item/minecart.png): CF (PA)
 	chest.png (item/chest.png): Vattic
 	observer_side_off.png (block/observer_side_off.png): mullak99
