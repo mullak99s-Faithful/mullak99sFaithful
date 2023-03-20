@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [MC1.19.4-R1] - 2022-03-19
+### Added
+- Added 1.19.4 textures
+
 ## [MC1.19.3-R2] - 2022-03-19
 ### Changed
 - Included new textures from CF (PA)
