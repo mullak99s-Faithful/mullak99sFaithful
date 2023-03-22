@@ -19,6 +19,7 @@
 
 Site (WIP): https://faithful.mullak99.co.uk/  
 CurseForge Project: https://www.curseforge.com/minecraft/texture-packs/mullak99s-faithful-32x  
+Modrinth: https://modrinth.com/resourcepack/mullak99s-faithful  
 GitHub Repo: https://github.com/mullak99s-Faithful/mullak99sFaithful  
 Direct Downloads: https://builds.mullak99.co.uk/mullak99s-Faithful/  
 
