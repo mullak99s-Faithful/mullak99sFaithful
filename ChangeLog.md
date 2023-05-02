@@ -1,6 +1,20 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [MC1.19.4-R2] - TBC
+### Added
+- Added missing UI textures for Mod Menu, NCR and Visible Toggle Sprint
+
+### Fixed
+- Fixed incorrect Glistering Melon Slice texture
+
+### Changed
+- Switched to ProgArt Iron Ingot, with shape fixes to match newer ingots
+- Shape fix to Gold Ingot
+
+### Removed
+- Removed Custom Enchant Glint
+
 ## [MC1.19.4-R1] - 2022-03-19
 ### Added
 - Added 1.19.4 textures
