@@ -1,6 +1,10 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [MC1.20-R1] - TBC
+### Added
+- Added 1.20 textures
+
 ## [MC1.19.4-R2] - 2023-06-10
 ### Added
 - Added missing UI textures for Mod Menu, NCR and Visible Toggle Sprint

@@ -1,3 +1,8 @@
+## [Major]
+### To Add
+- All textures listed in MissingTextures.txt
+- 3D models for Cherry and Bamboo doors and trapdoors
+
 ## [Minor]
 ### To Add
 - More 3D Models (Crops, Pumpkin, etc.)
