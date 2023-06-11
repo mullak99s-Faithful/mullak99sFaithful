@@ -1,6 +1,6 @@
 # mullak99's Faithful 32x
 
-**Latest 1.20 Version:** [_MC1.19.4-R2_](https://builds.mullak99.co.uk/mullak99s-Faithful/Dev-Branch/mullak99s-Faithful-32x-MC1.20-R1_DEV230610-1.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.20)  
+**Latest 1.20 Version:** [_MC1.20-R1_DEV230612-1_](https://builds.mullak99.co.uk/mullak99s-Faithful/Dev-Branch/mullak99s-Faithful-32x-MC1.20-R1_DEV230612-1.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.20)  
 **Latest 1.19.4 Version:** [_MC1.19.4-R2_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.19.4-R2.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.19.4)  
 **Latest 1.19.3 Version:** [_MC1.19.3-R2_](https://builds.mullak99.co.uk/mullak99s-Faithful/mullak99s-Faithful-32x-MC1.19.3-R2.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.19.3)  
 **Latest 1.19-1.19.2 Version:** [_MC1.19-R2_DEV220911-1_](https://builds.mullak99.co.uk/mullak99s-Faithful/Dev-Branch/mullak99s-Faithful-32x-MC1.19-R2_DEV220911-1.zip) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.19)  
