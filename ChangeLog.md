@@ -4,6 +4,14 @@ All notable changes to mullak99's Faithful will be documented in this file.
 ## [MC1.20-R1] - TBC
 ### Added
 - Added 1.20 textures
+- Added Efe textures
+
+### Changed
+- Included changes from CF (PA)
+
+### Fixed
+- Fixes to Acacia Trapdoor model (handle)
+- Tweaks to Turtle Egg item model
 
 ## [MC1.19.4-R2] - 2023-06-10
 ### Added
