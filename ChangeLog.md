@@ -5,6 +5,7 @@ All notable changes to mullak99's Faithful will be documented in this file.
 ### Added
 - Added 1.20 textures
 - Added Efe textures
+- Added 1.20.2 UI support as an overlay
 
 ### Changed
 - Included changes from CF (PA)
