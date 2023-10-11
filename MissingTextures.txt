@@ -1,7 +1,3 @@
-assets/minecraft/textures/block/suspicious_gravel_3.png
-assets/minecraft/textures/block/suspicious_gravel_2.png
-assets/minecraft/textures/block/suspicious_gravel_1.png
-assets/minecraft/textures/block/suspicious_gravel_0.png
 assets/minecraft/textures/entity/player/slim/makena.png
 assets/minecraft/textures/entity/player/slim/kai.png
 assets/minecraft/textures/entity/player/slim/sunny.png
