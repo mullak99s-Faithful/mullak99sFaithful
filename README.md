@@ -15,10 +15,10 @@
 **Latest 1.10.x Version:** [_MC1.10-R5_](https://builds.mullak99.co.uk/mullak99s-Faithful/1.10/latest.php) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.10)   
 **Latest 1.9.x Version:** [_MC1.9-R3_](https://builds.mullak99.co.uk/mullak99s-Faithful/1.9/latest.php) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.9)   
 **Latest 1.8.x Version:** [_MC1.8-R4_](https://builds.mullak99.co.uk/mullak99s-Faithful/1.8/latest.php) | [Git Branch](https://github.com/mullak99s-Faithful/mullak99sFaithful/tree/1.8)  
-**Latest 1.7.x Version:** [_MC1.8-R4_](https://builds.mullak99.co.uk/mullak99s-Faithful/1.7/latest.php)  
-**Latest 1.6.x Version:** [_MC1.8-R4_](https://builds.mullak99.co.uk/mullak99s-Faithful/1.6/latest.php)  
-**Latest 1.5.x Version:** [_MC1.8-R4_](https://builds.mullak99.co.uk/mullak99s-Faithful/1.5/latest.php)  
-**Latest 1.4.x Version:** [_MC1.8-R4_](https://builds.mullak99.co.uk/mullak99s-Faithful/1.4/latest.php)  
+**Latest 1.7.x Version:** [_MC1.7-R7_](https://builds.mullak99.co.uk/mullak99s-Faithful/1.7/latest.php)  
+**Latest 1.6.x Version:** [_MC1.6-R3_](https://builds.mullak99.co.uk/mullak99s-Faithful/1.6/latest.php)  
+**Latest 1.5.x Version:** [_MC1.5-R3_](https://builds.mullak99.co.uk/mullak99s-Faithful/1.5/latest.php)  
+**Latest 1.4.x Version:** [_MC1.4-R5_](https://builds.mullak99.co.uk/mullak99s-Faithful/1.4/latest.php)  
 
 ## Official Links
 
