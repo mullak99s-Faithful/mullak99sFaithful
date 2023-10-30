@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [MC1.20-R1] - TBC
+## [MC1.20-R1] - 2023-10-30
 ### Added
 - Added 1.20 textures
 - Added Player textures
