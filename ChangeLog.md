@@ -1,14 +1,15 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [MC1.20-R1] - TBC
+## [MC1.20-R1] - 2023-10-30
 ### Added
 - Added 1.20 textures
-- Added Efe textures
+- Added Player textures
 - Added 1.20.2 UI support as an overlay
 
 ### Changed
 - Included changes from CF (PA)
+- Reworked sounds
 
 ### Fixed
 - Fixes to Acacia Trapdoor model (handle)
