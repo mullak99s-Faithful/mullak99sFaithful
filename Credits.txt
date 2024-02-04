@@ -257,6 +257,7 @@ If any of these are incorrect, please let me know (contact details below).
 	cracked_nether_bricks.png (block/cracked_nether_bricks.png): CF (PA)
 	cracked_polished_blackstone_bricks.png (block/cracked_polished_blackstone_bricks.png): CF
 	cracked_stone_bricks.png (block/cracked_stone_bricks.png): Vattic
+	[All Crafter textures]: CF (PA)
 	crafting_table_front.png (block/crafting_table_front.png): Vattic
 	crafting_table_side.png (block/crafting_table_side.png): Vattic
 	crafting_table_top.png (block/crafting_table_top.png): CF
@@ -778,6 +779,7 @@ If any of these are incorrect, please let me know (contact details below).
 	seagrass.png (block/seagrass.png): CF
 	sea_lantern.png (block/sea_lantern.png): CF (PA)
 	sea_pickle.png (block/sea_pickle.png): CF
+	short_grass.png (block/short_grass.png): CF (PA)
 	shroomlight.png (block/shroomlight.png): CF (PA)
 	shulker_box.png (block/shulker_box.png): CF
 	slime_block.png (block/slime_block.png): Vattic

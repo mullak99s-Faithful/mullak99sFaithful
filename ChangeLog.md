@@ -1,6 +1,14 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [MC1.20-R2] - 2024-02-04
+### Added
+- Added 1.20.3 short_grass as an overlay
+- Added various 1.21 snapshot textures
+
+### Changed
+- Included changes from CF (PA)
+
 ## [MC1.20-R1] - 2023-10-30
 ### Added
 - Added 1.20 textures
