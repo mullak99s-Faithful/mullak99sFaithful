@@ -5,7 +5,10 @@ All notable changes to mullak99's Faithful will be documented in this file.
 ### Added
 - Added 1.21 textures
 
-## [MC1.20-R3] - TBC
+### Changed
+- Changed lanterns to use the same model
+
+## [MC1.20-R3] - 2025-11-15
 ### Added
 - Added 1.20.5 textures
 
