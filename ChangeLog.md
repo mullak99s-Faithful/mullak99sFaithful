@@ -1,6 +1,20 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
+## [MC1.21-R1] - TBC
+### Added
+- Added 1.21 textures
+
+### Changed
+- Changed lanterns to use the same model
+
+## [MC1.20-R3] - 2025-11-15
+### Added
+- Added 1.20.5 textures
+
+### Changed
+- Included changes from CF (PA)
+
 ## [MC1.20-R2] - 2024-02-04
 ### Added
 - Added 1.20.3 short_grass as an overlay
