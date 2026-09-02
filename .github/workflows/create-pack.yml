@@ -67,7 +67,7 @@ jobs:
       - name: Construct release name
         id: construct_release_name
         run: |
-          base_name="${{ env.PACK_NAME_SPACE }} | ${{ steps.get_version.outputs.RELYEAR }}-r${{ steps.get_version.outputs.RELVERSION }}"
+          base_name="${{ env.PACK_NAME_SPACE }} | ${{ steps.get_version.outputs.RELYEAR }}-R${{ steps.get_version.outputs.RELVERSION }}"
           if [[ -n "${{ steps.get_version.outputs.RELSUBVERSION }}" ]]; then
             relsubversion="${{ steps.get_version.outputs.RELSUBVERSION }}"
             relsubversion="${relsubversion//-/ }"
