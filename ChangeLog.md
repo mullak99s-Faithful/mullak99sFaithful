@@ -1,7 +1,12 @@
 # Changelog
 All notable changes to mullak99's Faithful will be documented in this file.
 
-## [MC1.21-R1] - TBC
+## [2026-r1] - 2026-09-02
+### Added
+- Added 26.1.x textures
+- Added 26.2 textures
+
+## [MC1.21-R1] - 2026-09-02
 ### Added
 - Added 1.21 textures
 
